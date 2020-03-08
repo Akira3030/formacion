@@ -1,3 +1,7 @@
 theme: jekyll-theme-cayman
 title: Mi página personal
 description: mi primera página
+plugins:
+  - jekyll-redirect-from
+  - jekyll-paginate
+paginate: 7
