@@ -1,8 +1,6 @@
 # formacion
 
-<div style="border:1px solid red">
-[a Flask](flask.md)
-</div>
 
+[a Flask](flask.md)
 [a Python](python.md)
 
