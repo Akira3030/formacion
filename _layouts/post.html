@@ -1,0 +1,13 @@
+---
+layout: default
+---
+
+<article>
+  <h2>{{ page.title }}</h2>
+  
+  {{ content }}
+</article>
+
+<time datetime="{{ page.date | date: "%Y-%m-%d" }}">{{ page.date | date: "%d/%m/%Y" }}</time> por {{ site.author }}
+
+{% include share.html url=page.url %}
