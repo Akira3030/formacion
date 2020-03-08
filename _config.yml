@@ -1,7 +1,12 @@
-theme: jekyll-theme-cayman
-title: Tituo puesto en el config.yml
-description: mi primera página, esto esta escrito en config.yml
+url: https://example.com/
+baseurl: ""
+
+title: Mi nuevo blog usando Jekyll
+author: Miguel Granadino Segura
+
 plugins:
-  - jekyll-redirect-from
   - jekyll-paginate
-paginate: 7
+
+# número de posts por página
+paginate: 5
+
