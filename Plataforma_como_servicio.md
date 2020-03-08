@@ -1,1 +1,0 @@
-# Plataforma como servicio (Paas)
