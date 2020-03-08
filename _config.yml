@@ -1,6 +1,6 @@
 theme: jekyll-theme-cayman
-title: Mi página personal
-description: mi primera página
+title: Tituo puesto en el config.yml
+description: mi primera página, esto esta escrito en config.yml
 plugins:
   - jekyll-redirect-from
   - jekyll-paginate
