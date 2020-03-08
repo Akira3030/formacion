@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Página principal
+title: Este es el título del index.md
 ---
 
 este es el contenido
