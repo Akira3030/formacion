@@ -1,28 +1,30 @@
 <!DOCTYPE html>
 <html>
-    
   <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
     <title>{{ page.title }}</title>
     <link rel="stylesheet" href="/assets/css/estilo.css">
+    <link href="/atom.xml" rel="alternate" type="application/atom+xml"> 
   </head>
-    
   <body>
-      
-      
     <header>
       <div class="content">
         <h1><a href="/">{{ site.title }}</a></h1>
       </div>
     </header>
-      
-      
     <main>
       <div class="content">
         {{ content }}
       </div>
     </main>
+    <footer>
+      <div class="content">
+        <p>&copy; {{ "now" | date: "%Y" }} {{ site.author }}</p>
+      </div>
+    </footer>
+  </body>
+</html>
       
       
     <footer>
