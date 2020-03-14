@@ -4,8 +4,8 @@ title: Página principal
 ---
 
 * [Python](./test.md)
-* [Entorno Virtual](../test.md)
-* [Writing faster Python](test.md)
+* [Entorno Virtual](./test.md)
+* [Writing faster Python](./test.md)
 * [Guia basica de como utiliar Git](./pages/about.md)
 * [Listado de PaaS para subir aplicaciones](./pages/about.md)
 * [Como utilizar Heroku](./pages/about.md)
