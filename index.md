@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Página principal
+title: coronavirus
 ---
 
 aasasaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
