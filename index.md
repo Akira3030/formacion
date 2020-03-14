@@ -3,9 +3,9 @@ layout: default
 title: Página principal
 ---
 
-* [Python](./_pages/about.md)
-* [Entorno Virtual](./pages/about.md)
-* [Writing faster Python](./pages/about.md)
+* [Python](./test.md)
+* [Entorno Virtual](../test.md)
+* [Writing faster Python](test.md)
 * [Guia basica de como utiliar Git](./pages/about.md)
 * [Listado de PaaS para subir aplicaciones](./pages/about.md)
 * [Como utilizar Heroku](./pages/about.md)
