@@ -1,3 +1,8 @@
+---
+layout: default
+title: "Entorno virtual"
+---
+
 # Listado de PaaS para subir aplicaciones
 
 PaaS = platform as a service --> plataforma como servicio
