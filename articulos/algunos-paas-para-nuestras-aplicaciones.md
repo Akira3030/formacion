@@ -1,12 +1,15 @@
+# Listado de PaaS para subir aplicaciones
+
 PaaS = platform as a service --> plataforma como servicio
-### Heroku
+
+## Heroku
 https://www.heroku.com
-### Linode
+## Linode
 https://www.linode.com/
-### DigitalOcean
+## DigitalOcean
 https://www.digitalocean.com/
-### AWS Lightsail
+## AWS Lightsail
 https://aws.amazon.com/es/lightsail/
 
-### PythonAnywhere
+## PythonAnywhere
 https://www.pythonanywhere.com/
