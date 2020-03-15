@@ -2,6 +2,7 @@
 layout: default
 title: "Entorno virtual"
 ---
+<article class="markdown-body">
 
 ## Entorno virtual
 pip --> sistema de gestión de paquetes.</br>
@@ -33,3 +34,5 @@ deactivate
 # Instalar todas las dependencias y asi tener entornos identicos
 (entorno4)$ pip install -r requirements.txt
 ```
+
+</article>
