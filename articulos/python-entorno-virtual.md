@@ -32,3 +32,4 @@ deactivate
 (entorno3)$ pip freeze > requirements.txt
 # Instalar todas las dependencias y asi tener entornos identicos
 (entorno4)$ pip install -r requirements.txt
+```
