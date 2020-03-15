@@ -1,6 +1,6 @@
- # Problemas de código y sus soluciones
+# Problemas de código y sus soluciones
  
- ## Problemas
+## Problemas
 - Evitar el código espagueti
 - **Código altamente acoplado**: al framework, a librerias y entre las clases
 - Sobre carga de responsabilidades: ejemplo controladores obesos
