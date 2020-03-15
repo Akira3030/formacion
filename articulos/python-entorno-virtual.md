@@ -3,13 +3,10 @@ layout: default
 title: "Entorno virtual"
 ---
 
-## Entorno virtual
+# Entorno virtual
 pip --> sistema de gestión de paquetes.
-
 Python Package Index (PyPI) --> que es el repositorio de paquetes oficial.
-
 virtualenv --> herramienta para crear entornos virtuales.
-
 venv --> módulo oficial del lenguaje que a partir de la versión 3.3 nos permite crear entornos virtuales
 
 ```sh
