@@ -24,7 +24,7 @@ id_user = uuid.uuid1())
 Separar el dominio de la aplicación.
  
 ## 3) Tell don't ask
- ### No usar getters y setters
+### No usar getters y setters
  - Añadir un constructor para rellenar los atributos de clase
  - Usar atributos de clase privados y sin setters
  - Evitar exponer la escritura de sus atributos (hacerlos privados, y no tener setters/getters).
@@ -33,20 +33,17 @@ Separar el dominio de la aplicación.
  - Meter las validaciones de los atributos dentro de las clases. Como metodos privados.
  - El modelo de domino ya no es anemico.
  
- ### Esconder los detalles de implentación de las clases
+### Esconder los detalles de implentación de las clases
  - Si modificamos algun metodo privado de nuestra clase ese cambio no afectara a otras clases.
  - Si hay muchas otras clases que usen metodos de nuestras clases cuando cambiemos esos metodos tambien tendremos que cambiar el resto de clases que la usan (por eso hay que evitar el acoplamiento entre clases).
  
- 
- ## 4) Modelo de domios anemicos (anti-patrón de DDD)
+## 4) Modelo de domios anemicos (anti-patrón de DDD)
  - Solo tienen atributos sin comportamiento
  - Por lo tanto son DTOs (Data Transfer Objectos)
  
- 
- ## 5) Testing
+## 5) Testing
  - Diseñar la clase sabiendo que debera ser testeada
- 
- ## 6) Excepciones del dominio
+## 6) Excepciones del dominio
  - Una excepción exprese unívocamente un comportamiento inesperado y pueda capturarse de manera única
  - Esto nos va a ayudar con la semántica del código y proporcionar unos errores más semánticos
  - La excepción está hablando nuestro lenguaje de dominio
@@ -73,9 +70,7 @@ if not self.exist_user_in_bd(user_id):
       raise CityNotAllowedException(user.city)
  
   ```
- 
- 
- ## 7) Clausulas de guarda
+## 7) Clausulas de guarda
 
 Una clausula de guarda es una pieza de código que normalmente está al comienzo del método y comprueba una serie de condiciones para continuar con la ejecución o cortarla. Es muy usada cuando **programamos sin usar else** (lo cual es una muy buena práctica para mantener un código limpio y entendible), cuando no queremos tener muchos niveles de identación del código y para ayudar a mejorar la legibilidad y semántica del código.
 
@@ -106,8 +101,8 @@ Una clausula de guarda es una pieza de código que normalmente está al comienzo
   ...
  
  ```
- 
- ## 8) Composición sobre herencia
+
+## 8) Composición sobre herencia
  
  - Mejor componer las clases a heredar de otras clases
  - ¿Y si tienes código común?¿heredar?
