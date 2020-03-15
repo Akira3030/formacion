@@ -1,5 +1,9 @@
 
-# Site Settings
+# Inicio
+title: Articulos
+name: Articulos
+description: site personal de Miguel Granadino
+timezone: Europe/Madrid
 
 # Site Author
 
@@ -14,6 +18,9 @@
 
 # Defaults
 
-# Plugins
+plugins:
+  - jekyll-paginate
+  - jekyll-sitemap
+  - jemoji
 
 
