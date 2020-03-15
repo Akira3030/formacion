@@ -3,7 +3,7 @@ layout: default
 title: Articulos
 ---
 
-* Artículos
+Artículos
 
 * [Python](test.md)
 * [Entorno Virtual](articulos/python-entorno-virtual.md)
@@ -18,6 +18,6 @@ title: Articulos
 * [Clean architecture](articulos/)
 * [Listado de Code smell](articulos/lista-de-code-smells.md)
 
-I give this plugin two :+1:!
+ :+1:
 
 
