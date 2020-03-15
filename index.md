@@ -3,8 +3,6 @@ layout: default
 title: Articulos
 ---
 
-Artículos
-
 * [Python](test.md)
 * [Entorno Virtual](articulos/python-entorno-virtual.md)
 * [Writing faster Python](articulos/written-faster-python.md)
