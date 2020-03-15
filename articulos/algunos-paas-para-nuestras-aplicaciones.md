@@ -11,7 +11,7 @@ PaaS = platform as a service --> plataforma como servicio
 [https://www.heroku.com](https://www.heroku.com)
 
 ## Linode
-[https://www.linode.com]([https://www.linode.com)
+[https://www.linode.com](https://www.linode.com)
 
 ## DigitalOcean
 [https://www.digitalocean.com](https://www.digitalocean.com)
