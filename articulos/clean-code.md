@@ -1,6 +1,6 @@
-## clean architecture
+# Clean code
 
-### 1) Identificadores UUIDs
+## 1) Identificadores UUIDs
 
 - Este tipo de identificadores son útiles para evitar delegar la responsabilidad de generación de IDs a nuestra infraestructura. 
 - Dado que los UUIDs son generados de forma aleatoria, y con una probabilidad despreciable de colisión, podemos hacer que nuestras entidades tengan el identificador como uno de los parámetros necesarios para ser construidos.
@@ -12,13 +12,13 @@ import uuid
 id_user = uuid.uuid1())
 ```
 
-### 2) Desacoplar del framework
+## 2) Desacoplar del framework
 - No estamos obligados a usar la estructura de directorios del framework.
 - Desacoplarnos de la estructura de directorios marcada por los frameworks, y cómo podemos llegar a hacerlo.
 - ¿Qué beneficios tiene saltarte esto? si sale una nueva versión del framework.
 Separar el dominio de la aplicación.
  
- ### 3) Tell don't ask
+## 3) Tell don't ask
  <b>No usar getters y setters</b>
  - Añadir un constructor para rellenar los atributos de clase
  - Usar atributos de clase privados y sin setters
@@ -36,15 +36,15 @@ Separar el dominio de la aplicación.
  
  
  
- ### 4) Modelo de domios anemicos (anti-patrón de DDD)
+ ## 4) Modelo de domios anemicos (anti-patrón de DDD)
  - Solo tienen atributos sin comportamiento
  - Por lo tanto son DTOs (Data Transfer Objectos)
  
  
- ### 4) Testing
+ ## 5) Testing
  - Diseñar la clase sabiendo que debera ser testeada
  
- ### 5) Excepciones del dominio
+ ## 6) Excepciones del dominio
  - Una excepción exprese unívocamente un comportamiento inesperado y pueda capturarse de manera única
  - Esto nos va a ayudar con la semántica del código y proporcionar unos errores más semánticos
  - La excepción está hablando nuestro lenguaje de dominio
@@ -73,7 +73,7 @@ if not self.exist_user_in_bd(user_id):
   ```
  
  
- ### 6) Clausulas de guarda
+ ## 7) Clausulas de guarda
 
 Una clausula de guarda es una pieza de código que normalmente está al comienzo del método y comprueba una serie de condiciones para continuar con la ejecución o cortarla. Es muy usada cuando **programamos sin usar else** (lo cual es una muy buena práctica para mantener un código limpio y entendible), cuando no queremos tener muchos niveles de identación del código y para ayudar a mejorar la legibilidad y semántica del código.
 
@@ -105,7 +105,7 @@ Una clausula de guarda es una pieza de código que normalmente está al comienzo
  
  ```
  
- ### 7) Composición sobre herencia
+ ## 8) Composición sobre herencia
  
  - Mejor componer las clases a heredar de otras clases
  - ¿Y si tienes código común?¿heredar?
