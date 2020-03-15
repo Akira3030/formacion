@@ -114,13 +114,9 @@ Tras hacer todos estos cambios, si activamos el proceso de conversión desde la 
 
 
 ### Liquid
-Jekyll usa Liquid – a templating language that uses objects, tags and filters. We use the object tag surrounded by double braces {{ }} to output front matter variables and a brace and percentage sign for logic {%  %}.
+Jekyll usa Liquid – a templating language that uses objects, tags and filters. We use the object tag surrounded by double braces {{ }} to output front matter variables and a brace and percentage sign for logic.
 
-```
-{% for item in site.data.navigation %}
-     <a href="{{ site.baseurl }}/{{ item.link }}" {% if page.url == item.link %}class="current"{% endif %}>{{ item.name }}</a>
-{% endfor %}
-```
+
 
 ### Markdown
 
