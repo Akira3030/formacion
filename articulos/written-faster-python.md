@@ -1,13 +1,18 @@
-## Writing faster Python
+---
+layout: default
+title: "Writing faster Python"
+---
 
-### Ordenar una lista
+# Writing faster Python
+
+## Ordenar una lista
 
  ```python
 sorted(MILLION_RANDOM_NUMBERS) # 467ms
 MILLION_RANDOM_NUMBERS.sort() # 77.6 ms (6 veces más rapido)
  ```
  
-### Validar si una lista esta vacia
+## Validar si una lista esta vacia
 
  ```python
 if len(mi_lista) == 0 # 91.7ns
@@ -17,7 +22,7 @@ if mi_lista == [] # 56.3 ns
 if not a mi_lista # 32.4ns
  ```
  
- ### List() o []
+ ## List() o []
  
  ```python
 List() # 104 ns
@@ -25,7 +30,7 @@ List() # 104 ns
 [] # 22.5 ns
 ```
 
-### Contar numero de elementos en una lista
+## Contar numero de elementos en una lista
 
 ```python
 count = 0
@@ -36,7 +41,7 @@ print count
 print len(MILLION_RANDOM_NUMBERS) # 96 ns (274000 veces más rapido)
  ```
  
- ### Filtrar una lista
+ ## Filtrar una lista
  
  ```python
  output = []
@@ -47,7 +52,7 @@ print len(MILLION_RANDOM_NUMBERS) # 96 ns (274000 veces más rapido)
  [item for item in MILLON_NUMBERS if item % 2] # 127 ms
  ```
  
- ### Borrar elementos de una lista
+ ## Borrar elementos de una lista
  
  ```python
 
@@ -59,7 +64,7 @@ for element in MILLON_NUMBERS:
 set(MILLON_NUMBERS) # 19,3 ms (400 veces más rapido)
 ```
 
-### Validar true
+## Validar true
 
  ```python
  if variable == True: # 35.8 ns
