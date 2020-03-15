@@ -10,7 +10,7 @@ title: coronavirus
 * [Listado de PaaS para subir aplicaciones](./pages/about.md)
 * [Como utilizar Heroku](./pages/about.md)
 * [Como utilizar Docker para desplegar aplicaciones](./pages/about.md)
-* [Listado resumido de Clean code](./pages/about.md)
+* [Listado resumido de Clean code](articulos/clean-code.md)
 * [Principios de diseño. SOLID](./pages/about.md)
 * [Clean architecture](./pages/about.md)
 * [Listado de Code smell](./pages/about.md)
