@@ -1,4 +1,9 @@
-## Github
+---
+layout: default
+title: "Entorno virtual"
+---
+
+# Guia basica de como utiliar Git y GitHub
 
 https://www.githubstatus.com/
 
