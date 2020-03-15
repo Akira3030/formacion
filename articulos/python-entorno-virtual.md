@@ -1,3 +1,8 @@
+---
+layout: default
+title: "Entorno virtual"
+---
+
 ## Entorno virtual
 pip --> sistema de gestión de paquetes.</br>
 Python Package Index (PyPI) --> que es el repositorio de paquetes oficial.</br>
