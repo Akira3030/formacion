@@ -5,25 +5,4 @@ name: Articulos
 description: site personal de Miguel Granadino
 timezone: Europe/Madrid
 
-lsi: false
-safe: true
-highlighter: rouge
-gist:
-  noscript: false
-kramdown:
-  math_engine: mathjax
-  input: GFM
-  syntax_highlighter: rouger
-
-
-plugins:
-  - jekyll-paginate
-  - jekyll-sitemap
-  - jemoji
-  - jekyll-avatar
-  - jekyll-redirect-from
-  - jekyll-seo-tag
-  - jekyll-coffeescript
-  - jekyll-sitemap
-  - jekyll-octicons
 
