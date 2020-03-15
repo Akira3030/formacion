@@ -7,6 +7,7 @@ title: Articulos
 * [Entorno Virtual](articulos/python-entorno-virtual.md)
 * [Writing faster Python](articulos/written-faster-python.md)
 * [Guia basica de como utiliar Git](articulos/trabajando-con-github.md)
+* [Diseñando una aplicación](articulos/disenando-una-aplicacion.md)
 * [Listado de PaaS para subir aplicaciones](articulos/algunos-paas-para-nuestras-aplicaciones.md)
 * [Como utilizar Heroku](articulos/usando-heroku-para-nuestras-aplicaciones.md)
 * [Como utilizar Docker para desplegar aplicaciones](articulos/desplegando-aplicaciones-con-docker.md)
