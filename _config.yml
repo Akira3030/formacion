@@ -1,9 +1,12 @@
 
-# Inicio
 title: Articulos
 name: Articulos
 description: site personal de Miguel Granadino
 timezone: Europe/Madrid
 site_url: https://akira3030.github.io/formacion
+
+
+plugins:
+ - jemoji
 
 
