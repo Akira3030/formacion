@@ -1,3 +1,8 @@
+---
+layout: default
+title: "Problemas de código y sus soluciones"
+---
+
 # Problemas de código y sus soluciones
  
 ## Problemas
