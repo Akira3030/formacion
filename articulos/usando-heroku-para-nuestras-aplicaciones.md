@@ -1,4 +1,9 @@
-## Heroku 
+---
+layout: default
+title: "Como utilizar Heroku"
+---
+
+# Como utilizar Heroku 
 https://www.heroku.com/<br>
 <p>PaaS = platform as a service. Soporta varios lenguajes: Ruby, Java, Node.js, Scala, Clojure, Python, PHP y Go.</p>
 Crear una cuenta en Heroku <br>
@@ -11,7 +16,7 @@ web: gunicorn mysite.wsgi --log-file -
 ```
 
 
-### Heroku CLI
+## Heroku CLI
 
 CLI = Command Line Interface
 ```sh
