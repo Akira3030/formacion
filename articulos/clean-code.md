@@ -24,7 +24,7 @@ id_user = uuid.uuid1())
 Separar el dominio de la aplicación.
  
 ## 3) Tell don't ask
- <b>No usar getters y setters</b>
+ ### No usar getters y setters
  - Añadir un constructor para rellenar los atributos de clase
  - Usar atributos de clase privados y sin setters
  - Evitar exponer la escritura de sus atributos (hacerlos privados, y no tener setters/getters).
@@ -33,12 +33,9 @@ Separar el dominio de la aplicación.
  - Meter las validaciones de los atributos dentro de las clases. Como metodos privados.
  - El modelo de domino ya no es anemico.
  
- <b>Esconder los detalles de implentación de las clases</b>
+ ### Esconder los detalles de implentación de las clases
  - Si modificamos algun metodo privado de nuestra clase ese cambio no afectara a otras clases.
  - Si hay muchas otras clases que usen metodos de nuestras clases cuando cambiemos esos metodos tambien tendremos que cambiar el resto de clases que la usan (por eso hay que evitar el acoplamiento entre clases).
- 
- [TellDontAsk](https://martinfowler.com/bliki/TellDontAsk.html)
- 
  
  
  ## 4) Modelo de domios anemicos (anti-patrón de DDD)
