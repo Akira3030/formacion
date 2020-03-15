@@ -3,7 +3,7 @@ layout: default
 title: coronavirus
 ---
 
-* [Python](./pages/about.md)
+* [Python](test.md)
 * [Entorno Virtual](./pages/about.md)
 * [Writing faster Python](./pages/about.md)
 * [Guia basica de como utiliar Git](./pages/about.md)
