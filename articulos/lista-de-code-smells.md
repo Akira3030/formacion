@@ -1,0 +1,2 @@
+- Código dificil de entender
+- Código dificil de modificar
