@@ -1,3 +1,8 @@
+---
+layout: default
+title: "Docker"
+---
+
 # Docker
 Hay dos versiones de Docker:<br>
 Free community edition (CE) --> la que usaremos<br>
