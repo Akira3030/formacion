@@ -1,3 +1,8 @@
+---
+layout: default
+title: "Clean code"
+---
+
 # Clean code
 
 ## 1) Identificadores UUIDs
