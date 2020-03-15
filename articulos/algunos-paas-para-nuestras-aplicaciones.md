@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "Entorno virtual"
+title: "Listado de PaaS"
 ---
 
 # Listado de PaaS para subir aplicaciones
