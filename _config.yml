@@ -5,18 +5,17 @@ name: Articulos
 description: site personal de Miguel Granadino
 timezone: Europe/Madrid
 
-# Site Author
+lsi: false
+safe: true
+source: [your repo's top level directory]
+incremental: false
+highlighter: rouge
+gist:
+  noscript: false
+kramdown:
+  math_engine: mathjax
+  syntax_highlighter: rouger
 
-
-# Reading Files
-
-# Conversion
-
-# Markdown Processing
-
-# Collections
-
-# Defaults
 
 plugins:
   - jekyll-paginate
