@@ -1,7 +1,9 @@
 ---
 layout: default
-title: coronavirus
+title: Articulos
 ---
+
+* Artículos
 
 * [Python](test.md)
 * [Entorno Virtual](articulos/python-entorno-virtual.md)
@@ -10,7 +12,8 @@ title: coronavirus
 * [Listado de PaaS para subir aplicaciones](articulos/algunos-paas-para-nuestras-aplicaciones.md)
 * [Como utilizar Heroku](articulos/usando-heroku-para-nuestras-aplicaciones.md)
 * [Como utilizar Docker para desplegar aplicaciones](articulos/desplegando-aplicaciones-con-docker.md)
-* [Listado resumido de Clean code](articulos/clean-code.md)
+* [Problemas de código y sus soluciones](articulos/clean-code.md)
+* [Listado resumido de Clean code](articulos/problemas-y-soluciones.md)
 * [Principios de diseño. SOLID](articulos/)
 * [Clean architecture](articulos/)
 * [Listado de Code smell](articulos/lista-de-code-smells.md)
