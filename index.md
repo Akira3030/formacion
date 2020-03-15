@@ -4,8 +4,8 @@ title: coronavirus
 ---
 
 * [Python](test.md)
-* [Entorno Virtual](./pages/about.md)
-* [Writing faster Python](./pages/about.md)
+* [Entorno Virtual](articulos/python-entorno-virtual.md)
+* [Writing faster Python](./articulos/python-entorno-virtual.md)
 * [Guia basica de como utiliar Git](./pages/about.md)
 * [Listado de PaaS para subir aplicaciones](./pages/about.md)
 * [Como utilizar Heroku](./pages/about.md)
