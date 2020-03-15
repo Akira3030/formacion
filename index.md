@@ -15,4 +15,6 @@ title: coronavirus
 * [Clean architecture](./pages/about.md)
 * [Listado de Code smell](./pages/about.md)
 
+I give this plugin two :+1:!
+
 
