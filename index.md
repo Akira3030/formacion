@@ -12,7 +12,7 @@ title: Articulos
 * [Como utilizar Heroku](articulos/usando-heroku-para-nuestras-aplicaciones.md)
 * [Como utilizar Docker para desplegar aplicaciones](articulos/desplegando-aplicaciones-con-docker.md)
 * [Problemas de código y sus soluciones](articulos/clean-code.md)
-* [Listado resumido de Clean code](articulos/problemas-y-soluciones.md)
+* :dart: [Listado resumido de Clean code](articulos/problemas-y-soluciones.md) :trophy:
 * :dart: [Principios de diseño. SOLID](articulos/) :trophy:
 * :dart: [Clean architecture](articulos/) :trophy:
 * [Listado de Code smell](articulos/lista-de-code-smells.md)
