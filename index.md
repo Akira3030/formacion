@@ -13,6 +13,6 @@ title: Articulos
 * [Como utilizar Docker para desplegar aplicaciones](articulos/desplegando-aplicaciones-con-docker.md)
 * [Problemas de código y sus soluciones](articulos/clean-code.md)
 * [Listado resumido de Clean code](articulos/problemas-y-soluciones.md)
-* [Principios de diseño. SOLID](articulos/)
-* [Clean architecture](articulos/)
+* :dart: [Principios de diseño. SOLID](articulos/) :trophy:
+* :dart: [Clean architecture](articulos/) :trophy:
 * [Listado de Code smell](articulos/lista-de-code-smells.md)
