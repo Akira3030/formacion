@@ -3,9 +3,9 @@ layout: default
 title: Articulos
 ---
 
-* [Python - Entorno Virtual](articulos/python-entorno-virtual.md) 
-* [Python - Writing faster](articulos/written-faster-python.md)
-* [Python - Flask con Gunicornio y Docker](python-flask-gunicorn-docker.md)  :+1:
+* [Python - Entorno Virtual](articulos/python-entorno-virtual.md) :snake:
+* [Python - Writing faster](articulos/written-faster-python.md) :snake:
+* [Python - Flask con Gunicornio y Docker](python-flask-gunicorn-docker.md) :snake:
 * [Guia basica de como utiliar Git](articulos/trabajando-con-github.md)
 * [Diseñando una aplicación](articulos/disenando-una-aplicacion.md)
 * [Listado de PaaS para subir aplicaciones](articulos/algunos-paas-para-nuestras-aplicaciones.md)
