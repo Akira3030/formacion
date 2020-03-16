@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "Python Flask Gunicornio Docker"
+title: "Python - Flask - Gunicornio - Docker"
 ---
 
 # Python Flask Gunicornio Docker
