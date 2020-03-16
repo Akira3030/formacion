@@ -5,9 +5,9 @@ title: "Entorno virtual"
 
 # Guia basica de como utiliar Git y GitHub
 
-https://www.githubstatus.com/
+[https://www.githubstatus.com](https://www.githubstatus.com)
 
-https://help.github.com/es
+[https://help.github.com/es](https://help.github.com/es)
 
 ```sh
 
