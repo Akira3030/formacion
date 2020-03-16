@@ -3,7 +3,7 @@ layout: default
 title: "Entorno virtual"
 ---
 
-# Entorno virtual
+# Entorno virtual :snake:
 pip --> sistema de gestión de paquetes.
 Python Package Index (PyPI) --> que es el repositorio de paquetes oficial.
 virtualenv --> herramienta para crear entornos virtuales.
