@@ -3,7 +3,7 @@ layout: default
 title: "Clean code"
 ---
 
-# Clean code
+# :dart: Clean code :trophy:
 
 ## 1) Identificadores UUIDs
 
