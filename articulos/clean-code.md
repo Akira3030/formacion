@@ -5,6 +5,8 @@ title: "Clean code"
 
 # :dart: Clean code :trophy:
 
+![]({{ site.site_url }}/assets/img/home-office-336373_1920.jpg)
+
 ## 1) Identificadores UUIDs
 
 - Este tipo de identificadores son útiles para evitar delegar la responsabilidad de generación de IDs a nuestra infraestructura. 
