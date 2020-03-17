@@ -4,6 +4,10 @@ title: "Entorno virtual"
 ---
 
 # Entorno virtual :snake:
+
+![]({{ site.site_url }}/assets/img/measurement-4028994_1920.jpg)
+
+
 pip --> sistema de gestión de paquetes.
 Python Package Index (PyPI) --> que es el repositorio de paquetes oficial.
 virtualenv --> herramienta para crear entornos virtuales.
