@@ -4,6 +4,8 @@ title: "Problemas de código y sus soluciones"
 ---
 
 # Problemas de código y sus soluciones
+
+![]({{ site.site_url }}/assets/img/office-581131_1920.jpg)
  
 ## Problemas
 - Evitar el código espagueti
