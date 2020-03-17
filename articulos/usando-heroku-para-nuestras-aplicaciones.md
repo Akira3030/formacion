@@ -4,6 +4,10 @@ title: "Como utilizar Heroku"
 ---
 
 # Como utilizar Heroku 
+
+![]({{ site.site_url }}/assets/img/wheat-4130621_1920.jpg)
+
+
 https://www.heroku.com/<br>
 <p>PaaS = platform as a service. Soporta varios lenguajes: Ruby, Java, Node.js, Scala, Clojure, Python, PHP y Go.</p>
 Crear una cuenta en Heroku <br>
