@@ -24,7 +24,7 @@ if mi_lista == [] # 56.3 ns
 if not a mi_lista # 32.4ns
  ```
  
- ## List() o []
+## List() o []
  
  ```python
 List() # 104 ns
@@ -42,7 +42,7 @@ print count
 print len(MILLION_RANDOM_NUMBERS) # 96 ns (274000 veces más rapido)
 ```
  
- ## Filtrar una lista
+## Filtrar una lista
  
  ```python
  output = []
@@ -53,7 +53,7 @@ print len(MILLION_RANDOM_NUMBERS) # 96 ns (274000 veces más rapido)
  [item for item in MILLON_NUMBERS if item % 2] # 127 ms
  ```
  
- ## Borrar elementos de una lista
+## Borrar elementos de una lista
  
  ```python
 
