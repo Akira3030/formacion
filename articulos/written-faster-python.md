@@ -39,6 +39,7 @@ count = 0
 for element in MILLION_RANDOM_NUMBERS:
     count += 1
 print count
+
 print len(MILLION_RANDOM_NUMBERS) # 96 ns (274000 veces más rapido)
 ```
  
@@ -73,3 +74,4 @@ set(MILLON_NUMBERS) # 19,3 ms (400 veces más rapido)
  if variable is True: # 28.7 ns
  
  if variable # 20.6 ns (75% más rapido)
+ ```
