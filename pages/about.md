@@ -13,6 +13,7 @@ Mi lenguaje favorito es Python. Otra de mis pasiones es el IoT y la electrónica
 ## Contacto
 
 twitter: @MGranadino2
+
 mail: miguel.granadino@gmail.com
 
 ## Formación
