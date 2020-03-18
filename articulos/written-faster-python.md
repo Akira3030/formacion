@@ -39,9 +39,8 @@ count = 0
 for element in MILLION_RANDOM_NUMBERS:
     count += 1
 print count
-
 print len(MILLION_RANDOM_NUMBERS) # 96 ns (274000 veces más rapido)
- ```
+```
  
  ## Filtrar una lista
  
