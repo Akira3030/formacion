@@ -5,7 +5,6 @@ description: site personal de Miguel Granadino
 timezone: Europe/Madrid
 site_url: https://akira3030.github.io/formacion
 
-markdown: rdiscount
 pygments: true
 
 #markdown: kramdown
