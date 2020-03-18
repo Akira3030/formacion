@@ -9,20 +9,20 @@ title: "Writing faster Python"
 
 ## Ordenar una lista
 
- ```python
+{% highlight python linenos %}
 sorted(MILLION_RANDOM_NUMBERS) # 467ms
 MILLION_RANDOM_NUMBERS.sort() # 77.6 ms (6 veces más rapido)
- ```
+{% endhighlight %}
  
 ## Validar si una lista esta vacia
 
- ```python
+{% highlight python linenos %}
 if len(mi_lista) == 0 # 91.7ns
 
 if mi_lista == [] # 56.3 ns
 
 if not a mi_lista # 32.4ns
- ```
+{% endhighlight %}
  
 ## List() o []
  
