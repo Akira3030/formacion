@@ -4,10 +4,10 @@
 	padding:0px;
 	display: flex;
 	margin:0px;
-	align-items: center;
-        justify-content: center;
-        border-top:1px solid red; 
-        border-bottom: 1px solid red;
+	align-items: left;
+        justify-content: left;
+        border-top:1px solid black; 
+        border-bottom: 1px solid black;
 }
 .container h1 {
 	padding:0px;
