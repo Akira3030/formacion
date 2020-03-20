@@ -9,6 +9,11 @@
         border-top:2px solid black; 
         border-bottom: 2px solid black;
 }
+.container h1 {
+	padding:0px;
+	margin:0px;
+	
+}
 .header-logo {
 	margin:0px;
 	padding:0px;
@@ -17,6 +22,7 @@
 .header-nav ul {
 	padding:0px;
 	margin:0px;
+	margin-bottom:0px;
 }
 .header-nav li {
 	display: inline;
@@ -26,3 +32,4 @@
 	display: inline-block;
 	padding-left: 0px;
 }
+
