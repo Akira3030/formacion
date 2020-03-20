@@ -1,25 +1,28 @@
-img {
-	max-width: 100%;
-	height: auto;
-}
 .container {
 	width: 960px;
 	max-width: 100%;
-	padding: 20px;
-	padding-left:0px;
-}
-.main-header .container {
+	padding:0px;
 	display: flex;
+	margin:0px;
+	align-items: center;
+        justify-content: center;
+        border-top:2px solid black; 
+        border-bottom: 2px solid black;
 }
-.main-nav ul {
-	margin: 1em 0 .5em;
-	padding-left:0px;
+.header-logo {
+	margin:0px;
+	padding:0px;
+	margin-right:20px;
 }
-.main-nav li {
+.header-nav ul {
+	padding:0px;
+	margin:0px;
+}
+.header-nav li {
 	display: inline;
+	margin-right:20px;
 }
-.main-nav a {
+.header-nav a {
 	display: inline-block;
-	padding: .5em 1.5em;
 	padding-left: 0px;
 }
