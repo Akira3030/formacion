@@ -5,7 +5,7 @@ title: "Docker"
 
 # Docker
 
-![]({{ site.site_url }}/assets/img/light-bulb-1246043_1920.jpg)
+![]({{ site.site_url }}/assets/img/light-bulb-1246043_1920_alt_600.jpg)
 
 Hay dos versiones de Docker:<br>
 Free community edition (CE) --> la que usaremos<br>
