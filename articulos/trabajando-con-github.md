@@ -54,10 +54,17 @@ GitHub permite el uso de dominios y subdominios personalizados para publicar cua
 
 2.Si es un subdominio, es decir, por ejemplo proyecto.midominio.com ay que utilizar un registro CNAME para apuntar directamente al URL proporcionado por GitHub.
 
+### Markdown
+
+Markdown es un lenguaje de marcado que facilita la aplicación de formato a un texto empleando una serie de caracteres de una forma especial. Fue pensado para elaborar textos cuyo destino iba a ser la web con más rapidez y sencillez que si estuviésemos empleando directamente HTML.
+
 ### Jekyll
 Para generar el sitio web a partir de archivos markdown, GitHub utiliza internamente un software conversor llamado Jekyll.
 
 Jekyll es un software de creación de sitios web estáticos, escrito en Ruby por Tom Preston-Werner, uno de los creadores de Github. Podremos tener un sitio web sin base de datos 
+
+### Liquid
+Jekyll usa Liquid – a templating language that uses objects, tags and filters. We use the object tag surrounded by double braces {{ }} to output front matter variables and a brace and percentage sign for logic.
 
 #### Estructura
 
@@ -84,11 +91,6 @@ GitHub creará un archivo index.html a partir de readme.md o de index.md. Si se 
 Tras hacer todos estos cambios, si activamos el proceso de conversión desde la página settings, el resultado debería ser el mismo que cuando hemos creado el sitio web a partir de archivos .html directamente
 
 
-### Liquid
-Jekyll usa Liquid – a templating language that uses objects, tags and filters. We use the object tag surrounded by double braces {{ }} to output front matter variables and a brace and percentage sign for logic.
 
-
-
-### Markdown
 
 
