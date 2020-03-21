@@ -5,7 +5,7 @@ title: "Clean code"
 
 # :dart: Clean code :trophy:
 
-![]({{ site.site_url }}/assets/img/home-office-336373_1920.jpg)
+![]({{ site.site_url }}/assets/img/home-office-336373_1920_alt_600.jpg)
 
 ## 1) Identificadores UUIDs
 
