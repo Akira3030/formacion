@@ -77,9 +77,6 @@ css (directorio) --> hojas de estilo
 
 Ejemplo de fichero default.html --> Las marcas delimitadas entre {{ }} serán sustituidas durante el proceso de conversión por los contenidos.
 
-La marca {{ site.title }} será sustuida por el parámetro title definido en el archivo de configuración _config.yml
-
-La marca {{content}} será sustituida por el texto del archivo markdown, una vez transformado a html.
 
 GitHub creará un archivo index.html a partir de readme.md o de index.md. Si se encuentra con los dos, ignorará readme.md.
 
