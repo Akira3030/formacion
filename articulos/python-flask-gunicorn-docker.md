@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "Python - Flask - Gunicorn - Docker"
+title: "Desplegar una aplicación Flask usando Gunicorn y Nginx "
 ---
 
 # Python Flask Gunicorn Docker :snake:
@@ -17,7 +17,7 @@ Gunicorn, también conocido como Green Unicorn (Unicornio Verde), es un servidor
 Instalar el servidor Gunicorn
 
 ```sh
-pip install gunicorn
+$ pip install gunicorn
 ```
 
 Cree el archivo wsgi.py
@@ -81,25 +81,25 @@ exec gunicorn -b :5000 --access-logfile - --error-logfile - wsgi:app
 ### Construir la imagen
 
 ```sh
-docker build -t helloworld:latest
+$ docker build -t helloworld:latest
 ```
 
 ### Ejecutar las imagenes del contenedor
 
 ```sh
 # Ejecutar la aplicación en primer plano
-docker run --nombre helloworld -p 8001:5000 --rm helloworld:latest
+$ docker run --nombre helloworld -p 8001:5000 --rm helloworld:latest
 
 # Ejecutar la aplicación en segundo plano
-docker run --nombre helloworld -d -p 8001:5000 --rm helloworld:latest
+$ docker run --nombre helloworld -d -p 8001:5000 --rm helloworld:latest
 
 # Ver que el contenedor esta en ejecución
-docker ps
+$ docker ps
 # Ver logs
-docker logs helloworld
+$ docker logs helloworld
 # Parar el contenedor
-docker kill helloworld
-docker ps
+$ docker kill helloworld
+$ docker ps
 
 
 
