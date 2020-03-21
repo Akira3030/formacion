@@ -8,7 +8,7 @@ title: "Como utilizar Heroku"
 ![]({{ site.site_url }}/assets/img/wheat-4130621_1920_alt_600.jpg)
 
 
-https://www.heroku.com/<br>
+[https://www.heroku.com/](https://www.heroku.com/)
 <p>PaaS = platform as a service. Soporta varios lenguajes: Ruby, Java, Node.js, Scala, Clojure, Python, PHP y Go.</p>
 Crear una cuenta en Heroku <br>
 En the Dashboard seleccionar New -> Create new app (se puede hacer con el CLI)<br>
