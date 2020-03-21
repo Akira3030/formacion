@@ -5,7 +5,7 @@ title: "Problemas de código y sus soluciones"
 
 # Problemas de código y sus soluciones
 
-![]({{ site.site_url }}/assets/img/office-581131_1920.jpg)
+![]({{ site.site_url }}/assets/img/office-581131_1920_alt_600.jpg)
  
 ## Problemas
 - Evitar el código espagueti
