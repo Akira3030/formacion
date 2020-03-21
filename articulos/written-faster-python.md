@@ -5,7 +5,7 @@ title: "Writing faster Python"
 
 # Writing faster Python
 
-![]({{ site.site_url }}/assets/img/running-1245640_1920.jpg)
+![]({{ site.site_url }}/assets/img/running-1245640_1920_alt_600.jpg)
 
 ## Ordenar una lista
 
