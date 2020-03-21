@@ -37,12 +37,7 @@
 .markdown-body .header-nav a {
 	display: inline-block;
 	padding-left: 0px;
-	font-color: black;
+	color: black;
 }
-.markdown-body .header-nav .link { 
-	color: #FF0000; 
-} 
-.markdown-body .header-nav .link:hover { 
-	color: #00FF00; 
-}
+
 
