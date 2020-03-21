@@ -80,39 +80,6 @@ Ejemplo de fichero default.html --> Las marcas delimitadas entre {{ }} serán su
 
 GitHub creará un archivo index.html a partir de readme.md o de index.md. Si se encuentra con los dos, ignorará readme.md.
 
-```
-<!DOCTYPE html>
-<html>
-<head>
-    <title>{{ site.title }}</title>
-
-    <link rel="stylesheet" href="css/estilos.css">
-
-</head>
-<body>
-
-{{content}}
-
-</body>
-</html>
-
-```
-
-Ejemplo archivo markdown (extensión md). La parte que esta entre tres guiones sera procesado por jekyll (a esta sección se le llama front matter)
-
-```
----
-layout: post
-title: Título de la publicación
-author: David Charte
-category: programación
-tags:
-  - jekyll
-  - ruby
----
-
-¡El contenido de esta publicación es un borrador!
-```
 
 Tras hacer todos estos cambios, si activamos el proceso de conversión desde la página settings, el resultado debería ser el mismo que cuando hemos creado el sitio web a partir de archivos .html directamente
 
