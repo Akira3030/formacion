@@ -5,7 +5,7 @@ title: "Listado de PaaS"
 
 # Listado de PaaS para subir aplicaciones
 
-![]({{ site.site_url }}/assets/img/office-supplies-1149055_1920.jpg)
+![]({{ site.site_url }}/assets/img/office-supplies-1149055_1920_alt_600.jpg)
 
 
 PaaS = platform as a service --> plataforma como servicio
