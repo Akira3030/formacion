@@ -5,7 +5,7 @@ title: "Python - Flask - Gunicornio - Docker"
 
 # Python Flask Gunicornio Docker :snake:
 
-![]({{ site.site_url }}/assets/img/technical-drawing-3324368_1920.jpg)
+![]({{ site.site_url }}/assets/img/technical-drawing-3324368_1920_alt_600.jpg)
 
 
 ## Gunicornio
