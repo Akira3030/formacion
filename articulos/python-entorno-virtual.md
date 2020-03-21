@@ -5,7 +5,7 @@ title: "Entorno virtual"
 
 # Entorno virtual :snake:
 
-![]({{ site.site_url }}/assets/img/measurement-4028994_1920.jpg)
+![]({{ site.site_url }}/assets/img/measurement-4028994_1920_alt_600.jpg)
 
 
 pip --> sistema de gestión de paquetes.
