@@ -1,6 +1,6 @@
 # Diseñando una aplicación
 
-![]({{ site.site_url }}/assets/img/office-581131_1920.jpg)
+![]({{ site.site_url }}/assets/img/office-581131_1920_alt_600.jpg)
 
 
 ![alt text]({{ site.site_url }}/assets/img/app.png "Diseño app")
