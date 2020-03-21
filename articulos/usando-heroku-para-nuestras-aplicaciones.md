@@ -5,7 +5,7 @@ title: "Como utilizar Heroku"
 
 # Como utilizar Heroku 
 
-![]({{ site.site_url }}/assets/img/wheat-4130621_1920.jpg)
+![]({{ site.site_url }}/assets/img/wheat-4130621_1920_alt_600.jpg)
 
 
 https://www.heroku.com/<br>
