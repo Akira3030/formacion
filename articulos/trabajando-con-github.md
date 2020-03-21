@@ -11,6 +11,11 @@ title: "Entorno virtual"
 
 [https://help.github.com/es](https://help.github.com/es)
 
+[https://gist.github.com/](https://gist.github.com/)
+
+
+
+
 ```sh
 
 # Crear un repositorio
