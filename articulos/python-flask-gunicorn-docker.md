@@ -11,6 +11,54 @@ title: "Desplegar una aplicación Flask usando Gunicorn y Nginx "
 
 ![]({{ site.site_url }}/assets/img/arquitectura_docker_nginx_guniconr_flask.png)
 
+## Paso 1: crear entorno virtual 
+
+```sh
+$ sudo apt install python3-venv
+# Creamos directorio para la aplicación
+$ mkdir ~/myproject
+$ cd ~/myproject
+# crear entorno virtual
+$ python3.6 -m venv myprojectenv
+# Activar entorno virtual
+$ source myprojectenv/bin/activate
+```
+
+## Paso 2: crear aplicación Flask
+
+
+```sh
+$ pip install wheel
+(myprojectenv) $ pip install gunicorn flask
+```
+~/myproject/myproject.py
+
+```py
+from flask import Flask
+app = Flask(__name__)
+
+@app.route("/")
+def hello():
+    return "<h1 style='color:blue'>Hello There!</h1>"
+
+if __name__ == "__main__":
+    app.run(host='0.0.0.0')
+```
+
+```sh
+# Ejecutamos la aplicación y con nuestro navegador hacemos una llamada
+$ python myproject.py
+# CTRL-C para parar el servidor
+```
+
+
+
+## Paso 3: Configurar Gunicorn
+
+## Paso 4: Configurar Nginx
+
+
+
 ## Gunicorn (servidor HTTP)
 Gunicorn, también conocido como Green Unicorn (Unicornio Verde), es un servidor WSGI HTTP para Python.
 
