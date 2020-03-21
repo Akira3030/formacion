@@ -5,7 +5,7 @@ title: "Entorno virtual"
 
 # Guia basica de como utiliar Git y GitHub
 
-![]({{ site.site_url }}/assets/img/football-1486353_1920.jpg)
+![]({{ site.site_url }}/assets/img/football-1486353_1920_alt_600.jpg)
 
 [https://www.githubstatus.com](https://www.githubstatus.com)
 
