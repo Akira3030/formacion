@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "Desplegar una aplicación Flask usando Gunicorn y Nginx "
+title: "Desplegar una aplicación Flask usando Gunicorn y Nginx"
 ---
 
 # Python Flask Gunicorn Docker :snake:
@@ -14,7 +14,7 @@ title: "Desplegar una aplicación Flask usando Gunicorn y Nginx "
 - Paso 4: crear punto de entrada
 - Paso 5: configurar el servidor **`Gunicorn`**
 - Paso 6: arrancar el servidor cuando se inicie el sistema
-- Paso 7: configurar el servidor Nginx
+- Paso 7: configurar el servidor **`Nginx`**
 
 ---
 
@@ -23,6 +23,9 @@ title: "Desplegar una aplicación Flask usando Gunicorn y Nginx "
 ![]({{ site.site_url }}/assets/img/arquitectura_docker_nginx_guniconr_flask.png)
 
 ## Paso 1: instalar paquetes
+
+$ sudo apt update
+$ sudo apt install python3-pip python3-dev build-essential libssl-dev libffi-dev python3-setuptools
 
 ## Paso 2: crear entorno virtual 
 
