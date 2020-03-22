@@ -88,7 +88,7 @@ if __name__ == "__main__":
 
 ## Paso 6: arrancar el servidor cuando se inicie el sistema
 
-
+```sh
 # Ejecutamos la aplicación y con nuestro navegador hacemos una llamada
 $ python myproject.py
 # CTRL-C para parar el servidor
