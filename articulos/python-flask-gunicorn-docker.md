@@ -16,7 +16,6 @@ title: "Desplegar una aplicación Flask usando Gunicorn y Nginx"
 - Paso 6: arrancar el servidor cuando se inicie el sistema
 - Paso 7: configurar el servidor **`Nginx`**
 
----
 
 ## Arquitectura
 
