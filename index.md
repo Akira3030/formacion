@@ -18,3 +18,4 @@ title: Articulos
 * :dart: [Principios de diseño. SOLID](articulos/) :trophy:
 * :dart: [Clean architecture](articulos/) :trophy:
 * [Listado de Code smell](articulos/lista-de-code-smells.md)
+* [Ejecutando una aplicación como un servicio](articulos/ejecutando-aplicacion-como-un-servicio.md)
