@@ -7,11 +7,21 @@ title: "Desplegar una aplicación Flask usando Gunicorn y Nginx "
 
 ![]({{ site.site_url }}/assets/img/technical-drawing-3324368_1920_alt_600.jpg)
 
+## Índice
+- Paso 1: instalar paquetes 
+- Paso 2: crear entorno virtual
+- Paso 3: crear una aplicación de ejemplo en Flask
+- Paso 4: crear punto de entrada
+- Paso 5: configurar el servidor Gunicorn
+- Paso 6: configurar el servidor Nginx
+
 ## Arquitectura
 
 ![]({{ site.site_url }}/assets/img/arquitectura_docker_nginx_guniconr_flask.png)
 
-## Paso 1: crear entorno virtual 
+## Paso 1: instalar paquetes
+
+## Paso 2: crear entorno virtual 
 
 ```sh
 $ sudo apt install python3-venv
@@ -24,7 +34,7 @@ $ python3.6 -m venv myprojectenv
 $ source myprojectenv/bin/activate
 ```
 
-## Paso 2: crear aplicación Flask
+## Paso 3: crear aplicación Flask
 
 
 ```sh
@@ -51,11 +61,32 @@ $ python myproject.py
 # CTRL-C para parar el servidor
 ```
 
+## Paso 4: crear punto de entrada
+
+Crear el archivo ~/myproject/entrypoint.py
+
+```py
+from myproject import application
+
+if __name__ == "__main__":
+    application.run()
+```
+
+## Paso 3: Configurar sel servidor Gunicorn
 
 
-## Paso 3: Configurar Gunicorn
+```sh
+(myprojectenv) $ cd ~/myproject
+# Ejecutamos el servidor asignando la ip y el puerto
+(myprojectenv) $ gunicorn --bind 0.0.0.0:5000 entrypoint:application
+# Abrir el navegador y comprobar que el servidor responde a nuestras peticiones
+# CTRL-C en el terminal para parar el servidor
+# Desactivamos el entorno virtual
+(myprojectenv) $ deactivate
+```
 
-## Paso 4: Configurar Nginx
+
+## Paso 4: Configurar el servidor Nginx
 
 
 
