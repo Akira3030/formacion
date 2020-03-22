@@ -1,5 +1,7 @@
 # Ejecutando una aplicacion como un servicio
 
+![]({{ site.site_url }}/assets/img/measurement-4028994_1920_alt_600.jpg)
+
 ## Introducción
 
 Cuando tenemos en producción una aplicación en ocasiones es menor tenerlo ejecutando como un demonio, gestionado por un sistema init.
