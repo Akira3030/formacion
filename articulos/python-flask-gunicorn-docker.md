@@ -8,7 +8,7 @@ title: "Desplegar una aplicación Flask usando Gunicorn y Nginx"
 ![]({{ site.site_url }}/assets/img/technical-drawing-3324368_1920_alt_600.jpg)
 
 ## Índice
-- Paso 1: instalar paquetes 
+- Paso 1: instalar ==paquetes==
 - Paso 2: crear entorno virtual
 - Paso 3: crear una aplicación de ejemplo en [**`Flask`**]
 - Paso 4: [crear] punto de entrada
