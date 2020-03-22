@@ -13,7 +13,8 @@ title: "Desplegar una aplicación Flask usando Gunicorn y Nginx "
 - Paso 3: crear una aplicación de ejemplo en Flask
 - Paso 4: crear punto de entrada
 - Paso 5: configurar el servidor Gunicorn
-- Paso 6: configurar el servidor Nginx
+- Paso 6: arrancar el servidor cuando se inicie el sistema
+- Paso 7: configurar el servidor Nginx
 
 ## Arquitectura
 
@@ -72,7 +73,7 @@ if __name__ == "__main__":
     application.run()
 ```
 
-## Paso 3: Configurar sel servidor Gunicorn
+## Paso 5: Configurar sel servidor Gunicorn
 
 
 ```sh
@@ -85,8 +86,91 @@ if __name__ == "__main__":
 (myprojectenv) $ deactivate
 ```
 
+## Paso 6: arrancar el servidor cuando se inicie el sistema
 
-## Paso 4: Configurar el servidor Nginx
+
+# Ejecutamos la aplicación y con nuestro navegador hacemos una llamada
+$ python myproject.py
+# CTRL-C para parar el servidor
+```
+
+## Paso 4: crear punto de entrada
+
+Crear el archivo ~/myproject/entrypoint.py
+
+```py
+from myproject import application
+
+if __name__ == "__main__":
+    application.run()
+```
+
+## Paso 5: Configurar sel servidor Gunicorn
+
+
+```sh
+(myprojectenv) $ cd ~/myproject
+# Ejecutamos el servidor asignando la ip y el puerto
+(myprojectenv) $ gunicorn --bind 0.0.0.0:5000 entrypoint:application
+# Abrir el navegador y comprobar que el servidor responde a nuestras peticiones
+# CTRL-C en el terminal para parar el servidor
+# Desactivamos el entorno virtual
+(myprojectenv) $ deactivate
+```
+
+## Paso 6: arrancar el servidor cuando se inicie el sistema
+
+A continuación, crearemos el archivo de unidad de servicio systemd. Crear un archivo de unidad systemd permitirá que el sistema init de Ubuntu inicie automáticamente Gunicorn y haga funcionar la aplicación de Flask cuando el servidor se cargue.
+
+Crear un archivo terminado en .service dentro del directorio /etc/systemd/system para empezar:
+
+```sh
+$ sudo nano /etc/systemd/system/myproject.service
+```
+Nombre del fichero /etc/systemd/system/myproject.service
+
+```sh
+[Unit]
+Description=Gunicorn instance to serve myproject
+After=network.target
+
+[Service]
+User=sammy
+Group=www-data
+WorkingDirectory=/home/sammy/myproject
+Environment="PATH=/home/sammy/myproject/myprojectenv/bin"
+ExecStart=/home/sammy/myproject/myprojectenv/bin/gunicorn --workers 3 --bind unix:myproject.sock -m 007 wsgi:app
+
+[Install]
+WantedBy=multi-user.target
+```
+
+```sh
+# Iniciar y activar el servicio que hemos creado
+$ sudo systemctl start myproject
+$ sudo systemctl enable myproject
+$ sudo systemctl status myproject
+```
+
+## Paso 7: Configurar el servidor Nginx
+
+Ahora, nuestro servidor de aplicación Gunicorn debería estar funcionando, esperando solicitudes en el archivo de socket del directorio del proyecto. Configuraremos Nginx para que transmita las solicitudes web al socket haciendo algunas pequeñas adiciones a su archivo de configuración.
+
+Abra un bloque de servidor e indique a Nginx que escuche en el puerto predeterminado 80. También le indicaremos que utilice este bloque para solicitudes para el nombre de dominio de nuestro servidor:
+
+En el archivo /etc/nginx/sites-available/myproject
+
+```sh
+server {
+    listen 80;
+    server_name your_domain www.your_domain;
+
+    location / {
+        include proxy_params;
+        proxy_pass http://unix:/home/sammy/myproject/myproject.sock;
+    }
+}
+```
 
 
 
