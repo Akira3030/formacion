@@ -9,7 +9,7 @@ Cuando tenemos en producción una aplicación en ocasiones es menor tenerlo ejec
 Mi aplicación como un sistema de demonio
 
 **`systemd`** es el sistema inicial de facto en la mayoría de las distribuciones de Linux. 
-Después de que nuestra aplicación se haya configurado para ejecutarse con *`systemd`*, es posible usar el comando de service para administrarlo.En primer lugar, necesita un archivo de configuración, vamos a crearlo. Para las distribuciones basadas en Debian, estará en *`/etc/systemd/system/node.service`*
+Después de que nuestra aplicación se haya configurado para ejecutarse con **`systemd`**, es posible usar el comando de service para administrarlo.En primer lugar, necesita un archivo de configuración, vamos a crearlo. Para las distribuciones basadas en Debian, estará en **`/etc/systemd/system/node.service`**
 
 ```sh
 [Unit] 
