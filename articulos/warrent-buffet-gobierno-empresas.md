@@ -18,7 +18,7 @@ en los mercados.
 
 :large_orange_diamond: Dejemos que sean los **`resultados operativos`** los qeu digan que nuestras inversiones son exitosas.
 
-$gray-000:        #fafbfc !default;
+<span class="bg-white">.bg-white over .bg-gray-dark</span>
 
 :large_orange_diamond: El mercado puede ignorar el **`exito empresarial`** durante un tiempo pero a la larga lo confirma.
 
