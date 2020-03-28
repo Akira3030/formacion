@@ -1,19 +1,11 @@
 # Warrent buffett - el gobierno de las empresas
 
-:large_orange_diamond: Aprendimos de B.Granham que la clave del exito en la inversión era la compra de acciones 
+:small_orange_diamond: Aprendimos de B.Granham que la clave del exito en la inversión era la compra de acciones 
 de buenos negocios cuando los precios del mercado eran muy inferiores al valoe empresarial.
 
-
-
-:large_orange_diamond: Un inversior puede tener exito combiando una buena evaluación de las empresas con la habilidad
+:small_orange_diamond: Un inversior puede tener exito combiando una buena evaluación de las empresas con la habilidad
 de aislar su pensamiento y forma de actuar de **`las emociones`** super contagiosas que se arremolinan 
 en los mercados.
-
-
-<div class="border border-black-fade bg-red-light p-2 mb-2">
-  .border-black-fade .bg-red-light
-</div>
-
 
 
 :large_orange_diamond: Dejemos que sean los **`resultados operativos`** los qeu digan que nuestras inversiones son exitosas.
