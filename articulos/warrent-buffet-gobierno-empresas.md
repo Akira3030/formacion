@@ -1,7 +1,8 @@
 # Warrent buffett - el gobierno de las empresas
 
 ```sh
-Aprendimos de B.Granham que la clave del exito en la inversión era la compra de acciones de buenos negocios cuando los precios del mercado eran muy inferiores al valoe empresarial.
+Aprendimos de B.Granham que la clave del exito en la inversión era la compra de acciones 
+de buenos negocios cuando los precios del mercado eran muy inferiores al valoe empresarial.
 ```
 
 ```
