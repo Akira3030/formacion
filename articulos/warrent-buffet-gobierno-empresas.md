@@ -12,7 +12,7 @@ en los mercados.
 ```
 
 ```
-Dejemos que sean los **`resultados operativos`** los qeu digan que nuestras inversiones son exitosas.
+Dejemos que sean los resultados operativos los qeu digan que nuestras inversiones son exitosas.
 ```
 
 ```
