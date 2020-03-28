@@ -7,6 +7,7 @@ title: "Clean code"
 
 ![]({{ site.site_url }}/assets/img/home-office-336373_1920_alt_600.jpg)
 
+
 ## 1) Identificadores UUIDs
 
 - Este tipo de identificadores son útiles para evitar delegar la responsabilidad de generación de IDs a nuestra infraestructura. 
