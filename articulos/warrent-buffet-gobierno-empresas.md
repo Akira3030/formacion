@@ -27,8 +27,8 @@ en los mercados.
 
 :large_orange_diamond: Los locos se precifitan en la bolsa cuando los que más saben se alejan de ella temerosos.
 
-La teoria del mercado eficiente: decian que analizar las empresas individualmente no era útil porque todas las informaciones se reflejan en sus cotizaciones.
+:large_orange_diamond: La teoria del mercado eficiente: decian que analizar las empresas individualmente no era útil porque todas las informaciones se reflejan en sus cotizaciones.
 El mercado es eficiente frecuentemente. Llegaron a la conclusión erronea de que siempre era eficiente.Ambas afirmaciones son tan diferentes como la noche y el dia.
 Desmitificar los dogmas aceptados.
 
-> Nadie ha reconocido nunca que estaba equivocado. sin importar los miles de estudiantes mal instruidos esta teoria sigue en los planes de estudio de las escuelas de negocio. Parece que la falta de disposición para retractarse y desmitificar el sacerdocio no se limita a los teologos.
+:large_orange_diamond: Nadie ha reconocido nunca que estaba equivocado. sin importar los miles de estudiantes mal instruidos esta teoria sigue en los planes de estudio de las escuelas de negocio. Parece que la falta de disposición para retractarse y desmitificar el sacerdocio no se limita a los teologos.
