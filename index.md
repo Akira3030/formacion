@@ -19,3 +19,4 @@ title: Articulos
 * :dart: [Clean architecture](articulos/) :trophy:
 * [Listado de Code smell](articulos/lista-de-code-smells.md)
 * [Ejecutando una aplicación como un servicio](articulos/ejecutando-aplicacion-como-un-servicio.md)
+* [Warrent Buffet - El gobierno de las empresas](articulos/warrent-buffet-gobierno-empresas.md)
