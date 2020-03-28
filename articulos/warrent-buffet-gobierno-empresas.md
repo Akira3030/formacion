@@ -11,7 +11,7 @@ en los mercados.
 
 
 
-:large_orange_diamond: Dejemos que sean los **`resultados operativos`** los qeu digan que nuestras inversiones son exitosas.
+:large_orange_diamond: Dejemos que sean los **resultados operativos** los qeu digan que nuestras inversiones son exitosas.
 
 **My Bold Text, in red color.**{: style="color: red; opacity: 0.80;" }
 
