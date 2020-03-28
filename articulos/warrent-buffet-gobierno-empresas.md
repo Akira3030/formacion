@@ -1,5 +1,7 @@
 # Warrent buffett - el gobierno de las empresas
 
+{% octicon alert %}
+
 :small_orange_diamond: Aprendimos de B.Granham que la clave del exito en la inversión era la compra de acciones 
 de buenos negocios cuando los precios del mercado eran muy inferiores al valoe empresarial.
 
