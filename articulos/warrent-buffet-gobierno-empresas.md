@@ -4,7 +4,7 @@
 
 > Un inversior puede tener exito combiando una buena evaluación de las empresas con la habilidad de aislar su pensamiento y forma de actuar de las emociones super contagiosas que se arremolinan en los mercados.
 
-> Dejemos que sean los `**resultados operativos**` los qeu digan que nuestras inversiones son exitosas.
+> Dejemos que sean los **`resultados operativos`** los qeu digan que nuestras inversiones son exitosas.
 
 > El mercado puede ignorar el exito empresarial durante un tiempo pero a la larga lo confirma.
 
