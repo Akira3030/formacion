@@ -6,7 +6,9 @@ de buenos negocios cuando los precios del mercado eran muy inferiores al valoe e
 ```
 
 ```
-Un inversior puede tener exito combiando una buena evaluación de las empresas con la habilidad de aislar su pensamiento y forma de actuar de las emociones super contagiosas que se arremolinan en los mercados.
+Un inversior puede tener exito combiando una buena evaluación de las empresas con la habilidad
+de aislar su pensamiento y forma de actuar de las emociones super contagiosas que se arremolinan 
+en los mercados.
 ```
 
 ```
@@ -18,7 +20,8 @@ El mercado puede ignorar el exito empresarial durante un tiempo pero a la larga 
 ```
 
 ```
-Solo aquellos que quieran vender acciones en un futuro próximo deben estar contentos al ver que las acciones suben. Los compradores deberian preferir precios a la baja.
+Solo aquellos que quieran vender acciones en un futuro próximo deben estar contentos al ver que las 
+acciones suben. Los compradores deberian preferir precios a la baja.
 ```
 
 Los que desinvierten pierden cuando los mercados caen, pero los inversores ganan.
