@@ -9,8 +9,6 @@ de buenos negocios cuando los precios del mercado eran muy inferiores al valoe e
 de aislar su pensamiento y forma de actuar de **`las emociones`** super contagiosas que se arremolinan 
 en los mercados.
 
-{% octicon alert %} AAAAAA
-
 
 :small_orange_diamond: Dejemos que sean los **`resultados operativos`** los qeu digan que nuestras inversiones son exitosas.
 
