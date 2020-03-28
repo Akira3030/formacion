@@ -10,8 +10,13 @@ de aislar su pensamiento y forma de actuar de **`las emociones`** super contagio
 en los mercados.
 
 
+<div class="border border-black-fade bg-red-light p-2 mb-2">
+  .border-black-fade .bg-red-light
+</div>
 
-:large_orange_diamond: Dejemos que sean los **resultados operativos** los qeu digan que nuestras inversiones son exitosas.
+
+
+:large_orange_diamond: Dejemos que sean los **`resultados operativos`** los qeu digan que nuestras inversiones son exitosas.
 
 <font color='red'>test blue color font</font>
 
