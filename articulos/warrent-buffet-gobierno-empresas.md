@@ -24,13 +24,13 @@ Solo aquellos que quieran vender acciones en un futuro próximo deben estar cont
 acciones suben. Los compradores deberian preferir precios a la baja.
 ```
 
-Los que desinvierten pierden cuando los mercados caen, pero los inversores ganan.
+:large_orange_diamond: Los que desinvierten pierden cuando los mercados caen, pero los inversores ganan.
 
-Con frecuencia tenemos más efectivo que buenas ideas.
+:large_orange_diamond: Con frecuencia tenemos más efectivo que buenas ideas.
 
-Hemos ganado mucho gracias a los precios bajos.
+:large_orange_diamond: Hemos ganado mucho gracias a los precios bajos.
 
-Los locos se precifitan en la bolsa cuando los que más saben se alejan de ella temerosos.
+:large_orange_diamond: Los locos se precifitan en la bolsa cuando los que más saben se alejan de ella temerosos.
 
 La teoria del mercado eficiente: decian que analizar las empresas individualmente no era útil porque todas las informaciones se reflejan en sus cotizaciones.
 El mercado es eficiente frecuentemente. Llegaron a la conclusión erronea de que siempre era eficiente.Ambas afirmaciones son tan diferentes como la noche y el dia.
