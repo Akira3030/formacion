@@ -13,7 +13,7 @@ en los mercados.
 
 :large_orange_diamond: Dejemos que sean los **resultados operativos** los qeu digan que nuestras inversiones son exitosas.
 
-**My Bold Text, in red color.**{: style="color: red; opacity: 0.80;" }
+<font color='red'>test blue color font</font>
 
 :large_orange_diamond: El mercado puede ignorar el **`exito empresarial`** durante un tiempo pero a la larga lo confirma.
 
