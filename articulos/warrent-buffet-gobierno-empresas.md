@@ -8,13 +8,11 @@ de aislar su pensamiento y forma de actuar de **`las emociones`** super contagio
 en los mercados.
 
 
-:large_orange_diamond: Dejemos que sean los **`resultados operativos`** los qeu digan que nuestras inversiones son exitosas.
-
-<span class="bg-white">.bg-white over .bg-gray-dark</span>
+:small_orange_diamond: Dejemos que sean los **`resultados operativos`** los qeu digan que nuestras inversiones son exitosas.
 
 :small_orange_diamond: El mercado puede ignorar el **`exito empresarial`** durante un tiempo pero a la larga lo confirma.
 
-:large_orange_diamond: Solo aquellos que quieran vender acciones en un futuro próximo deben estar contentos al ver que las acciones suben. Los compradores deberian **`preferir precios a la baja`**.
+:small_orange_diamond: Solo aquellos que quieran vender acciones en un futuro próximo deben estar contentos al ver que las acciones suben. Los compradores deberian **`preferir precios a la baja`**.
 
 :small_orange_diamond: Los que desinvierten pierden cuando los mercados caen, pero los inversores ganan.
 
