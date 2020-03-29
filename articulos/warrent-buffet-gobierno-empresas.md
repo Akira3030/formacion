@@ -179,7 +179,7 @@ Por ejmplo:
 1. Alguna estrategia de inversión a corto plazo en títulos del gobierno de EEUU.
 2. 
 3. Algunas de nuestras filiales pueden incurrir en endeudamiento (sin que lo garantice Berskhire).
-<div class="text-red mb-2"><b>No nos endeudamos para hacer adquisiciones o realizar operaciones. Somos muy conservadores.</b></div>
+<div class="text-red mb-2"><b><mark>No nos endeudamos para hacer adquisiciones o realizar operaciones. Somos muy conservadores.</mark></b></div>
 
 :small_orange_diamond: La piedra angular de nuestro estilo de inversión es el letargo al límite de la pereza.
 
