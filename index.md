@@ -5,6 +5,8 @@ title: Articulos
 
 # Artículos
 
+![]({{ site.site_url }}/assets/img/architecture-1851117_1920-1_600.jpg)
+
 * [Python - Entorno Virtual](articulos/python-entorno-virtual.md) :snake:
 * [Python - Writing faster](articulos/written-faster-python.md) :snake:
 * [Python - Flask con Gunicornio y Docker](articulos/python-flask-gunicorn-docker.md) :snake: :muscle: :smile:
