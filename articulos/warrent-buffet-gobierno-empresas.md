@@ -86,9 +86,9 @@ La dificultad de cuantificar con precisión estos factores no implica que se deb
 :small_orange_diamond:Participaciones minoritarias de empresas extraordinariamente buenas a unos precios ridículos.
 
 :small_orange_diamond:Seleccionamos nuestras participaciones accionariales de modo muy parecido al que evaluamos una empresa para comprarla, queremos que sea una empresa que:
-1.Podamos comprenderla.
-2.Perspectivas favorables a largo plazo.
-3.Gestionada por gente honesta y competente.
-4.A un precio atractivo.
+1. Podamos comprenderla.
+2. Perspectivas favorables a largo plazo.
+3. Gestionada por gente honesta y competente.
+4. A un precio atractivo.
 
 
