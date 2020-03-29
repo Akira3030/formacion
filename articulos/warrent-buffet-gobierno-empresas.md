@@ -29,3 +29,46 @@ El mercado es eficiente frecuentemente. Llegaron a la conclusión erronea de que
 Desmitificar los dogmas aceptados.
 
 :small_orange_diamond: Nadie ha reconocido nunca que estaba equivocado. sin importar los miles de estudiantes mal instruidos esta teoria sigue en los planes de estudio de **`las escuelas de negocio`**. Parece que la falta de disposición para retractarse y desmitificar el sacerdocio no se limita a los teologos.
+
+:small_orange_diamond: Este perjuicio a inversores y estudiantes ha supuesto una gran ventaja para mi en cualquier tipo de competición supone tener ventaja tener contrincantes a quienes les hayan enseñado que no hay que esforzarse.
+
+:small_orange_diamond:Cuando tenemos participaciones de empresas excepcionales con gestores excelentes, preferimos conservar nuestras acciones para siempre.
+
+:small_orange_diamond:Supone una locura vender las acciones de una empresa que es de facil comprensión y excelente a largo plazo. Las acciones de empresas de este tipo son muy dificiles de reemplazar.
+
+:small_orange_diamond:En la vida de un inversor es muy dificil tomar cientos de buenas inversiones. Hemos adoptado una estrategia que requiere actuar inteligentemente solo en contadas ocasiones.
+
+:small_orange_diamond:Nos hemos fijado como objetivo tener una sola buena idea al año. Nuestra estrategia excluye la diversificación. Creemos que concentrar la cartera disminuye el riesgo.
+
+:small_orange_diamond:Riesgo: la posibilidad de perdida. Sin embargo los academicos afirman que es la volatilidad "beta".
+
+:small_orange_diamond:El verdadero inversor agradece la volatilidad. El señor mercado: cuanto más maniaco depresivo es mayores son las oportunidades que ofrece el inversor.
+
+:small_orange_diamond:Se dan cotizaciones irracionalemente bajas de empresas solidas.
+
+:small_orange_diamond:Desdeñan analizar lo qeu produce una empresa. Incluso no saben ni el nombre de la compañia. Lo que valoran es el precio historico de su acción. Nosotros prescindimos de saber el precio historico de la compañia en su lugar buscamos cualquier información que nos permita entender mejor su actividad.
+
+:small_orange_diamond:Principales factores a tener en cuenta al valorar una empresa:
+1. Grado de certidumbre con que puede ser evaluadas las carecteristicas economicas de la empresa a largo plazo.
+2. Grado de certidumbre con el que puede ser evaluada la gestión.
+3. Grado de certidumbre que tenemos de que los gestores canalizan los beneficios de la empresa hacia los accionistas (y no hacia ellos mismos).
+4. El precio de compra de la acción.
+5. Los niveles de fiscalidad e inflacción.
+
+:small_orange_diamond::small_orange_diamond::small_orange_diamond:Muchos analistas diran que estos factores son muy imprecisos. Ya que no pueden ser extraidos de una base de datos.
+
+:small_orange_diamond::small_orange_diamond:La dificultad de cuantificar con precisión estos factores no implica que se deba negar su importancia.
+
+:small_orange_diamond:¿Es tan dificil llegar a la conclusión de que Coca-cola y Gillete tienen un riesgo menor a largo plazo que digamos cualquier empresa de ordenadores?
+
+:small_orange_diamond:Coca-cola vende el 40% de los refrescos y Gillete el 60% de las hojas de afeitar.
+
+:small_orange_diamond:Por ejemplo una empresa dedicada a tecnologias que avanza rapidamente no permite que se puedan hacer evaluaciones fidedignas que sus caracteristicas economicas a largo plazo.
+
+:small_orange_diamond:Enorme ventaja competitiva (foso protector) la competitividad puede dañar seriamente la salud de las personas.
+
+:small_orange_diamond:¿Por qué deberiamos creer que podemos predecir el futuro de otros sectores que evolucionan rapidamente?
+
+:small_orange_diamond:Si es capaz de entender operaciones economicas y encontrar de cinco a diez empresas con un precio adecuado que tengan importantes ventajas competitivas a largo plazo la diversificación no le conviene.
+
+
