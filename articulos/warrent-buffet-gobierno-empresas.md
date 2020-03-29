@@ -100,4 +100,63 @@ La dificultad de cuantificar con precisión estos factores no implica que se deb
 :small_orange_diamond: La mejor empresa es aquella que durente un largo periodo puede usar grandes cantidades en incremento de capital con tasas de rendimiento muy elevadas.
 
 
+:small_orange_diamond: The theory of investiment value (Jhon Burr Willians). Ecuación para el cálculo del valor.
+El valor de cualquier acción o empresa hoy esta determinada por los flujos de entradas y salidas de efectivo que se espera que se den durante el periodo restante en que se tendra la acción.
+
+:small_orange_diamond: No queremos gestores que no nos gusten y no admiremos.
+
+:small_orange_diamond: La inactividad es una prueba de inteligencia.
+
+:small_orange_diamond: Un analista puede equivocarse facilmente. Nos enfrentamos al problema de dos maneras:
+1. Solo valorar empresas que comprendemos bien (sencillas y estables).
+Si es compleaja o esta sujeta a continuos cambios no podemos predecir los futuros flujos de caja.
+2. Margende de seguridad en el precio de compra (la piedra angular del éxito de la inversión).
+
+:small_orange_diamond: Preferimos las empresas en los sectores en los que no preveemos grandes cambios.
+
+:small_orange_diamond: Como inversores nuestro punto de vista es parecido al que tenemos sobre la exploración espacial: aplaudimos las tentativas de las misiones pero preferimos mantenernos al margen.
+
+:small_orange_diamond: Charlie y yo podemos identificar solo unas pocas empresas "inevitables" incluso despues de habernos dedicado toda la vida a buscarlas. Por cada "inevitable" hay docenas de impostores. compañias que crecen que crecen pero que son muy vulnerables a la competencia.
+
+:small_orange_diamond: Cuando el gestor se desvia y actua con negligencia dedicandose a adquirir otros negocios que son parecidos o peores. Gillete llego a dedicarse a la busqueda de petroleo. La perdida del enfoque es lo que más nos preocupa.
+
+:small_orange_diamond: La mayoria de inversores veran que la mejor manera de obtener acciones ordinarias es a traves de un fondo indexado que tiene unos costes mínimos.
+
+:small_orange_diamond: Invertir de forma inteligente no es complicado aunque esta lejos de ser facil.
+
+:small_orange_diamond: Lo que un inversor necesita es tener la habilidad de evaluar correctamente las empresas seleccionadas. No tienes que evaluar todas, solo las que estan en tu circulo de competencia (es vital).
+
+:small_orange_diamond: Su objetivo como inversor debe ser comprar a un precio racional, una participación en una empresa que pueda comprender facilmente y cuyas ganancias sea practicamente seguro que serán superiores en cinco, diez o veinte años. Con el tiempo encontrara solo unas pocas empresas que cumplan estos requisitos.
+
+:small_orange_diamond: Reuna empresas cuyos beneficios vayan creciendo en el futuro y vera como incrementa el valor de su cartera en el futuro.
+
+:small_orange_diamond: Si no desea tener una acción durante diez años no se plantee ni siquiera tenerla durante diez minutos.
+
+:small_orange_diamond: Muchos inversores han tenido experiencias que van de lo mediocre a lo desastroso. Motivos:
+1. Altos costes (trading excesivo)
+2. Toma de decisiones en consejos y modas.
+3. Idas y venidas en el mercado (entradas a destiempo).
+
+:small_orange_diamond: :small_orange_diamond: La emoción y los gastos son sus enemigos.
+
+Ser precavidos cuando los demás sean ambiciosos y sea ambicioso cuando los demás sean precavidos.
+
+:small_orange_diamond: En los últimos 35 años las empresas EEUU han dado unos resultados estupendos. Todo lo que tenian que hacer era invertir en empresas americanas de una forma diversificada y con poco gasto (fondo indexado).
+
+:small_orange_diamond: ¿Por qué no tenemos acciones de empresas tecnológicas? no tenemos conocimientos profundos para saber que empresas tienen una ventajaa competitiva perdurable. No nos preocupa hay muchas areas empresariales en las que tengo una buena experiencia asignando capital.
+
+:small_orange_diamond: Tenemos un punto fuerte, saber reconocer cuando operamos bien dentro de nuestro ambito de competencia y cuando nos acercamos a su perímetro.
+
+:small_orange_diamond: Constatamos que el crecimiento de los beneficios empresariales está muy vinculado a la producción del pais (PIB). El PIB esta creciendo a un 3% y pronosticamos un 2% de inflacción.
+
+:small_orange_diamond: Si las expectativas de los inversores se vuelven más realistas (y sera asi seguro) el reajuste del mercado puede ser severo particularmente en los sectores donde se ha concentrado la especulación.
+
+:small_orange_diamond: Esperar la buena pelota es la via para alcanzar el exito y la fama, mientras que batear indiscriminadamente supone un billete para el descenso de categoria. No estamos obligados a batear una pelota de cada tres. Aunque permanecer qui dia tras dia con mi bate sobre el hombro no es divertido.
+
+
+
+
+
+
+
 
