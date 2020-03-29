@@ -55,9 +55,9 @@ Desmitificar los dogmas aceptados.
 4. El precio de compra de la acción.
 5. Los niveles de fiscalidad e inflacción.
 
-:small_orange_diamond::small_orange_diamond::small_orange_diamond:Muchos analistas diran que estos factores son muy imprecisos. Ya que no pueden ser extraidos de una base de datos.
+:small_orange_diamond:Muchos analistas diran que estos factores son muy imprecisos. Ya que no pueden ser extraidos de una base de datos.
 
-:small_orange_diamond::small_orange_diamond:La dificultad de cuantificar con precisión estos factores no implica que se deba negar su importancia.
+:small_orange_diamond:La dificultad de cuantificar con precisión estos factores no implica que se deba negar su importancia.
 
 :small_orange_diamond:¿Es tan dificil llegar a la conclusión de que Coca-cola y Gillete tienen un riesgo menor a largo plazo que digamos cualquier empresa de ordenadores?
 
