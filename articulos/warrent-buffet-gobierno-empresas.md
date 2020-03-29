@@ -141,7 +141,7 @@ Si es compleaja o esta sujeta a continuos cambios no podemos predecir los futuro
 
 :small_orange_diamond: Ser precavidos cuando los demás sean ambiciosos y sea ambicioso cuando los demás sean precavidos.
 
-:small_orange_diamond: En los últimos 35 años las empresas EEUU han dado unos resultados estupendos. Todo lo que tenian que hacer era invertir en empresas americanas de una forma diversificada y con poco gasto (fondo indexado).
+:small_orange_diamond: <b><mark>En los últimos 35 años las empresas EEUU han dado unos resultados estupendos. Todo lo que tenian que hacer era invertir en empresas americanas de una forma diversificada y con poco gasto (fondo indexado).</mark><b>
 
 :small_orange_diamond: ¿Por qué no tenemos acciones de empresas tecnológicas? no tenemos conocimientos profundos para saber que empresas tienen una ventajaa competitiva perdurable. No nos preocupa hay muchas areas empresariales en las que tengo una buena experiencia asignando capital.
 
@@ -179,11 +179,11 @@ Por ejmplo:
 1. Alguna estrategia de inversión a corto plazo en títulos del gobierno de EEUU.
 2. 
 3. Algunas de nuestras filiales pueden incurrir en endeudamiento (sin que lo garantice Berskhire).
-<div class="text-red mb-2"><b><mark>No nos endeudamos para hacer adquisiciones o realizar operaciones. Somos muy conservadores.</mark></b></div>
+<b><mark>No nos endeudamos para hacer adquisiciones o realizar operaciones. Somos muy conservadores.</mark></b>
 
 :small_orange_diamond: La piedra angular de nuestro estilo de inversión es el letargo al límite de la pereza.
 
-:small_orange_diamond: La causa más habitual de los precios bajos es el pesimismo. Algunas veces generalizado y otras limitado a una empresa o sector. Queremos hacer negocios en este contexto. El optimismo es el enemigo del comprador racional.
+:small_orange_diamond: <b><mark>La causa más habitual de los precios bajos es el pesimismo. Algunas veces generalizado y otras limitado a una empresa o sector. Queremos hacer negocios en este contexto. El optimismo es el enemigo del comprador racional.</mark></b>
 
 :small_orange_diamond: No es una buena compra simplemente porque no es popular. Lo necesario es reflexionar. 
 "La mayoria de los hombres prefieren morir en vez de pensar y muchos lo hacen" (Bertran Russell).
@@ -209,9 +209,9 @@ small_orange_diamond: Adam Smith --> "Lo que es bueno en las decisiones de una f
 
 small_orange_diamond: Keynes "The general theory" (magistral obra)
 
-small_orange_diamond: Los EEUU son inmensamente ricos y lo sera todavía má, por consiguiente los enormes deficits de la balanza de pagos perdudaran durante mucho tiempo sin efectos nefactos para la economia americana.
+small_orange_diamond: Los EEUU son inmensamente ricos y lo sera todavía más, por consiguiente los enormes deficits de la balanza de pagos perdudaran durante mucho tiempo sin efectos nefactos para la economia americana.
 
-small_orange_diamond: Como si se tratara de una familia rica y despreocupada nos desprenderemos de una parte de nuestro patrimonio para poder consumir más de lo que producimos. EEUU puede premitirselo ya que es el pais rico. El mundo esta dispuesto a aceptar nuestros bonos, empresas y acciones.
+small_orange_diamond: Como si se tratara de una familia rica y despreocupada nos desprenderemos de una parte de nuestro patrimonio para poder consumir más de lo que producimos. EEUU puede premitirselo ya que es un pais rico. El mundo esta dispuesto a aceptar nuestros bonos, empresas y acciones.
 
 
 
