@@ -91,13 +91,13 @@ La dificultad de cuantificar con precisión estos factores no implica que se deb
 3. Gestionada por gente honesta y competente.
 4. A un precio atractivo.
 
-Cambiar un precio atractivo por un precio muy atractivo ¿cómo decide uno lo que es atractivo?
+:small_orange_diamond: Cambiar un precio atractivo por un precio muy atractivo ¿cómo decide uno lo que es atractivo?
 
-Los analistas creen que deben elegir entre dos enfoques que creen contrarios "valor y crecimiento". Nosotros pensamos que el crecimiento es siempre un componente en el cálculo del valor.
+:small_orange_diamond: Los analistas creen que deben elegir entre dos enfoques que creen contrarios "valor y crecimiento". Nosotros pensamos que el crecimiento es siempre un componente en el cálculo del valor.
 
-El crecimiento beneficia a los inversores solo cuando la empresa puede invertir en un rendimiento interesante. Un dolar invertido en el crecimiento debe crear a largo plazo más de un dolar de valor. En las actividades con poca rentabilidad el crecimeinto es perjudicial para el inversor.
+:small_orange_diamond: El crecimiento beneficia a los inversores solo cuando la empresa puede invertir en un rendimiento interesante. Un dolar invertido en el crecimiento debe crear a largo plazo más de un dolar de valor. En las actividades con poca rentabilidad el crecimeinto es perjudicial para el inversor.
 
-La mejor empresa es aquella que durente un largo periodo puede usar grandes cantidades en incremento de capital con tasas de rendimiento muy elevadas.
+:small_orange_diamond: La mejor empresa es aquella que durente un largo periodo puede usar grandes cantidades en incremento de capital con tasas de rendimiento muy elevadas.
 
 
 
