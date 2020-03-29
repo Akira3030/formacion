@@ -179,9 +179,8 @@ Por ejmplo:
 1. Alguna estrategia de inversión a corto plazo en títulos del gobierno de EEUU.
 2. 
 3. Algunas de nuestras filiales pueden incurrir en endeudamiento (sin que lo garantice Berskhire).
-<div class="text-red mb-2">
-No nos endeudamos para hacer adquisiciones o realizar operaciones. Somos muy conservadores.
-</div>
+**<div class="text-red mb-2">No nos endeudamos para hacer adquisiciones o realizar operaciones. Somos muy conservadores.
+</div>**
 
 :small_orange_diamond: La piedra angular de nuestro estilo de inversión es el letargo al límite de la pereza.
 
@@ -200,6 +199,24 @@ No nos endeudamos para hacer adquisiciones o realizar operaciones. Somos muy con
 Es una transferencia de riqueza de EEUU al resto del mundo (1800 millones de dolares al día).
 
 :small_orange_diamond: Los largos y persistentes deficits de la balanza de pagos. Somos como una familia que gasta más de lo que gana. Con el paso del tiempo, la familia constata que trabaja más y más para la sociedad financiera y menos para ella.
+
+small_orange_diamond: Seran los hijos quienes paguen los pecados de los padres.
+
+small_orange_diamond: A menos que los americanos reduzcan masivamente su consumo y que la balanza comercial registre un gran superavit producira problemas politicos en EEUU.
+
+small_orange_diamond: No hubiera propuesto este método que consiste en vender una parte de la propiedad de su granja familiar cada día para financiar un consumo excesivo.
+
+small_orange_diamond: Adam Smith --> "Lo que es bueno en las decisiones de una familia no puede ser malo para un reino. Si un pais extrangero puede suministrarnos un bien a un precio más barato al que nosotros podemos producirlo, es mejor adquirirlo con un poco de producción nacional, de manera que eso nos produzca alguna ventaja".
+
+small_orange_diamond: Keynes "The general theory" (magistral obra)
+
+small_orange_diamond: Los EEUU son inmensamente ricos y lo sera todavía má, por consiguiente los enormes deficits de la balanza de pagos perdudaran durante mucho tiempo sin efectos nefactos para la economia americana.
+
+small_orange_diamond: Como si se tratara de una familia rica y despreocupada nos desprenderemos de una parte de nuestro patrimonio para poder consumir más de lo que producimos. EEUU puede premitirselo ya que es el pais rico. El mundo esta dispuesto a aceptar nuestros bonos, empresas y acciones.
+
+
+
+
 
 
 
