@@ -166,22 +166,42 @@ Comprar Berkshire (1965): fabricación textil. sabia que el precio era barato. E
 
 :small_orange_diamond: Aprendimos a meternos en negocios solo con gente que me gusta en la que confio y admiro. Nunca hemos tenido exito en los negocios con malas personas.
 
-El imperio institucional. Yo pensaba que los gestores decentes, inteligentes y experimentados tomaban decisiones  automaticamente racionale. Pero no es así, la racionalidad se degrada cuando el imperativo entra en juego:
+:small_orange_diamond: El imperio institucional. Yo pensaba que los gestores decentes, inteligentes y experimentados tomaban decisiones  automaticamente racionale. Pero no es así, la racionalidad se degrada cuando el imperativo entra en juego:
 Por ejmplo:
 1. Una organización se resiste a cualquier cambio en su dirección actual.
 2. El trabajo se dilata para ocupar el tiempo disponible.
 3. Cualquier negocio que ambiciona el directivo sera rapidamente apoyado por detallados informes estrategicos y de rentabilidad.
 4. Las empresas imitan atolondradamente a la competencia.
 
-Unos ratios más elevados de apalancamiento hubiera producido mejores rendimiento. Hubieran tenido 1% de probabilidad de suspensión de pagos. No nos hubiera gustado hacer esta apuesta de 99 a 1 y no lo haremos nunca.
+:small_orange_diamond: Unos ratios más elevados de apalancamiento hubiera producido mejores rendimiento. Hubieran tenido 1% de probabilidad de suspensión de pagos. No nos hubiera gustado hacer esta apuesta de 99 a 1 y no lo haremos nunca.
 
-Nosotros huimos de la deuda salvo estos tres supuestos:
+:small_orange_diamond: Nosotros huimos de la deuda salvo estos tres supuestos:
 1. Alguna estrategia de inversión a corto plazo en títulos del gobierno de EEUU.
 2. 
 3. Algunas de nuestras filiales pueden incurrir en endeudamiento (sin que lo garantice Berskhire).
 <div class="text-red mb-2">
 No nos endeudamos para hacer adquisiciones o realizar operaciones. Somos muy conservadores.
 </div>
+
+:small_orange_diamond: La piedra angular de nuestro estilo de inversión es el letargo al límite de la pereza.
+
+:small_orange_diamond: La causa más habitual de los precios bajos es el pesimismo. Algunas veces generalizado y otras limitado a una empresa o sector. Queremos hacer negocios en este contexto. El optimismo es el enemigo del comprador racional.
+
+:small_orange_diamond: No es una buena compra simplemente porque no es popular. Lo necesario es reflexionar. 
+"La mayoria de los hombres prefieren morir en vez de pensar y muchos lo hacen" (Bertran Russell).
+
+:small_orange_diamond: Evaluamos todas las clases de inversiones siempre que comprendamos el tipo de negocio que compramos y que su precio y su valor difieran significativamente. Mentalidad abierta (es una gran ventaja).
+
+:small_orange_diamond: Los adivinos tienen una amplia sección en el cementerio junto a quienes hacen predicciones macroeconomicas. Nosotros hacemos pocas macro predicciones.
+
+:small_orange_diamond: Ben Graham: si me pidieran explicar el secreto de una buena inversión en tres palabras diría el margen de seguridad.
+
+:small_orange_diamond: Depreciación del dolar. Deficit comercial: tendra importantes consecuencias
+Es una transferencia de riqueza de EEUU al resto del mundo (1800 millones de dolares al día).
+
+:small_orange_diamond: Los largos y persistentes deficits de la balanza de pagos. Somos como una familia que gasta más de lo que gana. Con el paso del tiempo, la familia constata que trabaja más y más para la sociedad financiera y menos para ella.
+
+
 
 
 
