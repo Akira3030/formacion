@@ -137,9 +137,9 @@ Si es compleaja o esta sujeta a continuos cambios no podemos predecir los futuro
 2. Toma de decisiones en consejos y modas.
 3. Idas y venidas en el mercado (entradas a destiempo).
 
-:small_orange_diamond: :small_orange_diamond: La emoción y los gastos son sus enemigos.
+:small_orange_diamond: La emoción y los gastos son sus enemigos.
 
-Ser precavidos cuando los demás sean ambiciosos y sea ambicioso cuando los demás sean precavidos.
+:small_orange_diamond: Ser precavidos cuando los demás sean ambiciosos y sea ambicioso cuando los demás sean precavidos.
 
 :small_orange_diamond: En los últimos 35 años las empresas EEUU han dado unos resultados estupendos. Todo lo que tenian que hacer era invertir en empresas americanas de una forma diversificada y con poco gasto (fondo indexado).
 
@@ -152,6 +152,48 @@ Ser precavidos cuando los demás sean ambiciosos y sea ambicioso cuando los dem�
 :small_orange_diamond: Si las expectativas de los inversores se vuelven más realistas (y sera asi seguro) el reajuste del mercado puede ser severo particularmente en los sectores donde se ha concentrado la especulación.
 
 :small_orange_diamond: Esperar la buena pelota es la via para alcanzar el exito y la fama, mientras que batear indiscriminadamente supone un billete para el descenso de categoria. No estamos obligados a batear una pelota de cada tres. Aunque permanecer qui dia tras dia con mi bate sobre el hombro no es divertido.
+
+:small_orange_diamond: Errores que cometimos.
+Comprar Berkshire (1965): fabricación textil. sabia que el precio era barato. El enfoque de inversión de la colilla a menos que sea unliquidador de empresas esto es una locura. En una empresa en dificultades tan pronto como se soluciona un problema surge otro (nunca hay solo una cucaracha en la cocina). Hay que venderla rapido. La ventaja se vera erosionada rapidamente. El tiempo es el aliado de los buenos negocios y el enemigo de los mediocres.
+
+:small_orange_diamond: Los buenos jockeys ganan si montan caballos buenos.
+
+:small_orange_diamond: Cuando un gestor con una reputación brillante tiene que afrontar un mal negocio, es la reputación del negocio la que permanece intacta.
+
+:small_orange_diamond: Charlie y yo no hemos aprendido a resolver problemas empresariales dificiles. Lo que si que hemos aprendido es a evitarlos.
+
+:small_orange_diamond: Es mucho más beneficioso simplemente ir a por lo facíl y evidente que resolver lo difcil.
+
+:small_orange_diamond: Aprendimos a meternos en negocios solo con gente que me gusta en la que confio y admiro. Nunca hemos tenido exito en los negocios con malas personas.
+
+El imperio institucional. Yo pensaba que los gestores decentes, inteligentes y experimentados tomaban decisiones  automaticamente racionale. Pero no es así, la racionalidad se degrada cuando el imperativo entra en juego:
+Por ejmplo:
+1. Una organización se resiste a cualquier cambio en su dirección actual.
+2. El trabajo se dilata para ocupar el tiempo disponible.
+3. Cualquier negocio que ambiciona el directivo sera rapidamente apoyado por detallados informes estrategicos y de rentabilidad.
+4. Las empresas imitan atolondradamente a la competencia.
+
+Unos ratios más elevados de apalancamiento hubiera producido mejores rendimiento. Hubieran tenido 1% de probabilidad de suspensión de pagos. No nos hubiera gustado hacer esta apuesta de 99 a 1 y no lo haremos nunca.
+
+Nosotros huimos de la deuda salvo estos tres supuestos:
+1. Alguna estrategia de inversión a corto plazo en títulos del gobierno de EEUU.
+2. 
+3. Algunas de nuestras filiales pueden incurrir en endeudamiento (sin que lo garantice Berskhire).
+<div class="text-red mb-2">
+No nos endeudamos para hacer adquisiciones o realizar operaciones. Somos muy conservadores.
+</div>
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
