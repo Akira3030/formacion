@@ -48,18 +48,18 @@ Desmitificar los dogmas aceptados.
 
 :small_orange_diamond:Desdeñan analizar lo qeu produce una empresa. Incluso no saben ni el nombre de la compañia. Lo que valoran es el precio historico de su acción. Nosotros prescindimos de saber el precio historico de la compañia en su lugar buscamos cualquier información que nos permita entender mejor su actividad.
 
-<div class="border border-black-fade bg-red-light p-2 mb-2">
-Principales factores a tener en cuenta al valorar una empresa:</br>
-1. Grado de certidumbre con que puede ser evaluadas las carecteristicas economicas de la empresa a largo plazo.</br>
-2. Grado de certidumbre con el que puede ser evaluada la gestión.</br>
+
+:small_orange_diamond:Principales factores a tener en cuenta al valorar una empresa:
+1. Grado de certidumbre con que puede ser evaluadas las carecteristicas economicas de la empresa a largo plazo.
+2. Grado de certidumbre con el que puede ser evaluada la gestión.
 3. Grado de certidumbre que tenemos de que los gestores canalizan los beneficios de la empresa hacia los accionistas (y no hacia ellos mismos).</br>
-4. El precio de compra de la acción.</br>
-5. Los niveles de fiscalidad e inflacción.</br>
+4. El precio de compra de la acción.
+5. Los niveles de fiscalidad e inflacción.
 
 Muchos analistas diran que estos factores son muy imprecisos. Ya que no pueden ser extraidos de una base de datos.</br>
 
 La dificultad de cuantificar con precisión estos factores no implica que se deba negar su importancia.
-</div>
+
 
 :small_orange_diamond:¿Es tan dificil llegar a la conclusión de que Coca-cola y Gillete tienen un riesgo menor a largo plazo que digamos cualquier empresa de ordenadores?
 
@@ -73,19 +73,19 @@ La dificultad de cuantificar con precisión estos factores no implica que se deb
 
 :small_orange_diamond:Si es capaz de entender operaciones economicas y encontrar de cinco a diez empresas con un precio adecuado que tengan importantes ventajas competitivas a largo plazo la diversificación no le conviene.
 
-Buscamos continuamente empresas con caracteristicas economicas comprensibles  y duradera, llevadas por gestores capaces y que favorezcan al accionista  pero tenemos que comprar a un precio adecuado.
+:small_orange_diamond:Buscamos continuamente empresas con caracteristicas economicas comprensibles  y duradera, llevadas por gestores capaces y que favorezcan al accionista  pero tenemos que comprar a un precio adecuado.
 
-Y ya que encontrar grandes empresas y excelentes gestores es tan dificil. ¿Por qué deberiamos descartar productos que ya han demostrado que funcionan bien? Si has tenido exito a la primera deja de intentarlo.
+:small_orange_diamond:Y ya que encontrar grandes empresas y excelentes gestores es tan dificil. ¿Por qué deberiamos descartar productos que ya han demostrado que funcionan bien? Si has tenido exito a la primera deja de intentarlo.
 
-Nuestra meta es encontrar una empresa excelente a un buen precio y no una empresa mediocre a un precio de saldo.
+:small_orange_diamond:Nuestra meta es encontrar una empresa excelente a un buen precio y no una empresa mediocre a un precio de saldo.
 
-Las empresas pueden ser mal interpretadas.
+:small_orange_diamond:Las empresas pueden ser mal interpretadas.
 
-La falta de conocimieto quue tienen muchs directores generales en cuestiones de asignación de capital no es un problema sin importancia.
+:small_orange_diamond:La falta de conocimieto quue tienen muchs directores generales en cuestiones de asignación de capital no es un problema sin importancia.
 
-Participaciones minoritarias de empresas extraordinariamente buenas a unos precios ridículos.
+:small_orange_diamond:Participaciones minoritarias de empresas extraordinariamente buenas a unos precios ridículos.
 
-Seleccionamos nuestras participaciones accionariales de modo muy parecido al que evaluamos una empresa para comprarla, queremos que sea una empresa que:
+:small_orange_diamond:Seleccionamos nuestras participaciones accionariales de modo muy parecido al que evaluamos una empresa para comprarla, queremos que sea una empresa que:
 1.Podamos comprenderla.
 2.Perspectivas favorables a largo plazo.
 3.Gestionada por gente honesta y competente.
