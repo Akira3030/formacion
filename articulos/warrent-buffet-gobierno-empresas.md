@@ -49,14 +49,14 @@ Desmitificar los dogmas aceptados.
 :small_orange_diamond:Desdeñan analizar lo qeu produce una empresa. Incluso no saben ni el nombre de la compañia. Lo que valoran es el precio historico de su acción. Nosotros prescindimos de saber el precio historico de la compañia en su lugar buscamos cualquier información que nos permita entender mejor su actividad.
 
 <div class="border border-black-fade bg-red-light p-2 mb-2">
-Principales factores a tener en cuenta al valorar una empresa:
-1. Grado de certidumbre con que puede ser evaluadas las carecteristicas economicas de la empresa a largo plazo.
-2. Grado de certidumbre con el que puede ser evaluada la gestión.
-3. Grado de certidumbre que tenemos de que los gestores canalizan los beneficios de la empresa hacia los accionistas (y no hacia ellos mismos).
-4. El precio de compra de la acción.
-5. Los niveles de fiscalidad e inflacción.
+Principales factores a tener en cuenta al valorar una empresa:</br>
+1. Grado de certidumbre con que puede ser evaluadas las carecteristicas economicas de la empresa a largo plazo.</br>
+2. Grado de certidumbre con el que puede ser evaluada la gestión.</br>
+3. Grado de certidumbre que tenemos de que los gestores canalizan los beneficios de la empresa hacia los accionistas (y no hacia ellos mismos).</br>
+4. El precio de compra de la acción.</br>
+5. Los niveles de fiscalidad e inflacción.</br>
 
-Muchos analistas diran que estos factores son muy imprecisos. Ya que no pueden ser extraidos de una base de datos.
+Muchos analistas diran que estos factores son muy imprecisos. Ya que no pueden ser extraidos de una base de datos.</br>
 
 La dificultad de cuantificar con precisión estos factores no implica que se deba negar su importancia.
 </div>
