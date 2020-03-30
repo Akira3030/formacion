@@ -92,7 +92,7 @@ La dificultad de cuantificar con precisión estos factores no implica que se deb
 
 :small_orange_diamond:Las empresas pueden ser mal interpretadas.
 
-:small_orange_diamond:La falta de conocimieto quue tienen muchs directores generales en cuestiones de asignación de capital no es un problema sin importancia.
+:small_orange_diamond:<mark>La falta de conocimieto quue tienen muchs directores generales en cuestiones de asignación de capital no es un problema sin importancia.</mark>
 
 :small_orange_diamond:Participaciones minoritarias de empresas extraordinariamente buenas a unos precios ridículos.
 
@@ -106,7 +106,7 @@ La dificultad de cuantificar con precisión estos factores no implica que se deb
 
 ***
 
-:small_orange_diamond: Los analistas creen que deben elegir entre dos enfoques que creen contrarios "valor y crecimiento". Nosotros pensamos que el crecimiento es siempre un componente en el cálculo del valor.
+:small_orange_diamond: <mark>Los analistas creen que deben elegir entre dos enfoques que creen contrarios "valor y crecimiento". Nosotros pensamos que el crecimiento es siempre un componente en el cálculo del valor.</mark>
 
 :small_orange_diamond: El crecimiento beneficia a los inversores solo cuando la empresa puede invertir en un rendimiento interesante. Un dolar invertido en el crecimiento debe crear a largo plazo más de un dolar de valor. En las actividades con poca rentabilidad el crecimeinto es perjudicial para el inversor.
 
@@ -155,7 +155,7 @@ Si es compleaja o esta sujeta a continuos cambios no podemos predecir los futuro
 2. Toma de decisiones en consejos y modas.
 3. Idas y venidas en el mercado (entradas a destiempo).
 
-:small_orange_diamond: La emoción y los gastos son sus enemigos.
+:small_orange_diamond: <mark>La emoción y los gastos son sus enemigos.</mark>
 
 :small_orange_diamond: Ser precavidos cuando los demás sean ambiciosos y sea ambicioso cuando los demás sean precavidos.
 
@@ -167,7 +167,7 @@ Si es compleaja o esta sujeta a continuos cambios no podemos predecir los futuro
 
 :small_orange_diamond: Tenemos un punto fuerte, saber reconocer cuando operamos bien dentro de nuestro ambito de competencia y cuando nos acercamos a su perímetro.
 
-:small_orange_diamond: Constatamos que el crecimiento de los beneficios empresariales está muy vinculado a la producción del pais (PIB). El PIB esta creciendo a un 3% y pronosticamos un 2% de inflacción.
+:small_orange_diamond: <mark>Constatamos que el crecimiento de los beneficios empresariales está muy vinculado a la producción del pais (PIB). El PIB esta creciendo a un 3% y pronosticamos un 2% de inflacción.</mark>
 
 :small_orange_diamond: Si las expectativas de los inversores se vuelven más realistas (y sera asi seguro) el reajuste del mercado puede ser severo particularmente en los sectores donde se ha concentrado la especulación.
 
@@ -178,7 +178,7 @@ Si es compleaja o esta sujeta a continuos cambios no podemos predecir los futuro
 :small_orange_diamond: Errores que cometimos.
 Comprar Berkshire (1965): fabricación textil. sabia que el precio era barato. El enfoque de inversión de la colilla a menos que sea unliquidador de empresas esto es una locura. En una empresa en dificultades tan pronto como se soluciona un problema surge otro (nunca hay solo una cucaracha en la cocina). Hay que venderla rapido. La ventaja se vera erosionada rapidamente. El tiempo es el aliado de los buenos negocios y el enemigo de los mediocres.
 
-:small_orange_diamond: Los buenos jockeys ganan si montan caballos buenos.
+:small_orange_diamond: <mark>Los buenos jockeys ganan si montan caballos buenos.</mark>
 
 :small_orange_diamond: Cuando un gestor con una reputación brillante tiene que afrontar un mal negocio, es la reputación del negocio la que permanece intacta.
 
@@ -190,7 +190,7 @@ Comprar Berkshire (1965): fabricación textil. sabia que el precio era barato. E
 
 :small_orange_diamond: Aprendimos a meternos en negocios solo con gente que me gusta en la que confio y admiro. Nunca hemos tenido exito en los negocios con malas personas.
 
-:small_orange_diamond: El imperio institucional. Yo pensaba que los gestores decentes, inteligentes y experimentados tomaban decisiones  automaticamente racionale. Pero no es así, la racionalidad se degrada cuando el imperativo entra en juego:
+:small_orange_diamond: <mark>El imperio institucional. Yo pensaba que los gestores decentes, inteligentes y experimentados tomaban decisiones  automaticamente racionale. Pero no es así, la racionalidad se degrada cuando el imperativo entra en juego:</mark>
 Por ejmplo:
 1. Una organización se resiste a cualquier cambio en su dirección actual.
 2. El trabajo se dilata para ocupar el tiempo disponible.
@@ -229,7 +229,7 @@ Es una transferencia de riqueza de EEUU al resto del mundo (1800 millones de dol
 
 :small_orange_diamond: Seran los hijos quienes paguen los pecados de los padres.
 
-:small_orange_diamond: A menos que los americanos reduzcan masivamente su consumo y que la balanza comercial registre un gran superavit producira problemas politicos en EEUU.
+:small_orange_diamond: <mark>A menos que los americanos reduzcan masivamente su consumo y que la balanza comercial registre un gran superavit producira problemas politicos en EEUU.</mark>
 
 ***
 
