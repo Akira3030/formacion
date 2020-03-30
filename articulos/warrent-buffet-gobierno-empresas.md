@@ -161,7 +161,7 @@ Si es compleaja o esta sujeta a continuos cambios no podemos predecir los futuro
 
 ***
 
-:small_orange_diamond: <b><mark>En los últimos 35 años las empresas EEUU han dado unos resultados estupendos. Todo lo que tenian que hacer era invertir en empresas americanas de una forma diversificada y con poco gasto (fondo indexado).</mark><b>
+:small_orange_diamond: <mark>En los últimos 35 años las empresas EEUU han dado unos resultados estupendos. Todo lo que tenian que hacer era invertir en empresas americanas de una forma diversificada y con poco gasto (fondo indexado).</mark>
 
 :small_orange_diamond: ¿Por qué no tenemos acciones de empresas tecnológicas? no tenemos conocimientos profundos para saber que empresas tienen una ventajaa competitiva perdurable. No nos preocupa hay muchas areas empresariales en las que tengo una buena experiencia asignando capital.
 
