@@ -203,13 +203,13 @@ Por ejmplo:
 1. Alguna estrategia de inversión a corto plazo en títulos del gobierno de EEUU.
 2. 
 3. Algunas de nuestras filiales pueden incurrir en endeudamiento (sin que lo garantice Berskhire).
-<b><mark>No nos endeudamos para hacer adquisiciones o realizar operaciones. Somos muy conservadores.</mark></b>
+<mark>No nos endeudamos para hacer adquisiciones o realizar operaciones. Somos muy conservadores.</mark>
 
 ***
 
 :small_orange_diamond: La piedra angular de nuestro estilo de inversión es el letargo al límite de la pereza.
 
-:small_orange_diamond: <b><mark>La causa más habitual de los precios bajos es el pesimismo. Algunas veces generalizado y otras limitado a una empresa o sector. Queremos hacer negocios en este contexto. El optimismo es el enemigo del comprador racional.</mark></b>
+:small_orange_diamond: <mark>La causa más habitual de los precios bajos es el pesimismo. Algunas veces generalizado y otras limitado a una empresa o sector. Queremos hacer negocios en este contexto. El optimismo es el enemigo del comprador racional.</mark>
 
 :small_orange_diamond: No es una buena compra simplemente porque no es popular. Lo necesario es reflexionar. 
 "La mayoria de los hombres prefieren morir en vez de pensar y muchos lo hacen" (Bertran Russell).
