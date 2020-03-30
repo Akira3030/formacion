@@ -42,6 +42,8 @@ Desmitificar los dogmas aceptados.
 
 :small_orange_diamond:En la vida de un inversor es muy dificil tomar cientos de buenas inversiones. Hemos adoptado una estrategia que requiere actuar inteligentemente solo en contadas ocasiones.
 
+***
+
 :small_orange_diamond:Nos hemos fijado como objetivo tener una sola buena idea al año. Nuestra estrategia excluye la diversificación. Creemos que concentrar la cartera disminuye el riesgo.
 
 :small_orange_diamond:Riesgo: la posibilidad de perdida. Sin embargo los academicos afirman que es la volatilidad "beta".
@@ -52,6 +54,7 @@ Desmitificar los dogmas aceptados.
 
 :small_orange_diamond:Desdeñan analizar lo qeu produce una empresa. Incluso no saben ni el nombre de la compañia. Lo que valoran es el precio historico de su acción. Nosotros prescindimos de saber el precio historico de la compañia en su lugar buscamos cualquier información que nos permita entender mejor su actividad.
 
+***
 
 :small_orange_diamond:Principales factores a tener en cuenta al valorar una empresa:
 1. Grado de certidumbre con que puede ser evaluadas las carecteristicas economicas de la empresa a largo plazo.
@@ -73,6 +76,8 @@ La dificultad de cuantificar con precisión estos factores no implica que se deb
 
 :small_orange_diamond:Enorme ventaja competitiva (foso protector) la competitividad puede dañar seriamente la salud de las personas.
 
+***
+
 :small_orange_diamond:¿Por qué deberiamos creer que podemos predecir el futuro de otros sectores que evolucionan rapidamente?
 
 :small_orange_diamond:Si es capaz de entender operaciones economicas y encontrar de cinco a diez empresas con un precio adecuado que tengan importantes ventajas competitivas a largo plazo la diversificación no le conviene.
@@ -82,6 +87,8 @@ La dificultad de cuantificar con precisión estos factores no implica que se deb
 :small_orange_diamond:Y ya que encontrar grandes empresas y excelentes gestores es tan dificil. ¿Por qué deberiamos descartar productos que ya han demostrado que funcionan bien? Si has tenido exito a la primera deja de intentarlo.
 
 :small_orange_diamond:Nuestra meta es encontrar una empresa excelente a un buen precio y no una empresa mediocre a un precio de saldo.
+
+***
 
 :small_orange_diamond:Las empresas pueden ser mal interpretadas.
 
@@ -97,6 +104,8 @@ La dificultad de cuantificar con precisión estos factores no implica que se deb
 
 :small_orange_diamond: Cambiar un precio atractivo por un precio muy atractivo ¿cómo decide uno lo que es atractivo?
 
+***
+
 :small_orange_diamond: Los analistas creen que deben elegir entre dos enfoques que creen contrarios "valor y crecimiento". Nosotros pensamos que el crecimiento es siempre un componente en el cálculo del valor.
 
 :small_orange_diamond: El crecimiento beneficia a los inversores solo cuando la empresa puede invertir en un rendimiento interesante. Un dolar invertido en el crecimiento debe crear a largo plazo más de un dolar de valor. En las actividades con poca rentabilidad el crecimeinto es perjudicial para el inversor.
@@ -108,6 +117,8 @@ La dificultad de cuantificar con precisión estos factores no implica que se deb
 El valor de cualquier acción o empresa hoy esta determinada por los flujos de entradas y salidas de efectivo que se espera que se den durante el periodo restante en que se tendra la acción.
 
 :small_orange_diamond: No queremos gestores que no nos gusten y no admiremos.
+
+***
 
 :small_orange_diamond: La inactividad es una prueba de inteligencia.
 
@@ -122,6 +133,8 @@ Si es compleaja o esta sujeta a continuos cambios no podemos predecir los futuro
 
 :small_orange_diamond: Charlie y yo podemos identificar solo unas pocas empresas "inevitables" incluso despues de habernos dedicado toda la vida a buscarlas. Por cada "inevitable" hay docenas de impostores. compañias que crecen que crecen pero que son muy vulnerables a la competencia.
 
+***
+
 :small_orange_diamond: Cuando el gestor se desvia y actua con negligencia dedicandose a adquirir otros negocios que son parecidos o peores. Gillete llego a dedicarse a la busqueda de petroleo. La perdida del enfoque es lo que más nos preocupa.
 
 :small_orange_diamond: La mayoria de inversores veran que la mejor manera de obtener acciones ordinarias es a traves de un fondo indexado que tiene unos costes mínimos.
@@ -131,6 +144,8 @@ Si es compleaja o esta sujeta a continuos cambios no podemos predecir los futuro
 :small_orange_diamond: Lo que un inversor necesita es tener la habilidad de evaluar correctamente las empresas seleccionadas. No tienes que evaluar todas, solo las que estan en tu circulo de competencia (es vital).
 
 :small_orange_diamond: Su objetivo como inversor debe ser comprar a un precio racional, una participación en una empresa que pueda comprender facilmente y cuyas ganancias sea practicamente seguro que serán superiores en cinco, diez o veinte años. Con el tiempo encontrara solo unas pocas empresas que cumplan estos requisitos.
+
+***
 
 :small_orange_diamond: Reuna empresas cuyos beneficios vayan creciendo en el futuro y vera como incrementa el valor de su cartera en el futuro.
 
@@ -145,6 +160,8 @@ Si es compleaja o esta sujeta a continuos cambios no podemos predecir los futuro
 
 :small_orange_diamond: Ser precavidos cuando los demás sean ambiciosos y sea ambicioso cuando los demás sean precavidos.
 
+***
+
 :small_orange_diamond: <b><mark>En los últimos 35 años las empresas EEUU han dado unos resultados estupendos. Todo lo que tenian que hacer era invertir en empresas americanas de una forma diversificada y con poco gasto (fondo indexado).</mark><b>
 
 :small_orange_diamond: ¿Por qué no tenemos acciones de empresas tecnológicas? no tenemos conocimientos profundos para saber que empresas tienen una ventajaa competitiva perdurable. No nos preocupa hay muchas areas empresariales en las que tengo una buena experiencia asignando capital.
@@ -154,6 +171,8 @@ Si es compleaja o esta sujeta a continuos cambios no podemos predecir los futuro
 :small_orange_diamond: Constatamos que el crecimiento de los beneficios empresariales está muy vinculado a la producción del pais (PIB). El PIB esta creciendo a un 3% y pronosticamos un 2% de inflacción.
 
 :small_orange_diamond: Si las expectativas de los inversores se vuelven más realistas (y sera asi seguro) el reajuste del mercado puede ser severo particularmente en los sectores donde se ha concentrado la especulación.
+
+***
 
 :small_orange_diamond: Esperar la buena pelota es la via para alcanzar el exito y la fama, mientras que batear indiscriminadamente supone un billete para el descenso de categoria. No estamos obligados a batear una pelota de cada tres. Aunque permanecer qui dia tras dia con mi bate sobre el hombro no es divertido.
 
@@ -165,6 +184,8 @@ Comprar Berkshire (1965): fabricación textil. sabia que el precio era barato. E
 :small_orange_diamond: Cuando un gestor con una reputación brillante tiene que afrontar un mal negocio, es la reputación del negocio la que permanece intacta.
 
 :small_orange_diamond: Charlie y yo no hemos aprendido a resolver problemas empresariales dificiles. Lo que si que hemos aprendido es a evitarlos.
+
+***
 
 :small_orange_diamond: Es mucho más beneficioso simplemente ir a por lo facíl y evidente que resolver lo difcil.
 
@@ -185,6 +206,8 @@ Por ejmplo:
 3. Algunas de nuestras filiales pueden incurrir en endeudamiento (sin que lo garantice Berskhire).
 <b><mark>No nos endeudamos para hacer adquisiciones o realizar operaciones. Somos muy conservadores.</mark></b>
 
+***
+
 :small_orange_diamond: La piedra angular de nuestro estilo de inversión es el letargo al límite de la pereza.
 
 :small_orange_diamond: <b><mark>La causa más habitual de los precios bajos es el pesimismo. Algunas veces generalizado y otras limitado a una empresa o sector. Queremos hacer negocios en este contexto. El optimismo es el enemigo del comprador racional.</mark></b>
@@ -195,6 +218,8 @@ Por ejmplo:
 :small_orange_diamond: Evaluamos todas las clases de inversiones siempre que comprendamos el tipo de negocio que compramos y que su precio y su valor difieran significativamente. Mentalidad abierta (es una gran ventaja).
 
 :small_orange_diamond: Los adivinos tienen una amplia sección en el cementerio junto a quienes hacen predicciones macroeconomicas. Nosotros hacemos pocas macro predicciones.
+
+***
 
 :small_orange_diamond: Ben Graham: si me pidieran explicar el secreto de una buena inversión en tres palabras diría el margen de seguridad.
 
@@ -207,6 +232,8 @@ small_orange_diamond: Seran los hijos quienes paguen los pecados de los padres.
 
 small_orange_diamond: A menos que los americanos reduzcan masivamente su consumo y que la balanza comercial registre un gran superavit producira problemas politicos en EEUU.
 
+***
+
 small_orange_diamond: No hubiera propuesto este método que consiste en vender una parte de la propiedad de su granja familiar cada día para financiar un consumo excesivo.
 
 small_orange_diamond: Adam Smith --> "Lo que es bueno en las decisiones de una familia no puede ser malo para un reino. Si un pais extrangero puede suministrarnos un bien a un precio más barato al que nosotros podemos producirlo, es mejor adquirirlo con un poco de producción nacional, de manera que eso nos produzca alguna ventaja".
@@ -216,6 +243,8 @@ small_orange_diamond: Keynes "The general theory" (magistral obra)
 small_orange_diamond: Los EEUU son inmensamente ricos y lo sera todavía más, por consiguiente los enormes deficits de la balanza de pagos perdudaran durante mucho tiempo sin efectos nefactos para la economia americana.
 
 small_orange_diamond: Como si se tratara de una familia rica y despreocupada nos desprenderemos de una parte de nuestro patrimonio para poder consumir más de lo que producimos. EEUU puede premitirselo ya que es un pais rico. El mundo esta dispuesto a aceptar nuestros bonos, empresas y acciones.
+
+***
 
 
 
