@@ -78,7 +78,7 @@ La dificultad de cuantificar con precisión estos factores no implica que se deb
 
 ***
 
-:small_orange_diamond:¿Por qué deberiamos creer que podemos predecir el futuro de otros sectores que evolucionan rapidamente?
+:small_orange_diamond:<mark>¿Por qué deberiamos creer que podemos predecir el futuro de otros sectores que evolucionan rapidamente?</mark>
 
 :small_orange_diamond:Si es capaz de entender operaciones economicas y encontrar de cinco a diez empresas con un precio adecuado que tengan importantes ventajas competitivas a largo plazo la diversificación no le conviene.
 
@@ -110,7 +110,7 @@ La dificultad de cuantificar con precisión estos factores no implica que se deb
 
 :small_orange_diamond: El crecimiento beneficia a los inversores solo cuando la empresa puede invertir en un rendimiento interesante. Un dolar invertido en el crecimiento debe crear a largo plazo más de un dolar de valor. En las actividades con poca rentabilidad el crecimeinto es perjudicial para el inversor.
 
-:small_orange_diamond: La mejor empresa es aquella que durente un largo periodo puede usar grandes cantidades en incremento de capital con tasas de rendimiento muy elevadas.
+:small_orange_diamond: <mark>La mejor empresa es aquella que durente un largo periodo puede usar grandes cantidades en incremento de capital con tasas de rendimiento muy elevadas.</mark>
 
 :small_orange_diamond: The theory of investiment value (Jhon Burr Willians). Ecuación para el cálculo del valor.
 El valor de cualquier acción o empresa hoy esta determinada por los flujos de entradas y salidas de efectivo que se espera que se den durante el periodo restante en que se tendra la acción.
@@ -119,7 +119,7 @@ El valor de cualquier acción o empresa hoy esta determinada por los flujos de e
 
 ***
 
-:small_orange_diamond: La inactividad es una prueba de inteligencia.
+:small_orange_diamond: <mark>La inactividad es una prueba de inteligencia.</mark>
 
 :small_orange_diamond: Un analista puede equivocarse facilmente. Nos enfrentamos al problema de dos maneras:
 1. Solo valorar empresas que comprendemos bien (sencillas y estables).
@@ -136,7 +136,7 @@ Si es compleaja o esta sujeta a continuos cambios no podemos predecir los futuro
 
 :small_orange_diamond: Cuando el gestor se desvia y actua con negligencia dedicandose a adquirir otros negocios que son parecidos o peores. Gillete llego a dedicarse a la busqueda de petroleo. La perdida del enfoque es lo que más nos preocupa.
 
-:small_orange_diamond: La mayoria de inversores veran que la mejor manera de obtener acciones ordinarias es a traves de un fondo indexado que tiene unos costes mínimos.
+:small_orange_diamond: <mark>La mayoria de inversores veran que la mejor manera de obtener acciones ordinarias es a traves de un fondo indexado que tiene unos costes mínimos.</mark>
 
 :small_orange_diamond: Invertir de forma inteligente no es complicado aunque esta lejos de ser facil.
 
@@ -216,16 +216,16 @@ Por ejmplo:
 
 :small_orange_diamond: Evaluamos todas las clases de inversiones siempre que comprendamos el tipo de negocio que compramos y que su precio y su valor difieran significativamente. Mentalidad abierta (es una gran ventaja).
 
-:small_orange_diamond: Los adivinos tienen una amplia sección en el cementerio junto a quienes hacen predicciones macroeconomicas. Nosotros hacemos pocas macro predicciones.
+:small_orange_diamond: <mark>Los adivinos tienen una amplia sección en el cementerio junto a quienes hacen predicciones macroeconomicas. Nosotros hacemos pocas macro predicciones.</mark>
 
 ***
 
-:small_orange_diamond: Ben Graham: si me pidieran explicar el secreto de una buena inversión en tres palabras diría el margen de seguridad.
+:small_orange_diamond: Ben Graham: si me pidieran explicar el secreto de una buena inversión en tres palabras diría el <mark>margen de seguridad.</mark>
 
 :small_orange_diamond: Depreciación del dolar. Deficit comercial: tendra importantes consecuencias
 Es una transferencia de riqueza de EEUU al resto del mundo (1800 millones de dolares al día).
 
-:small_orange_diamond: Los largos y persistentes deficits de la balanza de pagos. Somos como una familia que gasta más de lo que gana. Con el paso del tiempo, la familia constata que trabaja más y más para la sociedad financiera y menos para ella.
+:small_orange_diamond: <mark>Los largos y persistentes deficits de la balanza de pagos.</mark> Somos como una familia que gasta más de lo que gana. Con el paso del tiempo, la familia constata que trabaja más y más para la sociedad financiera y menos para ella.
 
 :small_orange_diamond: Seran los hijos quienes paguen los pecados de los padres.
 
