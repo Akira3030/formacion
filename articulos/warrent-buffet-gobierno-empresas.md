@@ -244,3 +244,47 @@ Es una transferencia de riqueza de EEUU al resto del mundo (1800 millones de dol
 :small_orange_diamond: Como si se tratara de una familia rica y despreocupada nos desprenderemos de una parte de nuestro patrimonio para poder consumir más de lo que producimos. EEUU puede premitirselo ya que es un pais rico. El mundo esta dispuesto a aceptar nuestros bonos, empresas y acciones.
 
 ***
+
+:small_orange_diamond: Cuando no conseguimos encontrar la inversión que más nos gusta optamos por instrumentos de alta calidad a corto plazo y sin riesgo.
+
+:small_orange_diamond: Haremos alguna operación no convencional cuando creamos que la suerte esta de nuestro lado.
+
+:small_orange_diamond: El miedo y la ambición son dos enfermedades que contagian ocasionalmente a la comunidad financiera. Cuando se produciran esas epidemias es imprevisible. Nunca tratamos de anticipar el comienzo o el fin las epidemias. Simplemente intentamos estar alerta cuando los demás se muestran ambiciosos y ambiciosos cuando los demás tienenmiedo.
+
+:small_orange_diamond: Entre el 31 de diciembre de 1899 y el 31 de diciembre de 1999 el Dow Jones pasó de 66 a 11997. La causa: durante el siglo XX las empresas de EEUU funcionaron muy bien y los inversores han prosperado.
+
+:small_orange_diamond: Si un inversor vende a un precio elevado otro debe comprar a un precio elevado.
+
+***
+
+:small_orange_diamond: Lo máximo que puede ganar un accionista entre hoy y el juicio final es la riqueza que puede crear en total su empresa.
+
+:small_orange_diamond: Una porción record de las ganancias que irian a parar a los propietarios va a parar a un ejercito de ayudantes. Puede alcanzar el 20% de los beneficios de las empresas americanas.
+
+:small_orange_diamond: Isaac Newton: puedo calcular el movimiento de las estrellas, pero no la locura de los hombres.
+
+:small_orange_diamond: Para los inversores en conjunto, los rendimientos bajan a medida que se incrementa el movimiento.
+
+:small_orange_diamond: Esperamos que la cotización de la acción se corresponda razonablemente con el valor intrinseco de la empresa. Si es asi, el resultado obtenido por cada accionista sera equivalente a la rentabilidad de la empresa durante el periodo que haya tenido en propiedad la acción.
+
+***
+
+:small_orange_diamond: La cotización de muchas acciones fluctua entre niveles de una notable infravaloración y excesiva valoración. Cuando esto ocurre los accionistas son recompensados o penalizados sin que haya una relación directa con la rentabilidad de la empresa.
+
+:small_orange_diamond: La cotización de nuestras acciones es un reflejo constante del valor empresarial.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
