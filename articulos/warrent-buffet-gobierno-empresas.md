@@ -273,6 +273,22 @@ Es una transferencia de riqueza de EEUU al resto del mundo (1800 millones de dol
 
 :small_orange_diamond: La cotización de nuestras acciones es un reflejo constante del valor empresarial.
 
+:small_orange_diamond: Las empresas dicen: "nuestro objetivo es pagar dividendos que supongan el 40% al 50% de los beneficios y aumentarlo según la inflacción". No se aporta ningún análisis que explique el porque esta es la mejor política para los accionistas de la empresa. Sin embargo la asignación de capitales es crucial para la gestión empresarial. 
+
+:small_orange_diamond: No todos los beneficios se crean del mismo modo. En muchas empresas la inflacción es la causa de gran parte de los beneficios. La parte de este tipo de beneficios no puede ser distribuida a traves de dividendos si la empresa quiere mantener su capacidad competitiva.
+
+:small_orange_diamond: Los beneficios pueden ser reinvertidos o distribuidos. Los gestores deben decidir que opción es la mejor para los accionistas de la empresa.
+
+:small_orange_diamond: Cada vez que un dolar de sus beneficios era reinvertido en la empresa se transformara en 0.25$ en valor de mercado, los beneficios eran reinvertidos en vez de ser pagados a los accionistas.
+
+:small_orange_diamond: A los directivos les gusta retener los beneficios que podrian ser distribuidos. Pero solo hay una razon valida para retenerlos: por cada dolar retenido se creara al menos un dolar de valor de mercado para los accionistas. Este solo ocurrira si el capital retenido produce un incremento de beneficios igual o superior al que obtendria el accionista si el mismo invirtiera ese dinero.
+
+:small_orange_diamond: Las empresas excepcionales generan por definición grandes cantidades de dinero. Muchas empresas que obtienen buenos resultados han empleado gran parte de sus beneficios retenidos en proyectos poco rentables. Sin embargo gracias a su excelente actividad central sus beneficios crecen año tras año camuflando repetidos fallos en la asignación de capital (generalmente con la compra a precios elevados de empresas mediocres).
+
+
+
+
+
 
 
 
