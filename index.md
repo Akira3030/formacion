@@ -22,3 +22,4 @@ title: Articulos
 * [Listado de Code smell](articulos/lista-de-code-smells.md)
 * [Ejecutando una aplicación como un servicio](articulos/ejecutando-aplicacion-como-un-servicio.md)
 * [Warrent Buffet - El gobierno de las empresas](articulos/warrent-buffet-gobierno-empresas.md)
+* [Estados y ratios financieros](ratios-financieros-y-estados-financieros.md)
