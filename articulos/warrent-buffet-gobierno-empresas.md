@@ -279,19 +279,37 @@ Es una transferencia de riqueza de EEUU al resto del mundo (1800 millones de dol
 
 :small_orange_diamond: Los beneficios pueden ser reinvertidos o distribuidos. Los gestores deben decidir que opción es la mejor para los accionistas de la empresa.
 
+***
+
 :small_orange_diamond: Cada vez que un dolar de sus beneficios era reinvertido en la empresa se transformara en 0.25$ en valor de mercado, los beneficios eran reinvertidos en vez de ser pagados a los accionistas.
 
 :small_orange_diamond: A los directivos les gusta retener los beneficios que podrian ser distribuidos. Pero solo hay una razon valida para retenerlos: por cada dolar retenido se creara al menos un dolar de valor de mercado para los accionistas. Este solo ocurrira si el capital retenido produce un incremento de beneficios igual o superior al que obtendria el accionista si el mismo invirtiera ese dinero.
 
 :small_orange_diamond: Las empresas excepcionales generan por definición grandes cantidades de dinero. Muchas empresas que obtienen buenos resultados han empleado gran parte de sus beneficios retenidos en proyectos poco rentables. Sin embargo gracias a su excelente actividad central sus beneficios crecen año tras año camuflando repetidos fallos en la asignación de capital (generalmente con la compra a precios elevados de empresas mediocres).
 
+:small_orange_diamond: Los inversores que eviten costes grandes e innesarios y simplemente permanezcan pacientes con una cesta de activos norteamericanos grandes y financiados de forma conservadora lo haran bien con una alta probabilidad.
 
+:small_orange_diamond: Incluso antes de plantear una recompra, el CEO y su consejo de administración debera ponerse de pie, cogerse las manos y declarar al unisono "lo que aun precio es inteligente será estupido a otro precio distinto".
 
+***
 
+:small_orange_diamond: <mark>Si alguna vez hubiese que eregir una estatua por la persona que más ha hecho por los inversores norteamericanos, el elgido, sin duda deberia ser Jack Bogle. Durante decadas Jack ha animado a los inversores a invertir en fondos indexados de bajo coste.</mark>
 
+:small_orange_diamond: Cada década nubes negras empañaran los cielos economicos y brevemente llovera oro de ellas. 
 
+:small_orange_diamond: Cuando una persona con con dinero se encuentra a una persona con experiencia, la quetenia experiencia se queda con el dinero y la que tenia dinero se queda con la experiencia.
 
+:small_orange_diamond: Estoy convencido de que en casi todos los casos los gestores son tanto honestos como inteligentes. Pero los resultado para sus clientes fueron deprimentes. Como Gordon Gekko diría: "las comisiones nunca duermen".
 
+:small_orange_diamond: Hay por supuesto algunos individuos habiles que batiran al S&P con una alta probabilidad a largo plazo. En mi vida no obstante e identificado solo unos diez profesionales que esperaba que cumpliesen con esa hazaña.
+
+***
+
+:small_orange_diamond: El problema es simplemente que la gran mayoria de gestores que intentan batir al mercado fracasarán. 
+
+:small_orange_diamond: <mark>La conclusión: cuatro trillones de dolares son gestionados por agentes de Wall Street cobrando grandes comisiones, seran los gestores los que cosechen grandes beneficios, no los clientes. Tanto los inversores grandes como los pequeños deberian utilizar fondos indexados de bajo coste.</mark>
+
+A lo largo de los años, me han pedido frecuentemente consejo sobre inversiones. Mi recomendación típica ha sido el de un fondo indexado del S&P de bajo coste. 
 
 
 
