@@ -437,6 +437,8 @@ Tuya es la Tierra y todo lo que hay en ella"
  
 :small_orange_diamond: Cuando Charlie Munger y yo compramos acciones -a las que consideramos pequeñas porciones de un negocio- nuestro análisis es muy similar al que usamos al comprar un negocio entero. Primero tenemos que decidir si podemos estimar de forma razonable los beneficios en un plazo de 5 años o más. Si la respuesta es sí, compramos la acción -o negocio- si se vende a un precio razonable en relación con la estimación más baja que hayamos hecho. Si, por el contrario, no podemos estimar los beneficios -que sucede muy a menudo- simplemente pasamos a otra cosa. En los 54 años que hemos trabajado juntos, nunca hemos dejado una inversión atractiva por la macroeconomía o el ambiente político o las ideas de otras personas. De hecho, estos asuntos nunca los tenemos en cuenta al tomar decisiones.
 
+![]({{ site.site_url }}/assets/img/wb3.png)
+
 :small_orange_diamond: <mark>La meta de un no profesional no debe ser elegir a los ganadores -ni él ni sus «ayudadores» pueden hacerlo- sino elegir un paquete de empresas que, en grupo, lo vayan a hacer bien. Un ETF de bajo coste del SP500 valdría para esto.</mark>
 
 :small_orange_diamond: El antídoto para evitar equivocaciones en el momento de compra para un inversor principiante es acumular acciones en el largo plazo y nunca vender cuando las noticias son malas y los precios se arrastran.
