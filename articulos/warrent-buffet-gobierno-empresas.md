@@ -299,6 +299,9 @@ Es una transferencia de riqueza de EEUU al resto del mundo (1800 millones de dol
 
 ***
 
+![]({{ site.site_url }}/assets/img/wb2.png)
+
+
 :small_orange_diamond: <mark>Si alguna vez hubiese que eregir una estatua por la persona que más ha hecho por los inversores norteamericanos, el elgido, sin duda deberia ser Jack Bogle. Durante decadas Jack ha animado a los inversores a invertir en fondos indexados de bajo coste.</mark>
 
 :small_orange_diamond: Cada década nubes negras empañaran los cielos economicos y brevemente llovera oro de ellas. 
