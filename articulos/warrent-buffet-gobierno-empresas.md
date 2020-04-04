@@ -317,6 +317,8 @@ Es una transferencia de riqueza de EEUU al resto del mundo (1800 millones de dol
 Charlie y yo dormimos bien. Ambos creemos que arriesgar lo que tienes y necesitas para obtener aquello
 que a uno no le hace falta es un riesgo descabellado.
 
+***
+
 :small_orange_diamond: Charlie y yo nunca dirigiremos Berkshire de manera que dependa de la bondad de extraños.
 
 :small_orange_diamond: Durante la crisis de 2008-2009, nos gustaba tener Letras del Tesoro – muchas Letras del Tesoro – que nos permitían no tener que depender de fuentes de financiación como líneas de crédito bancarias o efectos comerciales. Hemos construido Berkshire intencionadamente de manera que nos permita resistir cómodamente las discontinuidades económicas, incluyendo escenarios tan radicales como los cierres de bolsas.
@@ -328,6 +330,8 @@ redirigido el exceso de fondos de Berkshire hacia activos más productivos.</mar
 
 :small_orange_diamond: <mark>Charlie y yo vemos las acciones que tiene Berkshire como participaciones en negocios, no como símbolos que se compran o se venden en base a patrones en “gráficas”</mark>, los precios “objetivos” de los analistas o las opiniones de expertos que aparecen en medios de comunicación. En cambio, <mark>simplemente creemos que si los negocios de nuestras participadas tienen éxito (como creemos que será) nuestras inversiones también tendrán éxito.</mark> A veces las recompensas serán modestas; ocasionalmente la caja registradora sonará muy fuerte. Y a veces cometeré errores que nos saldrán caros. En general – y con el tiempo – deberíamos obtener resultados razonables. En América, los inversores en acciones tienen el viento a su favor.
 
+***
+
 :small_orange_diamond: La misma Berkshire es un buen ejemplo de cómo la aleatoriedad en los precios en el corto plazo puede oscurecer el crecimiento en el valor a largo plazo. Durante los últimos 53 años, la empresa ha creado valor reinvirtiendo sus beneficios y dejando que el interés compuesto haga su magia. Año tras año, hemos avanzado. Pero las acciones de Berkshire han sufrido cuatro grandes bajadas.
 
 ![]({{ site.site_url }}/assets/img/caidas_bsk.png)
@@ -338,7 +342,20 @@ periodo corto. Aun si el dinero prestado es una pequeña cantidad y sus posicion
 riesgo de manera inmediata por el mercado bajista, su mente puede haber sido desconcertada por los
 titulares aterradores. Y una mente agitada no puede tomar buenas decisiones.
 
-:small_orange_diamond: 
+:small_orange_diamond: La rentabilidad viene, la rentabilidad se va. Las comisiones nunca desaparecen.
+
+:small_orange_diamond: A pesar de que los mercados son generalmente racionales, ocasionalmente hacen locuras. Aprovechar las oportunidades entonces no requiere gran inteligencia, un grado en economía o una familiaridad con la jerga de Wall Street. Lo que los inversores necesitan en ese momento es la habilidad de menospreciar el miedo o el entusiasmo de la muchedumbre y centrarse en unos cuantos fundamentales. Estar dispuesto a parecer poco sofisticado durante un periodo de tiempo sostenido – o incluso parecer estúpido – también es algo esencial.
+
+small_orange_diamond: Medir el riesgo de una inversión por la proporción entre renta variable y renta fija es un error
+terrible para inversores a largo plazo
+
+small_orange_diamond: Ni Charlie ni yo tendremos ni tan solo una pista sobre las preguntas que nos dirigirán. Algunas serán duras, por supuesto, y así es como nos gusta que sea. 
+
+***
+
+small_orange_diamond: Por una buena razón, suelo ensalzar los logros de nuestros gerentes. Forman un equipo de élite que dirige sus negocios como si fuesen el único activo que poseyesen sus familias. También creo que la mentalidad de nuestros managers está tan orientada hacia los accionistas como es posible en el gran universo de empresas cotizadas. La mayoría de nuestros gerentes no tiene necesidades financieras de trabajar. El placer de conseguir grandes logros empresariales es tan importante para ellos como su salario.
+
+
 
 
 
