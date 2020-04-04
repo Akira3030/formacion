@@ -92,7 +92,9 @@ La dificultad de cuantificar con precisión estos factores no implica que se deb
 
 :small_orange_diamond:Las empresas pueden ser mal interpretadas.
 
-:small_orange_diamond:<mark>La falta de conocimieto quue tienen muchs directores generales en cuestiones de asignación de capital no es un problema sin importancia.</mark>
+![]({{ site.site_url }}/assets/img/wb9.png)
+
+:small_orange_diamond:<mark>La falta de conocimiento quue tienen muchos directores generales en cuestiones de asignación de capital no es un problema sin importancia.</mark>
 
 :small_orange_diamond:Participaciones minoritarias de empresas extraordinariamente buenas a unos precios ridículos.
 
