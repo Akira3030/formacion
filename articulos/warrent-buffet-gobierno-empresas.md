@@ -388,9 +388,28 @@ Tuya es la Tierra y todo lo que hay en ella"
 
 :small_orange_diamond: Productividad y prosperidad.
 
-Para ver la conexión os voy a poner un ejemplo dramático: La agricultura. En 1900 América tenía una fuerza laboral de 28 millones de personas. El 40% de ellos trabajaban por aquél entonces en la agricultura. En 1990 el principal cultivo en nuestro país era el maíz. De dedicaban 90 millones de acres a este cultivo y cada acre producía 30 quintales de maíz con una producción total potencial de 2.700 millones de quintales al año.
+:small_orange_diamond: Para ver la conexión os voy a poner un ejemplo dramático: La agricultura. En 1900 América tenía una fuerza laboral de 28 millones de personas. El 40% de ellos trabajaban por aquél entonces en la agricultura. En 1990 el principal cultivo en nuestro país era el maíz. De dedicaban 90 millones de acres a este cultivo y cada acre producía 30 quintales de maíz con una producción total potencial de 2.700 millones de quintales al año.
 
-Llegó el tractor, la irrigación, los fertilizantes, y las semillas de calidad. Hoy tenemos 85 millones de acres de tierra dedicados a cultivar maíz, pero un acre produce 150 quintales y obtenemos una producción potencial de 13 a 14 mil millones de acres al año y este aumento en la producción se logra con sólo 3 millones de agricultores contra los más de 11 millones que se necesitaban en 1900. Hoy sólo necesitamos el 2% de nuestra fuerza laboral dedicada a producir 5 veces más maíz que en 1900.
+:small_orange_diamond: Llegó el tractor, la irrigación, los fertilizantes, y las semillas de calidad. Hoy tenemos 85 millones de acres de tierra dedicados a cultivar maíz, pero un acre produce 150 quintales y obtenemos una producción potencial de 13 a 14 mil millones de acres al año y este aumento en la producción se logra con sólo 3 millones de agricultores contra los más de 11 millones que se necesitaban en 1900. Hoy sólo necesitamos el 2% de nuestra fuerza laboral dedicada a producir 5 veces más maíz que en 1900.
+
+
+:small_orange_diamond: Piensa en lo que dijimos en nuestra carta de 2011, en la cual definíamos la inversión como «la transferencia a otras personas del poder adquisitivo hoy, con la razonable esperanza de recibir más poder adquisitivo -después de impuestos- en el futuro».
+
+:small_orange_diamond: Los inversores, por supuesto, pueden, por su propio comportamiento, hacer que poseer acciones sea muy arriesgado. Y muchos así lo hacen. El trading de forma activa, intentar acertar los movimientos de mercado, una diversificación que no sea adecuada, el innecesario pago de altas comisiones a gestores o a asesores, y el uso de dinero prestado, pueden destruir la respetable rentabilidad que tendría de poseer acciones a largo plazo. 
+
+:small_orange_diamond: De hecho, pedir dinero no tiene hueco en la caja de herramientas del inversor: cualquier cosa puede pasar en los mercados, y ningún asesor, economista, presentador de televisión -y definitivamente ni Charlie, ni yo- puede decirte cuando sucederá el caos. Los que tratan de predecir el mercado llenarán tus oídos, pero no llenarán tu cartera. 
+
+### Carta de Warrent Buffet
+
+
+
+[Warren Buffett: Herencia, legado y secretos de inversión](http://invertirbolsaydinero.com/warren-buffett-herencia-legado-y-secretos-de-inversion/)
+
+«Investment is most intelligent when it is most businesslike.» –Benjamin Graham
+
+
+:small_orange_diamond: Si te fijas en el cambio de precio de tu inversión estás especulando. No hay nada malo en ello. Sin embargo, sé que soy incapaz de especular con éxito y soy escéptico con aquellos que dicen que lo son. La mitad de los que apuestan cuando se lanza una moneda al aire aciertan el resultado; ninguno de ellos tiene posibilidades de ganar si el juego continúa. De hecho, que un activo se haya revalorizado en el pasado nunca es una razón para comprar.
+
 
 
 
