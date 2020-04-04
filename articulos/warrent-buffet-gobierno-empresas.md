@@ -1,4 +1,4 @@
-# Warrent buffett - el gobierno de las empresas
+# Consejos para inversores de Warrent Buffett
 
 ![]({{ site.site_url }}/assets/img/warrent-buffet-img1.jpg)
 
@@ -445,6 +445,10 @@ Tuya es la Tierra y todo lo que hay en ella"
 ![]({{ site.site_url }}/assets/img/0000779748.jpg)
 
 ***
+
+## Continuación de las cartas anuales a los accionistas
+
+:small_orange_diamond: Sin embargo, desde mi perspectiva, el proyecto de diseño arquitectónico más importante de Charlie es el diseño de lo que es hoy Bekshire. La orden que me dio fue simple: Olvida lo que sabes de comprar negocios aceptables a precios excelentes, y compra negocios excelentes a precios razonables.
 
 
 
