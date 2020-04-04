@@ -272,6 +272,8 @@ Es una transferencia de riqueza de EEUU al resto del mundo (1800 millones de dol
 
 :small_orange_diamond: Para los inversores en conjunto, los rendimientos bajan a medida que se incrementa el movimiento.
 
+![]({{ site.site_url }}/assets/img/wb8.png)
+
 :small_orange_diamond: Esperamos que la cotización de la acción se corresponda razonablemente con el valor intrinseco de la empresa. Si es asi, el resultado obtenido por cada accionista sera equivalente a la rentabilidad de la empresa durante el periodo que haya tenido en propiedad la acción.
 
 ***
