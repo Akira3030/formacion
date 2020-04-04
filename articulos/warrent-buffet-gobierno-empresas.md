@@ -346,14 +346,14 @@ titulares aterradores. Y una mente agitada no puede tomar buenas decisiones.
 
 :small_orange_diamond: A pesar de que los mercados son generalmente racionales, ocasionalmente hacen locuras. Aprovechar las oportunidades entonces no requiere gran inteligencia, un grado en economía o una familiaridad con la jerga de Wall Street. Lo que los inversores necesitan en ese momento es la habilidad de menospreciar el miedo o el entusiasmo de la muchedumbre y centrarse en unos cuantos fundamentales. Estar dispuesto a parecer poco sofisticado durante un periodo de tiempo sostenido – o incluso parecer estúpido – también es algo esencial.
 
-small_orange_diamond: Medir el riesgo de una inversión por la proporción entre renta variable y renta fija es un error
+:small_orange_diamond: Medir el riesgo de una inversión por la proporción entre renta variable y renta fija es un error
 terrible para inversores a largo plazo
 
-small_orange_diamond: Ni Charlie ni yo tendremos ni tan solo una pista sobre las preguntas que nos dirigirán. Algunas serán duras, por supuesto, y así es como nos gusta que sea. 
+:small_orange_diamond: Ni Charlie ni yo tendremos ni tan solo una pista sobre las preguntas que nos dirigirán. Algunas serán duras, por supuesto, y así es como nos gusta que sea. 
 
 ***
 
-small_orange_diamond: Por una buena razón, suelo ensalzar los logros de nuestros gerentes. Forman un equipo de élite que dirige sus negocios como si fuesen el único activo que poseyesen sus familias. También creo que la mentalidad de nuestros managers está tan orientada hacia los accionistas como es posible en el gran universo de empresas cotizadas. La mayoría de nuestros gerentes no tiene necesidades financieras de trabajar. El placer de conseguir grandes logros empresariales es tan importante para ellos como su salario.
+:small_orange_diamond: Por una buena razón, suelo ensalzar los logros de nuestros gerentes. Forman un equipo de élite que dirige sus negocios como si fuesen el único activo que poseyesen sus familias. También creo que la mentalidad de nuestros managers está tan orientada hacia los accionistas como es posible en el gran universo de empresas cotizadas. La mayoría de nuestros gerentes no tiene necesidades financieras de trabajar. El placer de conseguir grandes logros empresariales es tan importante para ellos como su salario.
 
 
 
