@@ -389,6 +389,8 @@ Tuya es la Tierra y todo lo que hay en ella"
 
 :small_orange_diamond: Los beneficios que estás compañías retienen y no reparten cómo dividendo suelen ser utilizados para recomprar acciones y por lo tanto nos sirven para aumentar nuestra participación accionarial en las compañías y el porcentaje de beneficios a los que tendremos derecho en un futuro sin tener que gastar un centavo. Además los beneficios retenidos por estas empresas suelen ser invertidos en nuevas oportunidades de negocios que generarán más beneficios. Todo esto nos lleva a pensar que los beneficios por acción de estas cuatro empresas en las que estamos invertidas seguirán creciendo en el tiempo.
 
+![]({{ site.site_url }}/assets/img/wb7.png)
+
 
 :small_orange_diamond: Estamos en año electoral, y los candidatos no dejan de hablar de los problemas que tiene el país y que según ellos sólo ellos pueden solucionar. Cómo resultado muchos americanos piensan que sus hijos ya no vivirán tan bien como lo han hecho ellos.
 
