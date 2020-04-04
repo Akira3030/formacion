@@ -418,8 +418,6 @@ Tuya es la Tierra y todo lo que hay en ella"
 
 :small_orange_diamond: <mark>Si te fijas en el cambio de precio de tu inversión estás especulando.</mark> No hay nada malo en ello. Sin embargo, sé que soy incapaz de especular con éxito y soy escéptico con aquellos que dicen que lo son. La mitad de los que apuestan cuando se lanza una moneda al aire aciertan el resultado; ninguno de ellos tiene posibilidades de ganar si el juego continúa. De hecho, que un activo se haya revalorizado en el pasado nunca es una razón para comprar.
 
-***
-
 :small_orange_diamond: Con mis dos pequeñas inversiones pensé únicamente en lo que producirían mis propiedades y no en sus cambios de precio diarios. Los juegos los ganan los jugadores que se concentran en el campo no aquellos que se fijan en el marcador. Si eres capaz de disfrutar los fines de semana sin mirar los precios de las acciones, prueba a hacerlo también entre semana.
 
 :small_orange_diamond: Crearse opiniones de macroeconomía o escuchar predicciones de macro o del mercado que hacen otros es una pérdida de tiempo. De hecho, es peligroso, porque puede distorsionar la visión de hechos que son realmente importantes -Cuando escucho lo que dicen los tertulianos de TV sobre lo que va a hacer el mercado me acuerdo del mordaz comentario  Mickey Mantle: «No sabes que fácil es este juego hasta que te metes en una cabina de radio/televisión.
@@ -429,8 +427,6 @@ Tuya es la Tierra y todo lo que hay en ella"
 :small_orange_diamond: De hecho, un mercado bajista podría ser beneficioso para un inversor con liquidez si las empresas alcanzan precios razonables con su valor real. Un clima de pánico es un amigo para un inversor y un clima de euforia un enemigo.
  
 :small_orange_diamond: Cuando Charlie Munger y yo compramos acciones -a las que consideramos pequeñas porciones de un negocio- nuestro análisis es muy similar al que usamos al comprar un negocio entero. Primero tenemos que decidir si podemos estimar de forma razonable los beneficios en un plazo de 5 años o más. Si la respuesta es sí, compramos la acción -o negocio- si se vende a un precio razonable en relación con la estimación más baja que hayamos hecho. Si, por el contrario, no podemos estimar los beneficios -que sucede muy a menudo- simplemente pasamos a otra cosa. En los 54 años que hemos trabajado juntos, nunca hemos dejado una inversión atractiva por la macroeconomía o el ambiente político o las ideas de otras personas. De hecho, estos asuntos nunca los tenemos en cuenta al tomar decisiones.
-
-***
 
 :small_orange_diamond: <mark>La meta de un no profesional no debe ser elegir a los ganadores -ni él ni sus «ayudadores» pueden hacerlo- sino elegir un paquete de empresas que, en grupo, lo vayan a hacer bien. Un ETF de bajo coste del SP500 valdría para esto.</mark>
 
@@ -449,6 +445,16 @@ Tuya es la Tierra y todo lo que hay en ella"
 ## Continuación de las cartas anuales a los accionistas
 
 :small_orange_diamond: Sin embargo, desde mi perspectiva, el proyecto de diseño arquitectónico más importante de Charlie es el diseño de lo que es hoy Bekshire. La orden que me dio fue simple: Olvida lo que sabes de comprar negocios aceptables a precios excelentes, y compra negocios excelentes a precios razonables.
+
+### Buffet explica su cambio de estrategia de inversión
+
+:small_orange_diamond: <mark>Mi estrategia cigar-butt funcionó muy bien mientras gestionaba pequeñas cantidades de dinero.</mark> De hecho, las muchas docenas de caladas gratis que di en los 50, hicieron de esa década la mejor de mi vida en lo que a rentabilidad relativa y absoluta se refiere.
+
+Sin embargo, incluso por entonces hice excepciones a las cigar-butts, la más importante fue GEICO. Gracias a una conversación que tuve con Lorimer Davidson en 1951, un hombre maravilloso que después se convertiría en CEO de la empresa, descubrí que era un negocio buenísimo y rápidamente puse el 65% de mi riqueza de por entonces (9.800 dólares) en acciones suyas. La mayoría de las ganancias que tuve en mis primeros años, sin embargo, venían de compañías mediocres que cotizaban a precio de derribo. Ben Graham me enseñó esa técnica, y funcionaba.
+
+Pero una importante debilidad de esta estrategia se me fue descubriendo poco a poco. <mark>Invertir en cigar-butt era escalable sólo hasta cierto punto.</mark> Con mucho dinero, nunca funciona.
+
+
 
 
 
