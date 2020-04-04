@@ -309,7 +309,40 @@ Es una transferencia de riqueza de EEUU al resto del mundo (1800 millones de dol
 
 :small_orange_diamond: <mark>La conclusión: cuatro trillones de dolares son gestionados por agentes de Wall Street cobrando grandes comisiones, seran los gestores los que cosechen grandes beneficios, no los clientes. Tanto los inversores grandes como los pequeños deberian utilizar fondos indexados de bajo coste.</mark>
 
-A lo largo de los años, me han pedido frecuentemente consejo sobre inversiones. Mi recomendación típica ha sido el de un fondo indexado del S&P de bajo coste. 
+:small_orange_diamond: A lo largo de los años, me han pedido frecuentemente consejo sobre inversiones. Mi recomendación típica ha sido el de un fondo indexado del S&P de bajo coste. 
+
+:small_orange_diamond: Las cadenas de los hábitos son demasiado ligeras para que podamos sentirlas, hasta que son demasiado pesadas para que podamos romperlas.
+
+:small_orange_diamond: Nuestra aversión al apalancamiento ha mitigado nuestra rentabilidad a lo largo de los años. Pero
+Charlie y yo dormimos bien. Ambos creemos que arriesgar lo que tienes y necesitas para obtener aquello
+que a uno no le hace falta es un riesgo descabellado.
+
+:small_orange_diamond: Charlie y yo nunca dirigiremos Berkshire de manera que dependa de la bondad de extraños.
+
+:small_orange_diamond: Durante la crisis de 2008-2009, nos gustaba tener Letras del Tesoro – muchas Letras del Tesoro – que nos permitían no tener que depender de fuentes de financiación como líneas de crédito bancarias o efectos comerciales. Hemos construido Berkshire intencionadamente de manera que nos permita resistir cómodamente las discontinuidades económicas, incluyendo escenarios tan radicales como los cierres de bolsas.
+
+:small_orange_diamond: Vistos como un grupo – y excluyendo los ingresos por inversiones – nuestros negocios al margen de las actividades aseguradoras nos han proporcionado un beneficio antes de impuestos de $20 billones en 2017, un aumento de $950 millones frente a 2016. Sobre el 44% de los beneficios de 2017 vinieron de dos filiales. BNSF, nuestro negocio ferrocarril, y Berkshire Hathaway Energy (poseemos el 90,2%).
+
+:small_orange_diamond: El objetivo de Berkshire es incrementar los beneficios del grupo de negocios no aseguradores sustancialmente. Para que esto suceda, necesitaremos hacer una o más adquisiciones enormes. Ciertamente tenemos los recursos para hacerlo. A finales de año Berkshire tenía $116 billones en efectivo y Letras del Tesoro de los Estados Unidos (con un vencimiento medio de 88 días), frente a los $86,4 billones a finales de 2016. <mark>Esta liquidez extraordinaria nos hace ganar una miseria y está bastante por encima del nivel que Charlie y yo queremos que tenga Berkshire. Nuestras sonrisas se ampliarán cuando hayamos
+redirigido el exceso de fondos de Berkshire hacia activos más productivos.</mark>
+
+:small_orange_diamond: <mark>Charlie y yo vemos las acciones que tiene Berkshire como participaciones en negocios, no como símbolos que se compran o se venden en base a patrones en “gráficas”</mark>, los precios “objetivos” de los analistas o las opiniones de expertos que aparecen en medios de comunicación. En cambio, <mark>simplemente creemos que si los negocios de nuestras participadas tienen éxito (como creemos que será) nuestras inversiones también tendrán éxito.</mark> A veces las recompensas serán modestas; ocasionalmente la caja registradora sonará muy fuerte. Y a veces cometeré errores que nos saldrán caros. En general – y con el tiempo – deberíamos obtener resultados razonables. En América, los inversores en acciones tienen el viento a su favor.
+
+:small_orange_diamond: La misma Berkshire es un buen ejemplo de cómo la aleatoriedad en los precios en el corto plazo puede oscurecer el crecimiento en el valor a largo plazo. Durante los últimos 53 años, la empresa ha creado valor reinvirtiendo sus beneficios y dejando que el interés compuesto haga su magia. Año tras año, hemos avanzado. Pero las acciones de Berkshire han sufrido cuatro grandes bajadas.
+
+![]({{ site.site_url }}/assets/img/caidas_bsk.png)
+
+Esta tabla nos muestra el alegato más fuerte que puedo esgrimir en contra de endeudarse para
+poseer acciones. Simplemente no hay manera de decir cuánto pueden llegar a caer las acciones en un
+periodo corto. Aun si el dinero prestado es una pequeña cantidad y sus posiciones no se encuentran en
+riesgo de manera inmediata por el mercado bajista, su mente puede haber sido desconcertada por los
+titulares aterradores. Y una mente agitada no puede tomar buenas decisiones.
+
+:small_orange_diamond: 
+
+
+
+
 
 
 
