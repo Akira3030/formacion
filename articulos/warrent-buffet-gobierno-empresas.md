@@ -332,7 +332,7 @@ redirigido el exceso de fondos de Berkshire hacia activos más productivos.</mar
 
 ***
 
-:small_orange_diamond: La misma Berkshire es un buen ejemplo de cómo la aleatoriedad en los precios en el corto plazo puede oscurecer el crecimiento en el valor a largo plazo. Durante los últimos 53 años, la empresa ha creado valor reinvirtiendo sus beneficios y dejando que el interés compuesto haga su magia. Año tras año, hemos avanzado. Pero las acciones de Berkshire han sufrido cuatro grandes bajadas.
+:small_orange_diamond: La misma Berkshire es un buen ejemplo de cómo la aleatoriedad en los precios en el corto plazo puede oscurecer el crecimiento en el valor a largo plazo. Durante los últimos 53 años, la empresa ha creado valor <mark>reinvirtiendo sus beneficios y dejando que el interés compuesto haga su magia.<mark> Año tras año, hemos avanzado. Pero las acciones de Berkshire han sufrido cuatro grandes bajadas.
 
 ![]({{ site.site_url }}/assets/img/caidas_bsk.png)
 
@@ -354,6 +354,45 @@ terrible para inversores a largo plazo
 ***
 
 :small_orange_diamond: Por una buena razón, suelo ensalzar los logros de nuestros gerentes. Forman un equipo de élite que dirige sus negocios como si fuesen el único activo que poseyesen sus familias. También creo que la mentalidad de nuestros managers está tan orientada hacia los accionistas como es posible en el gran universo de empresas cotizadas. La mayoría de nuestros gerentes no tiene necesidades financieras de trabajar. El placer de conseguir grandes logros empresariales es tan importante para ellos como su salario.
+
+:small_orange_diamond: Los precios de las empresas decentes, no hablemos ya de las espectaculares, están en máximos históricos. Es más, <mark>el precio parece casi irrelevante para un ejercito de optimistas compradores.</mark>
+
+:small_orange_diamond: Cuando llegan los grandes desplomes, ofrecen extraordinarias oportunidades a aquellos que no están atados a la deuda. Y cita algunos versos del célebre poema 'if' de Kipling: 
+
+:small_orange_diamond: "Si puedes mantener la cabeza en su sitio cuando todos a tu alrededor
+la han perdido...
+Si puedes esperar y no cansarte de la espera;
+Si puedes pensar y no hacer de tus pensamientos tu único objetivo;
+Si puedes seguir creyendo en ti mismo cuando todos dudan de ti,
+Tuya es la Tierra y todo lo que hay en ella"
+
+:small_orange_diamond: No os quejéis tanto, vivimos mejor que nunca.
+
+***
+
+:small_orange_diamond: Los niños que están naciendo hoy en EEUU son la cosecha más afortunada de la historia.
+
+
+:small_orange_diamond: Los beneficios que estás compañías retienen y no reparten cómo dividendo suelen ser utilizados para recomprar acciones y por lo tanto nos sirven para aumentar nuestra participación accionarial en las compañías y el porcentaje de beneficios a los que tendremos derecho en un futuro sin tener que gastar un centavo. Además los beneficios retenidos por estas empresas suelen ser invertidos en nuevas oportunidades de negocios que generarán más beneficios. Todo esto nos lleva a pensar que los beneficios por acción de estas cuatro empresas en las que estamos invertidas seguirán creciendo en el tiempo.
+
+:small_orange_diamond: Los beneficios que estás compañías retienen y no reparten cómo dividendo suelen ser utilizados para recomprar acciones y por lo tanto nos sirven para aumentar nuestra participación accionarial en las compañías y el porcentaje de beneficios a los que tendremos derecho en un futuro sin tener que gastar un centavo. Además los beneficios retenidos por estas empresas suelen ser invertidos en nuevas oportunidades de negocios que generarán más beneficios. Todo esto nos lleva a pensar que los beneficios por acción de estas cuatro empresas en las que estamos invertidas seguirán creciendo en el tiempo.
+
+
+:small_orange_diamond: Estamos en año electoral, y los candidatos no dejan de hablar de los problemas que tiene el país y que según ellos sólo ellos pueden solucionar. Cómo resultado muchos americanos piensan que sus hijos ya no vivirán tan bien como lo han hecho ellos.
+
+:small_orange_diamond: Durante los últimos 240 años ha sido un terrible error apostar contra América y aún no ha llegado el momento de hacerlo. La era dorada de América de comercio e innovación continuará y nuestros hijos tendrán vidas mucho mejores a las que tuvieron sus padres.
+
+***
+
+:small_orange_diamond: Cuando los directivos o los banqueros de inversión hablan de cifras cómo el Ebitda cómo medida para valorar un negocio deberíais observar como les crece la nariz.
+
+:small_orange_diamond: Productividad y prosperidad.
+
+Para ver la conexión os voy a poner un ejemplo dramático: La agricultura. En 1900 América tenía una fuerza laboral de 28 millones de personas. El 40% de ellos trabajaban por aquél entonces en la agricultura. En 1990 el principal cultivo en nuestro país era el maíz. De dedicaban 90 millones de acres a este cultivo y cada acre producía 30 quintales de maíz con una producción total potencial de 2.700 millones de quintales al año.
+
+Llegó el tractor, la irrigación, los fertilizantes, y las semillas de calidad. Hoy tenemos 85 millones de acres de tierra dedicados a cultivar maíz, pero un acre produce 150 quintales y obtenemos una producción potencial de 13 a 14 mil millones de acres al año y este aumento en la producción se logra con sólo 3 millones de agricultores contra los más de 11 millones que se necesitaban en 1900. Hoy sólo necesitamos el 2% de nuestra fuerza laboral dedicada a producir 5 veces más maíz que en 1900.
+
+
 
 
 
