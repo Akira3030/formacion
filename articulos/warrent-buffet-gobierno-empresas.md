@@ -2,6 +2,10 @@
 
 ![]({{ site.site_url }}/assets/img/warrent-buffet-img1.jpg)
 
+
+
+
+
 :small_orange_diamond: Aprendimos de B.Granham que la clave del exito en la inversión era la compra de acciones 
 de buenos negocios cuando los precios del mercado eran muy inferiores al valoe empresarial.
 
@@ -206,6 +210,8 @@ Por ejmplo:
 <mark>No nos endeudamos para hacer adquisiciones o realizar operaciones. Somos muy conservadores.</mark>
 
 ***
+
+![]({{ site.site_url }}/assets/img/Captura de pantalla de 2020-04-04 23-51-55.png)
 
 :small_orange_diamond: La piedra angular de nuestro estilo de inversión es el letargo al límite de la pereza.
 
