@@ -338,6 +338,8 @@ que a uno no le hace falta es un riesgo descabellado.
 :small_orange_diamond: El objetivo de Berkshire es incrementar los beneficios del grupo de negocios no aseguradores sustancialmente. Para que esto suceda, necesitaremos hacer una o más adquisiciones enormes. Ciertamente tenemos los recursos para hacerlo. A finales de año Berkshire tenía $116 billones en efectivo y Letras del Tesoro de los Estados Unidos (con un vencimiento medio de 88 días), frente a los $86,4 billones a finales de 2016. <mark>Esta liquidez extraordinaria nos hace ganar una miseria y está bastante por encima del nivel que Charlie y yo queremos que tenga Berkshire. Nuestras sonrisas se ampliarán cuando hayamos
 redirigido el exceso de fondos de Berkshire hacia activos más productivos.</mark>
 
+![]({{ site.site_url }}/assets/img/wb6.png)
+
 :small_orange_diamond: <mark>Charlie y yo vemos las acciones que tiene Berkshire como participaciones en negocios, no como símbolos que se compran o se venden en base a patrones en “gráficas”</mark>, los precios “objetivos” de los analistas o las opiniones de expertos que aparecen en medios de comunicación. En cambio, <mark>simplemente creemos que si los negocios de nuestras participadas tienen éxito (como creemos que será) nuestras inversiones también tendrán éxito.</mark> A veces las recompensas serán modestas; ocasionalmente la caja registradora sonará muy fuerte. Y a veces cometeré errores que nos saldrán caros. En general – y con el tiempo – deberíamos obtener resultados razonables. En América, los inversores en acciones tienen el viento a su favor.
 
 ***
