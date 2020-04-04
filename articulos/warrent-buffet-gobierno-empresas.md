@@ -408,7 +408,27 @@ Tuya es la Tierra y todo lo que hay en ella"
 «Investment is most intelligent when it is most businesslike.» –Benjamin Graham
 
 
-:small_orange_diamond: Si te fijas en el cambio de precio de tu inversión estás especulando. No hay nada malo en ello. Sin embargo, sé que soy incapaz de especular con éxito y soy escéptico con aquellos que dicen que lo son. La mitad de los que apuestan cuando se lanza una moneda al aire aciertan el resultado; ninguno de ellos tiene posibilidades de ganar si el juego continúa. De hecho, que un activo se haya revalorizado en el pasado nunca es una razón para comprar.
+:small_orange_diamond: <mark>Si te fijas en el cambio de precio de tu inversión estás especulando.</mark> No hay nada malo en ello. Sin embargo, sé que soy incapaz de especular con éxito y soy escéptico con aquellos que dicen que lo son. La mitad de los que apuestan cuando se lanza una moneda al aire aciertan el resultado; ninguno de ellos tiene posibilidades de ganar si el juego continúa. De hecho, que un activo se haya revalorizado en el pasado nunca es una razón para comprar.
+
+:small_orange_diamond: Mis ingresos por la granja y el edificio seguirán creciendo durante décadas, probablemente. Aunque las ganancias no sean enormes, <mark>ambas son inversiones sólidas y satisfactorias para el resto de mi vida</mark> y, por tanto, para mis hijos y mis nietos.
+
+:small_orange_diamond: No tienes que ser experto para conseguir resultados satisfactorios en la inversión. Si no eres experto, <mark>debes reconocer tus limitaciones</mark> y seguir aquellas inversiones que puedan funcionar razonablemente bien. Mantén las cosas simples. Cuando te prometan beneficios rápidos di un rápido «no».
+
+:small_orange_diamond: <mark>Concéntrate en el futuro de la productividad del activo en el que estás pensando.</mark> Si no te sientes a gusto estimando los futuros beneficios, olvídate y pasa a otra cosa. Nadie tiene la capacidad de evaluar cada posibilidad de inversión. La omnisciencia no es necesaria, sólo tienes que entender las acciones que tomas.
+
+:small_orange_diamond: <mark>Si te fijas en el cambio de precio de tu inversión estás especulando.</mark> No hay nada malo en ello. Sin embargo, sé que soy incapaz de especular con éxito y soy escéptico con aquellos que dicen que lo son. La mitad de los que apuestan cuando se lanza una moneda al aire aciertan el resultado; ninguno de ellos tiene posibilidades de ganar si el juego continúa. De hecho, que un activo se haya revalorizado en el pasado nunca es una razón para comprar.
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
