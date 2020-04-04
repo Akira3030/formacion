@@ -395,13 +395,13 @@ Tuya es la Tierra y todo lo que hay en ella"
 
 :small_orange_diamond: Piensa en lo que dijimos en nuestra carta de 2011, en la cual definíamos la inversión como «la transferencia a otras personas del poder adquisitivo hoy, con la razonable esperanza de recibir más poder adquisitivo -después de impuestos- en el futuro».
 
+***
+
 :small_orange_diamond: Los inversores, por supuesto, pueden, por su propio comportamiento, hacer que poseer acciones sea muy arriesgado. Y muchos así lo hacen. El trading de forma activa, intentar acertar los movimientos de mercado, una diversificación que no sea adecuada, el innecesario pago de altas comisiones a gestores o a asesores, y el uso de dinero prestado, pueden destruir la respetable rentabilidad que tendría de poseer acciones a largo plazo. 
 
 :small_orange_diamond: De hecho, pedir dinero no tiene hueco en la caja de herramientas del inversor: cualquier cosa puede pasar en los mercados, y ningún asesor, economista, presentador de televisión -y definitivamente ni Charlie, ni yo- puede decirte cuando sucederá el caos. Los que tratan de predecir el mercado llenarán tus oídos, pero no llenarán tu cartera. 
 
 ### Carta de Warrent Buffet
-
-
 
 [Warren Buffett: Herencia, legado y secretos de inversión](http://invertirbolsaydinero.com/warren-buffett-herencia-legado-y-secretos-de-inversion/)
 
@@ -417,6 +417,52 @@ Tuya es la Tierra y todo lo que hay en ella"
 :small_orange_diamond: <mark>Concéntrate en el futuro de la productividad del activo en el que estás pensando.</mark> Si no te sientes a gusto estimando los futuros beneficios, olvídate y pasa a otra cosa. Nadie tiene la capacidad de evaluar cada posibilidad de inversión. La omnisciencia no es necesaria, sólo tienes que entender las acciones que tomas.
 
 :small_orange_diamond: <mark>Si te fijas en el cambio de precio de tu inversión estás especulando.</mark> No hay nada malo en ello. Sin embargo, sé que soy incapaz de especular con éxito y soy escéptico con aquellos que dicen que lo son. La mitad de los que apuestan cuando se lanza una moneda al aire aciertan el resultado; ninguno de ellos tiene posibilidades de ganar si el juego continúa. De hecho, que un activo se haya revalorizado en el pasado nunca es una razón para comprar.
+
+***
+
+:small_orange_diamond: Con mis dos pequeñas inversiones pensé únicamente en lo que producirían mis propiedades y no en sus cambios de precio diarios. Los juegos los ganan los jugadores que se concentran en el campo no aquellos que se fijan en el marcador. Si eres capaz de disfrutar los fines de semana sin mirar los precios de las acciones, prueba a hacerlo también entre semana.
+
+:small_orange_diamond: Crearse opiniones de macroeconomía o escuchar predicciones de macro o del mercado que hacen otros es una pérdida de tiempo. De hecho, es peligroso, porque puede distorsionar la visión de hechos que son realmente importantes -Cuando escucho lo que dicen los tertulianos de TV sobre lo que va a hacer el mercado me acuerdo del mordaz comentario  Mickey Mantle: «No sabes que fácil es este juego hasta que te metes en una cabina de radio/televisión.
+
+:small_orange_diamond: Como hay tanta palabrería sobre los mercados, la economía, los tipos de interés, el comportamiento de los precios de las acciones, etc. <mark>algunos inversores creen que es importante escuchar a los charlatanes y comentaristas</mark> y, lo que es peor, actuar según estos comentarios.
+
+:small_orange_diamond: De hecho, un mercado bajista podría ser beneficioso para un inversor con liquidez si las empresas alcanzan precios razonables con su valor real. Un clima de pánico es un amigo para un inversor y un clima de euforia un enemigo.
+ 
+:small_orange_diamond: Cuando Charlie Munger y yo compramos acciones -a las que consideramos pequeñas porciones de un negocio- nuestro análisis es muy similar al que usamos al comprar un negocio entero. Primero tenemos que decidir si podemos estimar de forma razonable los beneficios en un plazo de 5 años o más. Si la respuesta es sí, compramos la acción -o negocio- si se vende a un precio razonable en relación con la estimación más baja que hayamos hecho. Si, por el contrario, no podemos estimar los beneficios -que sucede muy a menudo- simplemente pasamos a otra cosa. En los 54 años que hemos trabajado juntos, nunca hemos dejado una inversión atractiva por la macroeconomía o el ambiente político o las ideas de otras personas. De hecho, estos asuntos nunca los tenemos en cuenta al tomar decisiones.
+
+***
+
+:small_orange_diamond: <mark>La meta de un no profesional no debe ser elegir a los ganadores -ni él ni sus «ayudadores» pueden hacerlo- sino elegir un paquete de empresas que, en grupo, lo vayan a hacer bien. Un ETF de bajo coste del SP500 valdría para esto.</mark>
+
+:small_orange_diamond: El antídoto para evitar equivocaciones en el momento de compra para un inversor principiante es acumular acciones en el largo plazo y nunca vender cuando las noticias son malas y los precios se arrastran.
+
+:small_orange_diamond: Por tanto, ignora al charlatán, mantén tus costes al mínimo e invierte en acciones como lo harías en una granja.
+
+:small_orange_diamond: Lo que aquí recomiendo es, en esencia, idéntico a lo que he escrito en mi testamento. Mi testamento dice que mi dinero sea entregado a un administrador para beneficio de mi esposa -tengo que usar efectivo para todo lo que dejo en herencia pues mis acciones de Berkshire Hathaway serán distribuidas entre entidades benéficas en los diez años siguientes a que se cierre mi herencia). Mi consejo al administrador no podría ser más simple: <mark>Pon el 10% en bonos gubernamentales a corto plazo y el 90% en ETFs de SP500 de bajo coste.</mark> -Sugiero VDINX de Vanguard-.  Creo que el resultado de esta inversión será mejor que el resultado que obtengan la mayoría de los inversores -ya sean fondos de pensión, instituciones o inversores individuales- que emplean a gestores muy caros.
+
+:small_orange_diamond: No recuerdo cuanto pagué por mi primer libro de El inversor inteligente. Fuese lo que fuese, no haría más que remarcar el proverbio de Ben: Precio es lo que pagas, valor es lo que consigues. De todas las inversiones que he hecho, comprar el libro de Ben fue la mejor.
+
+![]({{ site.site_url }}/assets/img/0000779748.jpg)
+
+***
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
 
 
 
