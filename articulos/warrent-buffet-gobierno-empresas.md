@@ -454,6 +454,13 @@ Sin embargo, incluso por entonces hice excepciones a las cigar-butts, la más im
 
 Pero una importante debilidad de esta estrategia se me fue descubriendo poco a poco. <mark>Invertir en cigar-butt era escalable sólo hasta cierto punto.</mark> Con mucho dinero, nunca funciona.
 
+Sin embargo, desde mi perspectiva, el proyecto de diseño arquitectónico más importante de Charlie es el diseño de lo que es hoy Bekshire. La orden que me dio fue simple: <mark>Olvida lo que sabes de comprar negocios aceptables a precios excelentes, y compra negocios excelentes a precios razonables.</mark>
+
+Adicionalmente, viendo a See´s en acción, adquirí una formación sobre negocios y sobre el valor de las marcas poderosas que abrió mis ojos a otras muchas inversiones rentables.
+
+
+
+
 
 
 
