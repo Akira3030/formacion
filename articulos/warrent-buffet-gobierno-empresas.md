@@ -321,6 +321,8 @@ Es una transferencia de riqueza de EEUU al resto del mundo (1800 millones de dol
 
 :small_orange_diamond: El problema es simplemente que la gran mayoria de gestores que intentan batir al mercado fracasarán. 
 
+![]({{ site.site_url }}/assets/img/wb10.png)
+
 :small_orange_diamond: <mark>La conclusión: cuatro trillones de dolares son gestionados por agentes de Wall Street cobrando grandes comisiones, seran los gestores los que cosechen grandes beneficios, no los clientes. Tanto los inversores grandes como los pequeños deberian utilizar fondos indexados de bajo coste.</mark>
 
 :small_orange_diamond: A lo largo de los años, me han pedido frecuentemente consejo sobre inversiones. Mi recomendación típica ha sido el de un fondo indexado del S&P de bajo coste. 
