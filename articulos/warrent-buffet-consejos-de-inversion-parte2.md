@@ -52,6 +52,8 @@ Comprar Berkshire (1965): fabricación textil. sabia que el precio era barato. E
 
 :small_orange_diamond: Aprendimos a meternos en negocios solo con gente que me gusta en la que confio y admiro. Nunca hemos tenido exito en los negocios con malas personas.
 
+![]({{ site.site_url }}/assets/img/wb15.png)
+
 :small_orange_diamond: <mark>El imperio institucional. Yo pensaba que los gestores decentes, inteligentes y experimentados tomaban decisiones  automaticamente racionale. Pero no es así, la racionalidad se degrada cuando el imperativo entra en juego:</mark>
 Por ejmplo:
 1. Una organización se resiste a cualquier cambio en su dirección actual.
