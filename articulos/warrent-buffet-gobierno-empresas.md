@@ -38,6 +38,8 @@ Desmitificar los dogmas aceptados.
 
 :small_orange_diamond:Cuando tenemos participaciones de empresas excepcionales con gestores excelentes, preferimos conservar nuestras acciones para siempre.
 
+![]({{ site.site_url }}/assets/img/wb13.png)
+
 :small_orange_diamond:<mark>Supone una locura vender las acciones de una empresa que es de facil comprensión y excelente a largo plazo. Las acciones de empresas de este tipo son muy dificiles de reemplazar.</mark>
 
 :small_orange_diamond:En la vida de un inversor es muy dificil tomar cientos de buenas inversiones. Hemos adoptado una estrategia que requiere actuar inteligentemente solo en contadas ocasiones.
