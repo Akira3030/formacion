@@ -1,4 +1,11 @@
-# Sitios con información financiera de empresas
+---
+layout: default
+title: "Información financiera"
+---
+
+# Sitios con información financiera
+
+![]({{ site.site_url }}/assets/img/football-1486353_1920_alt_600.jpg)
 
 
 ### Yahoo finanzas
