@@ -3,7 +3,9 @@ layout: default
 title: Tecnología
 ---
 
-# Tecnologia
+![]({{ site.site_url }}/assets/img/board-453758_1920_alt_600.jpg)
+
+# Tecnología
 
 * [Python - Entorno Virtual](articulos/python-entorno-virtual.md) :snake:
 * [Python - Writing faster](articulos/written-faster-python.md) :snake:
