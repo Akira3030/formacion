@@ -11,8 +11,11 @@ title: "Información financiera"
 ### Yahoo finanzas
 [Yahoo finanzas](https://es.finance.yahoo.com/)
 
+### Finviz - financial visualizations
+[Finviz](https://finviz.com/)
+
 ### Investing
-[Investi2.ng](https://www.investing.com/)
+[Investing.ng](https://www.investing.com/)
 
 ### Morningstar
 [Morningstar](https://www.morningstar.es)
