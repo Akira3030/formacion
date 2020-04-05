@@ -9,22 +9,16 @@ title: "Información financiera"
 
 
 ### Yahoo finanzas
-[Yahoo finanzas](https://es.finance.yahoo.com/)
-
-[Ejemplo de uso](https://www.youtube.com/watch?v=3XC6mfo-CQ4)
+[Yahoo finanzas](https://es.finance.yahoo.com/) --> [Ejemplo de uso](https://www.youtube.com/watch?v=3XC6mfo-CQ4)
 
 ### Finviz - financial visualizations
-[Finviz](https://finviz.com/)
-
-[Ejemplo de uso](https://www.youtube.com/watch?v=3XC6mfo-CQ4)
+[Finviz](https://finviz.com/) --> [Ejemplo de uso](https://www.youtube.com/watch?v=3XC6mfo-CQ4)
 
 ### Investing
 [Investing](https://www.investing.com/)
 
 ### Morningstar
-[Morningstar](https://www.morningstar.es)
-
-[Ejemplo de uso](https://www.youtube.com/watch?v=cZvosqnOjw0)
+[Morningstar](https://www.morningstar.es) --> [Ejemplo de uso](https://www.youtube.com/watch?v=cZvosqnOjw0)
 
 ### Value investors club - VIC
 [Value investors club - VIC](https://www.valueinvestorsclub.com/ideas)
