@@ -1,29 +1,29 @@
 # Sitios con información financiera de empresas
 
 
-### Yahoo finanzas
+### 1.Yahoo finanzas
 [Yahoo finanzas](https://es.finance.yahoo.com/)
 
 ### Investing
-[Investing](https://www.investing.com/)
+[Investi2.ng](https://www.investing.com/)
 
-### Morningstar
+### 3.Morningstar
 [Morningstar](https://www.morningstar.es)
 
 [Ejemplo de uso](https://www.youtube.com/watch?v=cZvosqnOjw0)
 
-### Value investors club - VIC
+### 4.Value investors club - VIC
 [Value investors club - VIC](https://www.valueinvestorsclub.com/ideas)
 
-### Value Line - VL
+### 5.Value Line - VL
 [Value Line - VL](https://www.valueline.com/)
 
-### Value Investor Insight
+### 6.Value Investor Insight
 [Value Investor Insight](https://valueinvestorinsight.com/)
 
-### Guru Focus
+### 7.Guru Focus
 [Gurufocus](https://www.gurufocus.com)
 
-### Nasdaq
+### 8.Nasdaq
 [Nasdaq](https://www.nasdaq.com/)
 
