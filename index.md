@@ -7,6 +7,8 @@ title: Articulos
 
 ![]({{ site.site_url }}/assets/img/architecture-1851117_1920-1_600.jpg)
 
+## Tecnología
+
 * [Python - Entorno Virtual](articulos/python-entorno-virtual.md) :snake:
 * [Python - Writing faster](articulos/written-faster-python.md) :snake:
 * [Python - Flask con Gunicornio y Docker](articulos/python-flask-gunicorn-docker.md) :snake: :muscle: :smile:
@@ -21,5 +23,8 @@ title: Articulos
 * :dart: [Clean architecture](articulos/) :trophy:
 * [Listado de Code smell](articulos/lista-de-code-smells.md)
 * [Ejecutando una aplicación como un servicio](articulos/ejecutando-aplicacion-como-un-servicio.md)
+
+## Inversiones
+
 * [Warrent Buffet - El gobierno de las empresas](articulos/warrent-buffet-gobierno-empresas.md)
 * [Estados y ratios financieros](ratios-financieros-y-estados-financieros.md)
