@@ -185,6 +185,9 @@ Si es compleaja o esta sujeta a continuos cambios no podemos predecir los futuro
 :small_orange_diamond: Errores que cometimos.
 Comprar Berkshire (1965): fabricación textil. sabia que el precio era barato. El enfoque de inversión de la colilla a menos que sea unliquidador de empresas esto es una locura. En una empresa en dificultades tan pronto como se soluciona un problema surge otro (nunca hay solo una cucaracha en la cocina). Hay que venderla rapido. La ventaja se vera erosionada rapidamente. El tiempo es el aliado de los buenos negocios y el enemigo de los mediocres.
 
+
+![]({{ site.site_url }}/assets/img/wb12.png)
+
 :small_orange_diamond: <mark>Los buenos jockeys ganan si montan caballos buenos.</mark>
 
 :small_orange_diamond: Cuando un gestor con una reputación brillante tiene que afrontar un mal negocio, es la reputación del negocio la que permanece intacta.
