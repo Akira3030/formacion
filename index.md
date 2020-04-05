@@ -26,9 +26,9 @@ title: Articulos
 
 ## Inversiones
 
-* [Sitios con información financiera](articulos/inversiones/sitios-con-informacion-financiera.md)
+* [Sitios con información financiera](articulos/inversiones/sitios-con-informacion-financiera.md) :moneybag:
 
-* [Consejos para inversores de Warrent Buffett - parte 1](articulos/inversiones/warrent-buffet-consejos-de-inversion-parte1.md)
-* [Consejos para inversores de Warrent Buffett - parte 2](articulos/inversiones/warrent-buffet-consejos-de-inversion-parte2.md)
-* [Consejos para inversores de Warrent Buffett - parte 3](articulos/inversiones/warrent-buffet-consejos-de-inversion-parte3.md)
+* :dart: [Consejos para inversores de Warrent Buffett - parte 1](articulos/inversiones/warrent-buffet-consejos-de-inversion-parte1.md)
+* :dart: [Consejos para inversores de Warrent Buffett - parte 2](articulos/inversiones/warrent-buffet-consejos-de-inversion-parte2.md)
+* :dart: [Consejos para inversores de Warrent Buffett - parte 3](articulos/inversiones/warrent-buffet-consejos-de-inversion-parte3.md)
 * [Estados y ratios financieros](articulos/inversiones/ratios-financieros-y-estados-financieros.md)
