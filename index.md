@@ -26,7 +26,7 @@ title: Articulos
 
 ## Inversiones
 
-* [](articulos/inversiones/sitios-con-informacion-financiera.md)
+* [Sitios con información financiera](articulos/inversiones/sitios-con-informacion-financiera.md)
 
 * [Consejos para inversores de Warrent Buffett - parte 1](articulos/warrent-buffet-consejos-de-inversion-parte1.md)
 * [Consejos para inversores de Warrent Buffett - parte 2](articulos/warrent-buffet-consejos-de-inversion-parte2.md)
