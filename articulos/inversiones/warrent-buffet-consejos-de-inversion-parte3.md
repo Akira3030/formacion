@@ -1,4 +1,4 @@
-# Consejos para inversores de Warrent Buffett (Parte3)
+# Consejos para inversores de Warrent Buffett (parte 3)
 
 ![]({{ site.site_url }}/assets/img/warrent-buffet-img1.jpg)
 
