@@ -442,6 +442,8 @@ Tuya es la Tierra y todo lo que hay en ella"
 
 :small_orange_diamond: Crearse opiniones de macroeconomía o escuchar predicciones de macro o del mercado que hacen otros es una pérdida de tiempo. De hecho, es peligroso, porque puede distorsionar la visión de hechos que son realmente importantes -Cuando escucho lo que dicen los tertulianos de TV sobre lo que va a hacer el mercado me acuerdo del mordaz comentario  Mickey Mantle: «No sabes que fácil es este juego hasta que te metes en una cabina de radio/televisión.
 
+![]({{ site.site_url }}/assets/img/wb11.png)
+
 :small_orange_diamond: Como hay tanta palabrería sobre los mercados, la economía, los tipos de interés, el comportamiento de los precios de las acciones, etc. <mark>algunos inversores creen que es importante escuchar a los charlatanes y comentaristas</mark> y, lo que es peor, actuar según estos comentarios.
 
 :small_orange_diamond: De hecho, un mercado bajista podría ser beneficioso para un inversor con liquidez si las empresas alcanzan precios razonables con su valor real. Un clima de pánico es un amigo para un inversor y un clima de euforia un enemigo.
