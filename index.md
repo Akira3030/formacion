@@ -31,4 +31,6 @@ title: Articulos
 * :dart: [Consejos para inversores de Warrent Buffett - parte 1](articulos/inversiones/warrent-buffet-consejos-de-inversion-parte1.md)
 * :dart: [Consejos para inversores de Warrent Buffett - parte 2](articulos/inversiones/warrent-buffet-consejos-de-inversion-parte2.md)
 * :dart: [Consejos para inversores de Warrent Buffett - parte 3](articulos/inversiones/warrent-buffet-consejos-de-inversion-parte3.md)
+* [Vix Índice de volatilidad](articulos/inversiones/VIX-indice-volatilidad.md)
 * [Estados y ratios financieros](articulos/inversiones/ratios-financieros-y-estados-financieros.md)
+
