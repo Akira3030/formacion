@@ -7,3 +7,7 @@
 :small_orange_diamond: Las mejores mentes se encuentran en los libros, no en el salón de clases. Al sumergirse en los libros uno adquiere conocimiento, disciplina y autocontrol.
 
 :small_orange_diamond: Es una locura para un experto diversificar. Generalmente nos enseñan a diversificar para mantener nuestra posición estable, pero para un experto eso no es necesario. Un verdadero experto busca oportunidades y situaciones para invertir, donde es seguro no tener que diversificar.
+
+Las pe:small_orange_diamond: rsonas inteligentes hacen cosas tontas. Es normal que las personas cometan errores, pero en especial las personas inteligentes, lo mejor es saber por qué y cómo las cometieron, para así no repetirlas.
+
+:small_orange_diamond: Invierte en un negocio que cualquier persona “tonta” pueda administrar. Invierte en ese tipo de negocios, ya que en cualquier momento, una persona “tonta” lo terminará haciendo. Si la compañía no es tolerante a errores en la manera de administrar el negocio, esto no llevará a ningún lugar bueno. Lo más importante es que la administración nunca cometa errores, a pesar de que la empresa los pueda soportar por un tiempo.
