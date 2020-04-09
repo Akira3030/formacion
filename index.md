@@ -34,4 +34,4 @@ title: Articulos
 * :dart: [Consejos de inversión de Charlie Munger](articulos/inversiones/charlie-munger-consejos-de-inversion.md)
 * [VIX Índice de volatilidad](articulos/inversiones/VIX-indice-volatilidad.md)
 * [Estados y ratios financieros](articulos/inversiones/ratios-financieros-y-estados-financieros.md)
-* [Enagas]((articulos/negocios/ficha_enagas.png)
+* [Enagas]((articulos/negocios/enagas.md)
