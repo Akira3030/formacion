@@ -35,3 +35,4 @@ title: Articulos
 * [VIX Índice de volatilidad](articulos/inversiones/VIX-indice-volatilidad.md)
 * [Estados y ratios financieros](articulos/inversiones/ratios-financieros-y-estados-financieros.md)
 * [Enagas](articulos/negocios/enagas.md)
+* [Terry Smith - funsmith](articulos/negocios/terry-smith-funsmith.md)
