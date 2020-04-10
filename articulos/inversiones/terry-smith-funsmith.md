@@ -18,6 +18,10 @@ Citando a Charlie Munger dice que es difícil que una acción dé un retorno mej
 
 "El propio Warren Buffett lo ha refutado de manera bastante exhaustiva" y recuerda algunas de sus frases/consejos como "es mejor comprar una empresa maravillosa a un precio justo que una empresa justa a un precio maravilloso".
 
+No hacer nada, minimizar la rotación de la cartera sigue siendo uno de nuestros objetivos ... hemos tenido diez de nuestras compañías de cartera desde su inicio en 2010.
+
+
+
 
 
 
