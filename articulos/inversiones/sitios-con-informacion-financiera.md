@@ -26,7 +26,15 @@ title: "Información financiera"
 ### Morningstar
 [Morningstar](https://www.morningstar.es) --> [Ejemplo de uso](https://www.youtube.com/watch?v=cZvosqnOjw0)
 
-## 2) Sitios con ideas de inversión
+## 2) Sitios con carteras de inversión
+
+### Dataroma 
+
+[Dataroma](https://www.dataroma.com)
+
+[Dataroma Superinvestors](https://www.dataroma.com/m/managers.php) --> [Explicación](https://www.youtube.com/watch?v=5el_BiuyFsA)
+
+## 3) Sitios con ideas de inversión
 
 ### Value investors club - VIC
 [Value investors club - VIC](https://www.valueinvestorsclub.com/ideas)
@@ -40,7 +48,7 @@ title: "Información financiera"
 ### Guru Focus
 [Gurufocus](https://www.gurufocus.com)
 
-## 3) Sitios oficiales
+## 4) Sitios oficiales
 
 ### SEC
 
