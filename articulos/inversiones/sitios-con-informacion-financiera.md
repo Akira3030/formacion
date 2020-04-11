@@ -10,19 +10,14 @@ title: "Información financiera"
 ## 1) Sitios con información financiera
 
 
-### Yahoo finanzas --> [Yahoo finanzas](https://es.finance.yahoo.com/) --> [Ejemplo de uso](https://www.youtube.com/watch?v=3XC6mfo-CQ4)
+[Yahoo finanzas](https://es.finance.yahoo.com/) --> [Ejemplo de uso](https://www.youtube.com/watch?v=3XC6mfo-CQ4)
 
-### Finviz
 [Finviz](https://finviz.com/) --> [Ejemplo de uso](https://www.youtube.com/watch?v=3XC6mfo-CQ4)
-
-### MarketScreener
 
 [MarkerScreener](https://www.marketscreener.com)
 
-### Investing
 [Investing](https://www.investing.com/)
 
-### Morningstar
 [Morningstar](https://www.morningstar.es) --> [Ejemplo de uso](https://www.youtube.com/watch?v=cZvosqnOjw0)
 
 ## 2) Sitios con carteras de inversión
