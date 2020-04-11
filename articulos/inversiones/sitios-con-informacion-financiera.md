@@ -22,9 +22,7 @@ title: "Información financiera"
 
 ## 2) Sitios con carteras de inversión
 
-[Dataroma](https://www.dataroma.com)
-
-[Dataroma Superinvestors](https://www.dataroma.com/m/managers.php) --> [Explicación](https://www.youtube.com/watch?v=5el_BiuyFsA)
+[Dataroma](https://www.dataroma.com) --> [Dataroma Superinvestors](https://www.dataroma.com/m/managers.php) --> [Explicación](https://www.youtube.com/watch?v=5el_BiuyFsA)
 
 ## 3) Sitios con ideas de inversión
 
