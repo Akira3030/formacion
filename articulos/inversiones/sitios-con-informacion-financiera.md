@@ -7,6 +7,8 @@ title: "Información financiera"
 
 ![]({{ site.site_url }}/assets/img/football-1486353_1920_alt_600.jpg)
 
+## Sitios con información financiera
+
 
 ### Yahoo finanzas
 [Yahoo finanzas](https://es.finance.yahoo.com/) --> [Ejemplo de uso](https://www.youtube.com/watch?v=3XC6mfo-CQ4)
@@ -24,6 +26,8 @@ title: "Información financiera"
 ### Morningstar
 [Morningstar](https://www.morningstar.es) --> [Ejemplo de uso](https://www.youtube.com/watch?v=cZvosqnOjw0)
 
+## Sitios con ideas de inversión
+
 ### Value investors club - VIC
 [Value investors club - VIC](https://www.valueinvestorsclub.com/ideas)
 
@@ -35,6 +39,8 @@ title: "Información financiera"
 
 ### Guru Focus
 [Gurufocus](https://www.gurufocus.com)
+
+## Sitios oficiales
 
 ### Nasdaq
 [Nasdaq](https://www.nasdaq.com/)
