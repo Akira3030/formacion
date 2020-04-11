@@ -3,11 +3,11 @@ layout: default
 title: "Información financiera"
 ---
 
-# 1) Sitios con información financiera
+# Sitios con información financiera
 
 ![]({{ site.site_url }}/assets/img/football-1486353_1920_alt_600.jpg)
 
-## Sitios con información financiera
+## 1) Sitios con información financiera
 
 
 ### Yahoo finanzas
