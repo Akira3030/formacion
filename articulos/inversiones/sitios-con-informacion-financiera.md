@@ -13,7 +13,7 @@ title: "Información financiera"
 ### Yahoo finanzas
 [Yahoo finanzas](https://es.finance.yahoo.com/) --> [Ejemplo de uso](https://www.youtube.com/watch?v=3XC6mfo-CQ4)
 
-### Finviz - financial visualizations
+### Finviz
 [Finviz](https://finviz.com/) --> [Ejemplo de uso](https://www.youtube.com/watch?v=3XC6mfo-CQ4)
 
 ### MarketScreener
