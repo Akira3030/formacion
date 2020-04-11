@@ -14,6 +14,10 @@ title: "Información financiera"
 ### Finviz - financial visualizations
 [Finviz](https://finviz.com/) --> [Ejemplo de uso](https://www.youtube.com/watch?v=3XC6mfo-CQ4)
 
+### MarketScreener
+
+[MarkerScreener](https://www.marketscreener.com)
+
 ### Investing
 [Investing](https://www.investing.com/)
 
