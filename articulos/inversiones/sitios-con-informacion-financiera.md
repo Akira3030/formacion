@@ -42,6 +42,11 @@ title: "Información financiera"
 
 ## 3) Sitios oficiales
 
+### SEC
+
+[SEC](https://www.sec.gov/)
+[Buscador de empresas en la SEC](https://www.sec.gov/edgar/searchedgar/companysearch.html)
+
 ### Nasdaq
 [Nasdaq](https://www.nasdaq.com/)
 
