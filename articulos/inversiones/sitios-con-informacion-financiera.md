@@ -3,7 +3,7 @@ layout: default
 title: "Información financiera"
 ---
 
-# Sitios con información financiera
+# 1) Sitios con información financiera
 
 ![]({{ site.site_url }}/assets/img/football-1486353_1920_alt_600.jpg)
 
@@ -26,7 +26,7 @@ title: "Información financiera"
 ### Morningstar
 [Morningstar](https://www.morningstar.es) --> [Ejemplo de uso](https://www.youtube.com/watch?v=cZvosqnOjw0)
 
-## Sitios con ideas de inversión
+## 2) Sitios con ideas de inversión
 
 ### Value investors club - VIC
 [Value investors club - VIC](https://www.valueinvestorsclub.com/ideas)
@@ -40,7 +40,7 @@ title: "Información financiera"
 ### Guru Focus
 [Gurufocus](https://www.gurufocus.com)
 
-## Sitios oficiales
+## 3) Sitios oficiales
 
 ### Nasdaq
 [Nasdaq](https://www.nasdaq.com/)
