@@ -8,6 +8,10 @@
 
 [annual-letter-to-shareholders-2019.pdf](https://www.fundsmith.co.uk/docs/default-source/analysis---annual-letters/annual-letter-to-shareholders-2019.pdf?sfvrsn=6)
 
+Fuente: [Dataroma](https://www.dataroma.com/m/holdings.php?m=FS)
+![]({{ site.site_url }}/assets/img/terry_smith.png)
+
+
 ## Frases 
 
 Los mercados no son perfectos, pero tampoco son completamente ineficientes. La mayoría de las compañías cuyas valoraciones atraen a los inversores value cotizan como lo hacen por una razón: porque no son buenos negocios.
