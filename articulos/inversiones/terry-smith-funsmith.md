@@ -4,12 +4,15 @@
 
 ![]({{ site.site_url }}/assets/img/fundsmith.png)
 
+### Detalle de las inversiones
+
+Fuente: [Dataroma](https://www.dataroma.com/m/holdings.php?m=FS)
+![]({{ site.site_url }}/assets/img/terry_smith.png)
+
 ## Carta anual a los inversores
 
 [annual-letter-to-shareholders-2019.pdf](https://www.fundsmith.co.uk/docs/default-source/analysis---annual-letters/annual-letter-to-shareholders-2019.pdf?sfvrsn=6)
 
-Fuente: [Dataroma](https://www.dataroma.com/m/holdings.php?m=FS)
-![]({{ site.site_url }}/assets/img/terry_smith.png)
 
 
 ## Frases 
