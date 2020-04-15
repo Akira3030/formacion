@@ -7,6 +7,7 @@
 ### Detalle de las inversiones
 
 Fuente: [Dataroma](https://www.dataroma.com/m/holdings.php?m=FS)
+
 ![]({{ site.site_url }}/assets/img/terry_smith.png)
 
 ## Carta anual a los inversores
