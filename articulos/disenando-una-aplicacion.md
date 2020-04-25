@@ -66,15 +66,19 @@ Recordar que lo que buscamos es un diseño facilmente mantenible y facilemente t
 
 
 
-## Tecnologias que usaremos para construir nuestro sistemas
+## Tecnologias que usaremos
 
 ### Ground control system (GCS)
 
 Sistema de control terrestre. Es el sistema central donde el Drone mandara la información y donde los usuarios del sistema podran gestionar las rutas del Drone y podran analizar los datos generados por el mismo.
 
+
+![alt text]({{ site.site_url }}/assets/img/diseño-aplicacion/tecnologias-aplicacion.png)
+
+
+
 Backend: servicios REST implementados en Python usando el framework Flask
 Frontend: se realizara en Reach 
-Persistencia: MySQL o MongoDB
 AWS: como infraestructura se usara Amazon Web Services. 
 
 
