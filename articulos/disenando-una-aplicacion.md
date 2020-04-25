@@ -46,6 +46,14 @@ Recordar que lo que buscamos es un diseño facilmente mantenible y facilemente t
 
 ## Diagrama de clases 
 
+### Principios de diseño
+
+1. Aplicaremos el principio de responsabilidad única de SOLID.
+2. Clases pequeñas y que hagan una única cosa.
+3. Buen Naming en las clases, autoexplicativo.
+(En el naming de las clases no deberiamos usar prefijos y sufijos, esto me lo he saltado)
+
+
 ![alt text]({{ site.site_url }}/assets/img/top-pics/clases-aplicacion-arquitectura.png)
 
 
