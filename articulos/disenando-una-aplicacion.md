@@ -19,10 +19,15 @@ El sistema recorrera una ruta predeterminada y generará y analizará en tiempo 
 ### Funcionalidades principales
 
 1 Crear, modificar y borrar la ruta del drone.
+
 2 Nivel de batería y estado del sistema.
+
 3 Grabar en video la ruta realizada y guardarla en un repositorio de rutas.
+
 4 Analizar video automáticamente en tiempo real.
+
 5 Generar alertas si al analizar las imagenes se detectan situaciones sospechosas.
+
 6 Perfilado de la aplicación según el rol del usuario
 
 
@@ -49,9 +54,12 @@ Recordar que lo que buscamos es un diseño facilmente mantenible y facilemente t
 ### Principios de diseño
 
 1. Aplicaremos el principio de responsabilidad única de SOLID.
+
 2. Clases pequeñas y que hagan una única cosa.
+
 3. Buen Naming en las clases, autoexplicativo.
-(En el naming de las clases no deberiamos usar prefijos y sufijos, esto me lo he saltado)
+
+(En el naming de las clases no deberiamos usar prefijos y sufijos, pero hay estan)
 
 
 ![alt text]({{ site.site_url }}/assets/img/top-pics/clases-aplicacion-arquitectura.png)
