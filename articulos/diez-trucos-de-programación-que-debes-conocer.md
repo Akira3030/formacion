@@ -3,7 +3,7 @@ layout: default
 title: "10 Trucos de programación que debes conocer"
 ---
 
-# :dart: Clean code :trophy:
+# :dart: 10 Trucos de programación que debes conocer :trophy:
 
 ![]({{ site.site_url }}/assets/img/home-office-336373_1920_alt_600.jpg)
 
@@ -12,7 +12,7 @@ title: "10 Trucos de programación que debes conocer"
 - Hacer un código y facilmente legible hace que sea más facilmente mantenible. 
 - Tardaremos menos tiempo en crear nuevos Casos de Uso o Features.
 
-## 2) Para hacer el código más simple Usar clausulas de guarda.
+## 2) Para hacer el código más simple usar clausulas de guarda.
 
 - Hace el código más legible 
 - Nos quitamos bloques if-else que hacen el código farragoso de leer.
