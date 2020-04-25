@@ -1,20 +1,20 @@
-# Ejemplo de diseño de una aplicación: Autonomous Perimeter Surveillance System (APSS)
+# Autonomous Perimeter Surveillance System (APSS)
 
 ![]({{ site.site_url }}/assets/img/office-581131_1920_alt_600.jpg)
 
 ## Requerimientos de negocio
 
-### Problema de negocio a resolver
+### Problema de la empresa a resolver
 
 El sistema APSS resolvera un problema de negocio de la empresa: la seguridad perimetral de sus instalaciones.
  
 En el caso de este ejemplo la empresa DefenseRobots esta teniendo problemas de robos en sus diversas fabricas alrededor del mundo. Para ello van a crear un sistema autonomo que vigile el perimetro de sus fabricas. Con este sistema tendran un ahorro de costes en personal de seguridad.
 
-### Descripción general
+### Descripción general del sistema
 
 El sistema recorrera una ruta predeterminada y generará y analizará en tiempo real una señal de video generada por un Drone. Si en ese análisis se detectan patrones sospechosos (visión artificial) se mandarán alertas a un sistema de gestión de alertas monitorizado 24h por personal de seguridad.
 
-## Toma de equisitos de las necesidades de negocio
+## Requisitos minimos que debe cumplir el sistema
 
 ### Funcionalidades principales
 
