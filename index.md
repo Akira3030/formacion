@@ -23,7 +23,7 @@ title: Articulos
 * :dart: [Clean architecture](articulos/) :trophy:
 * [Listado de Code smell](articulos/lista-de-code-smells.md)
 * [Ejecutando una aplicación como un servicio](articulos/ejecutando-aplicacion-como-un-servicio.md)
-* [Diez trucos de programación que debes conocer](diez-trucos-de-programación-que-debes-conocer.md)
+* [Diez trucos de programación que debes conocer](articulos/diez-trucos-de-programación-que-debes-conocer.md)
 ## Inversiones
 
 * [Sitios con información financiera](articulos/inversiones/sitios-con-informacion-financiera.md) :moneybag:
