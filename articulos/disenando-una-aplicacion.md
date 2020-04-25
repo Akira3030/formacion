@@ -42,7 +42,7 @@ Cada módulo tendra varios Casos de Uso (CU), independientes entre si.
 Recordar que lo que buscamos es un diseño facilmente mantenible y facilemente testeable.
 
 
-![alt text]({{ site.site_url }}/assets/img/sistema-modular.png)
+![alt text]({{ site.site_url }}/assets/img/top-pics/sistema-modular.png)
 
 ## Tecnologias que usaremos para construir nuestro sistemas
 
