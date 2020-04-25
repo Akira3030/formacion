@@ -1,4 +1,4 @@
-# Autonomous Perimeter Surveillance System (APSS)
+
 
 ![]({{ site.site_url }}/assets/img/top-pics/como-disenar-un-sistema.png)
 
