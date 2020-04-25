@@ -1,6 +1,6 @@
 # Autonomous Perimeter Surveillance System (APSS)
 
-![]({{ site.site_url }}/assets/img/office-581131_1920_alt_600.jpg)
+![]({{ site.site_url }}/assets/img/top-pics/como-disenar-un-sistema.png)
 
 ## Requerimientos de negocio
 
