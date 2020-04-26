@@ -47,7 +47,7 @@ Recordar que lo que buscamos es un diseño facilmente mantenible y facilemente t
 
 ![alt text]({{ site.site_url }}/assets/img/top-pics/sistema-modular.png)
 
-## Diagrama de clases 
+## Estructura de clases 
 
 ### Principios de diseño
 
