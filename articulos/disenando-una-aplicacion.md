@@ -86,9 +86,17 @@ AWS: como infraestructura se usara Amazon Web Services.
 
 No seguiremos la estructura de directorios que aconsela el framework. La idea es no acoplarnos al framework.
 
-TO DO
+![alt text]({{ site.site_url }}/assets/img/diseño-aplicacion/directorios-y-clases.png)
+
+
 
 ## Testing
+
+Tests unitarios --> no se refiere a testear una única clase
+
+Tests de integración 
+
+Tests de aceptación
 
 TO DO
 
