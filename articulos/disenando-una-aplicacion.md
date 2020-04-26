@@ -33,9 +33,7 @@ El sistema recorrera una ruta predeterminada y generará y analizará en tiempo 
 
 ## Arquitectura a alto nivel del sistema
 
-
-
-
+![alt text]({{ site.site_url }}/assets/img/top-pics/sistema-aplicacion.png)
 
 
 ## Diseño modular: mantenible y testeable
