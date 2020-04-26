@@ -86,8 +86,7 @@ AWS: como infraestructura se usara Amazon Web Services.
 
 No seguiremos la estructura de directorios que aconsela el framework. La idea es no acoplarnos al framework.
 
-![alt text]({{ site.site_url }}/assets/img/diseño-aplicacion/directorios-y-clases.png)
-
+![alt text]({{ site.site_url }}/assets/img/diseño-aplicacion/clases-aplicacion-2.png
 
 
 ## Testing
