@@ -62,7 +62,11 @@ Recordar que lo que buscamos es un diseño facilmente mantenible y facilemente t
 
 ![alt text]({{ site.site_url }}/assets/img/diseño-aplicacion/clases-aplicacion.png)
 
+Los Controladores van a ser los que interaccionen con las vistas. Recibiran las peticiones HTTP, con el body, las URL, los query params, etc. Estan acoplados al protocolo de comunicación. Tendremos un controlador por cada protocolo de comunicación que tengamos. Este controlador no tendra lógica de negocio y ejecutara el caso de uso especifico.
 
+Los controladores tambien estan acoplados al framework que usemos. Debería ser el único punto de nuestra aplicación que deberia usar clases del framework el resto debe mantenerse puro por si un día cambiamos de framework o aptualizamos la versión del mismo.
+
+ 
 ## Tecnologias que usaremos
 
 ### Ground control system (GCS)
