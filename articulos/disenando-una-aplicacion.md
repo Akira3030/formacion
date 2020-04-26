@@ -69,27 +69,20 @@ Los Controladores van a ser los que interaccionen con las vistas. Recibiran las 
 
 Los controladores tambien estan acoplados al framework que usemos. Debería ser el único punto de nuestra aplicación que deberia usar clases del framework el resto debe mantenerse puro por si un día cambiamos de framework o aptualizamos la versión del mismo.
 
- 
-## Tecnologias que usaremos
-
-### Ground control system (GCS)
-
-Sistema de control terrestre. Es el sistema central donde el Drone mandara la información y donde los usuarios del sistema podran gestionar las rutas del Drone y podran analizar los datos generados por el mismo.
-
-
-![alt text]({{ site.site_url }}/assets/img/diseño-aplicacion/tecnologias-aplicacion.png)
-
-
-
-Backend: servicios REST implementados en Python usando el framework Flask
-Frontend: se realizara en Reach 
-AWS: como infraestructura se usara Amazon Web Services. 
-
 ## Estructura de directorios 
 
 No seguiremos la estructura de directorios que aconsela el framework. La idea es no acoplarnos al framework.
 
 ![alt text]({{ site.site_url }}/assets/img/diseño-aplicacion/clases-aplicacion-2.png)
+
+ 
+## Tecnologias que usaremos
+
+### Ground control system (GCS)
+
+Backend: servicios REST implementados en Python usando el framework Flask
+Frontend: se realizara en Reach 
+AWS: como infraestructura se usara Amazon Web Services. 
 
 
 ## Testing
