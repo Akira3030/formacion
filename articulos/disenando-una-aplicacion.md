@@ -69,6 +69,11 @@ Los Controladores van a ser los que interaccionen con las vistas. Recibiran las 
 
 Los controladores tambien estan acoplados al framework que usemos. Debería ser el único punto de nuestra aplicación que deberia usar clases del framework el resto debe mantenerse puro por si un día cambiamos de framework o aptualizamos la versión del mismo.
 
+### Diseño de la API REST
+
+![alt text]({{ site.site_url }}/assets/img/diseño-aplicacion/http-verbos-aplicacion.png)
+
+
 ## Estructura de directorios 
 
 No seguiremos la estructura de directorios que aconsela el framework. La idea es no acoplarnos al framework.
