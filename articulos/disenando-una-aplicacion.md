@@ -73,7 +73,9 @@ Los controladores tambien estan acoplados al framework que usemos. Debería ser 
 
 Ya que estamos usando como protocolo de comunicaciones HTTP intentaremos ser puristas con el estandar y usar los verbos HTTP correctamente.
 
-![alt text]({{ site.site_url }}/assets/img/diseño-aplicacion/http-verbos-aplicacion.png)
+En principio crearemos un monolito. Esto significa que todos los servicios se ejecutaran en una misma instancia en el servidor y trabajaran todos contra la misma base de datos. Si estuvieramos haciendo una aplicación que va a tener mucha carga de peticios deberiamos romper el monolito.
+
+![alt text]({{ site.site_url }}/assets/img/diseño-aplicacion/api-aplicacion.png)
 
 ## Comunicación entre los servicios
 
