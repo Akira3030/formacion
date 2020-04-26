@@ -69,23 +69,28 @@ Los Controladores van a ser los que interaccionen con las vistas. Recibiran las 
 
 Los controladores tambien estan acoplados al framework que usemos. Debería ser el único punto de nuestra aplicación que deberia usar clases del framework el resto debe mantenerse puro por si un día cambiamos de framework o aptualizamos la versión del mismo.
 
-### Diseño de la API REST
+## Diseño de la API REST
+
+Ya que estamos usando como protocolo de comunicaciones HTTP intentaremos ser puristas con el estandar y usar los verbos HTTP correctamente.
 
 ![alt text]({{ site.site_url }}/assets/img/diseño-aplicacion/http-verbos-aplicacion.png)
+
+## Comunicación entre los servicios
+
+Los servicios estan desacoplados entre si y son consumidos usando llamadas HTTP. ¿Cómo se pueden comunicar los servicios entre si? pues haciendo uso de eventos y colas de mensajes.
 
 
 ## Estructura de directorios 
 
-No seguiremos la estructura de directorios que aconsela el framework. La idea es no acoplarnos al framework.
+No seguiremos la estructura de directorios que aconseja el framework, la idea es no acoplarnos al framework(salvo en la capa controladora).
 
 ![alt text]({{ site.site_url }}/assets/img/diseño-aplicacion/clases-aplicacion-2.png)
-
  
 ## Tecnologias que usaremos
 
 ### Ground control system (GCS)
 
-Backend: servicios REST implementados en Python usando el framework Flask
+Backend: servicios REST (protocolo de comunicaciones HTTP) implementados en Python usando el framework Flask.
 Frontend: se realizara en Reach 
 AWS: como infraestructura se usara Amazon Web Services. 
 
