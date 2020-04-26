@@ -60,8 +60,7 @@ Recordar que lo que buscamos es un diseño facilmente mantenible y facilemente t
 (En el naming de las clases no deberiamos usar prefijos y sufijos, pero hay estan)
 
 
-![alt text]({{ site.site_url }}/assets/img/diseño-aplicacion/clases-aplicacion-arquitectura.png)
-
+![alt text]({{ site.site_url }}/assets/img/diseño-aplicacion/clases-aplicacion.png)
 
 
 ## Tecnologias que usaremos
