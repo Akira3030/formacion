@@ -53,11 +53,14 @@ Recordar que lo que buscamos es un diseño facilmente mantenible y facilemente t
 
 1. Aplicaremos el principio de responsabilidad única de SOLID.
 
-2. Clases pequeñas y que hagan una única cosa.
+2. Clases muy pequeñas y que hagan una única cosa.
 
 3. Buen Naming en las clases, autoexplicativo.
 
-(En el naming de las clases no deberiamos usar prefijos y sufijos, pero hay estan)
+4. Composición por encima de la herencia --> injectar las dependencias en el constructor.
+
+5. En el naming de las clases no deberiamos usar prefijos y sufijos (por ahora nos lo saltamos).
+
 
 
 ![alt text]({{ site.site_url }}/assets/img/diseño-aplicacion/clases-aplicacion.png)
