@@ -79,6 +79,21 @@ Backend: servicios REST implementados en Python usando el framework Flask
 Frontend: se realizara en Reach 
 AWS: como infraestructura se usara Amazon Web Services. 
 
+## Estructura de directorios 
+
+No seguiremos la estructura de directorios que aconsela el framework. La idea es no acoplarnos al framework.
+
+TO DO
+
+## Testing
+
+TO DO
+
+
+## ¿Dónde desplegaremos?
+
+TO DO
+
 
 
 
