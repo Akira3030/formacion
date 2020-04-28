@@ -45,15 +45,27 @@ Recordar que lo que buscamos es un diseño facilmente mantenible y facilemente t
 
 ### Opción 1: monolito
 
+* Es la opción aconsejable cuando se empieza un proyecto por su baja compleajidad.
+
 ![alt text]({{ site.site_url }}/assets/img/diseño-aplicacion/diseño-modular-monolito-aplicacion.png)
 
 ![alt text]({{ site.site_url }}/assets/img/diseño-aplicacion/monolito-aplicacion.png)
 
 ### Opción 2: monolito distribuido
 
+* Monolito distribuido → no hemos roto el monolito, el problema es que siguen usando la misma DB.
+** Hemos aumentado la complejidad, ahora tenemos dos servidores.
+
 ![alt text]({{ site.site_url }}/assets/img/diseño-aplicacion/dos-servidores-aplicacion.png)
 
 ### Opción 3: micro-servicios
+
+* Hemos roto el monolito en n micro-monolitos.
+* Ya no podemos hacer joins, unos servicios llamaran a otros servicios.
+* La complejidad sigue aumentando, tendremos n servidores.
+* Cada módulo puede ser desarrollado por un equipo distinto con su propio repositorio de código.
+* ¿Cómo controlamos el despliegue y el versionado de los n módulos?
+* ¿Qué pasa si tenemos un Caso de Uso mezcla de varios módulos?
 
 ![alt text]({{ site.site_url }}/assets/img/diseño-aplicacion/micro-modulos-aplicacion.png)
 
