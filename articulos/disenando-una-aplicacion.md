@@ -47,6 +47,8 @@ Recordar que lo que buscamos es un diseño facilmente mantenible y facilemente t
 
 ![alt text]({{ site.site_url }}/assets/img/top-pics/diseño-modular-monolito-aplicacion.png)
 
+![alt text]({{ site.site_url }}/assets/img/top-pics/monolito-aplicacion.png)
+
 ### Opción 2: monolito distribuido
 
 ![alt text]({{ site.site_url }}/assets/img/top-pics/dos-servidores-aplicacion.png)
