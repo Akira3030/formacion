@@ -45,17 +45,17 @@ Recordar que lo que buscamos es un diseño facilmente mantenible y facilemente t
 
 ### Opción 1: monolito
 
-![alt text]({{ site.site_url }}/assets/img/top-pics/diseño-modular-monolito-aplicacion.png)
+![alt text]({{ site.site_url }}/assets/img/diseño-aplicacion/diseño-modular-monolito-aplicacion.png)
 
-![alt text]({{ site.site_url }}/assets/img/top-pics/monolito-aplicacion.png)
+![alt text]({{ site.site_url }}/assets/img/diseño-aplicacion/monolito-aplicacion.png)
 
 ### Opción 2: monolito distribuido
 
-![alt text]({{ site.site_url }}/assets/img/top-pics/dos-servidores-aplicacion.png)
+![alt text]({{ site.site_url }}/assets/img/diseño-aplicacion/dos-servidores-aplicacion.png)
 
 ### Opción 3: micro-servicios
 
-![alt text]({{ site.site_url }}/assets/img/top-pics/micro-modulos-aplicacion.png)
+![alt text]({{ site.site_url }}/assets/img/diseño-aplicacion/micro-modulos-aplicacion.png)
 
 ## Estructura de clases 
 
