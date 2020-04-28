@@ -33,7 +33,6 @@ El sistema recorrera una ruta predeterminada y generará y analizará en tiempo 
 
 ## Arquitectura a alto nivel del sistema
 
-![alt text]({{ site.site_url }}/assets/img/diseño-aplicacion/sistema-aplicacion.png)
 
 
 ## Diseño modular: mantenible y testeable
@@ -44,8 +43,17 @@ Cada módulo tendra varios Casos de Uso (CU), independientes entre si.
 
 Recordar que lo que buscamos es un diseño facilmente mantenible y facilemente testeable.
 
+### Opción 1: monolito
 
-![alt text]({{ site.site_url }}/assets/img/top-pics/sistema-modular.png)
+![alt text]({{ site.site_url }}/assets/img/top-pics/diseño-modular-monolito-aplicacion.png)
+
+### Opción 2: monolito distribuido
+
+![alt text]({{ site.site_url }}/assets/img/top-pics/dos-servidores-aplicacion.png)
+
+### Opción 3: micro-servicios
+
+![alt text]({{ site.site_url }}/assets/img/top-pics/micro-modulos-aplicacion.png)
 
 ## Estructura de clases 
 
