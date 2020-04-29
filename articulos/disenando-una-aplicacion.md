@@ -47,16 +47,16 @@ Recordar que lo que buscamos es un diseño facilmente mantenible y facilemente t
 
 * Es la opción aconsejable cuando se empieza un proyecto por su baja compleajidad.
 
-![alt text]({{ site.site_url }}/assets/img/diseño-aplicacion/diseño-modular-monolito-aplicacion.png)
+![alt text]({{ site.site_url }}/assets/img/diseño-aplicacion/modulos1.png)
 
-![alt text]({{ site.site_url }}/assets/img/diseño-aplicacion/monolito-aplicacion.png)
+![alt text]({{ site.site_url }}/assets/img/diseño-aplicacion/monolito1.png)
 
 ### Opción 2: monolito distribuido
 
 * Monolito distribuido → no hemos roto el monolito, el problema es que siguen usando la misma DB.
 ** Hemos aumentado la complejidad, ahora tenemos dos servidores.
 
-![alt text]({{ site.site_url }}/assets/img/diseño-aplicacion/dos-servidores-aplicacion.png)
+![alt text]({{ site.site_url }}/assets/img/diseño-aplicacion/monolito-distribuido.png)
 
 ### Opción 3: micro-servicios
 
@@ -67,7 +67,7 @@ Recordar que lo que buscamos es un diseño facilmente mantenible y facilemente t
 * ¿Cómo controlamos el despliegue y el versionado de los n módulos?
 * ¿Qué pasa si tenemos un Caso de Uso mezcla de varios módulos?
 
-![alt text]({{ site.site_url }}/assets/img/diseño-aplicacion/micro-modulos-aplicacion.png)
+![alt text]({{ site.site_url }}/assets/img/diseño-aplicacion/microservicios1.png)
 
 ## Estructura de clases 
 
@@ -85,7 +85,7 @@ Recordar que lo que buscamos es un diseño facilmente mantenible y facilemente t
 
 
 
-![alt text]({{ site.site_url }}/assets/img/diseño-aplicacion/clases-aplicacion.png)
+![alt text]({{ site.site_url }}/assets/img/diseño-aplicacion/)
 
 Los Controladores van a ser los que interaccionen con las vistas. Recibiran las peticiones HTTP, con el body, las URL, los query params, etc. Estan acoplados al protocolo de comunicación. Tendremos un controlador por cada protocolo de comunicación que tengamos. Este controlador no tendra lógica de negocio y ejecutara el caso de uso especifico.
 
@@ -97,7 +97,7 @@ Ya que estamos usando como protocolo de comunicaciones HTTP intentaremos ser pur
 
 En principio crearemos un monolito. Esto significa que todos los servicios se ejecutaran en una misma instancia en el servidor y trabajaran todos contra la misma base de datos. Si estuvieramos haciendo una aplicación que va a tener mucha carga de peticios deberiamos romper el monolito.
 
-![alt text]({{ site.site_url }}/assets/img/diseño-aplicacion/api-aplicacion.png)
+![alt text]({{ site.site_url }}/assets/img/diseño-aplicacion/)
 
 ## Comunicación entre los servicios
 
@@ -108,7 +108,7 @@ Los servicios estan desacoplados entre si y son consumidos usando llamadas HTTP.
 
 No seguiremos la estructura de directorios que aconseja el framework, la idea es no acoplarnos al framework(salvo en la capa controladora).
 
-![alt text]({{ site.site_url }}/assets/img/diseño-aplicacion/clases-aplicacion-2.png)
+![alt text]({{ site.site_url }}/assets/img/diseño-aplicacion/directorios1.png)
  
 ## Tecnologias que usaremos
 
