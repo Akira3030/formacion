@@ -85,7 +85,7 @@ Recordar que lo que buscamos es un diseño facilmente mantenible y facilemente t
 
 
 
-![alt text]({{ site.site_url }}/assets/img/diseño-aplicacion/)
+![alt text]({{ site.site_url }}/assets/img/diseño-aplicacion/capas1.png)
 
 Los Controladores van a ser los que interaccionen con las vistas. Recibiran las peticiones HTTP, con el body, las URL, los query params, etc. Estan acoplados al protocolo de comunicación. Tendremos un controlador por cada protocolo de comunicación que tengamos. Este controlador no tendra lógica de negocio y ejecutara el caso de uso especifico.
 
@@ -97,7 +97,6 @@ Ya que estamos usando como protocolo de comunicaciones HTTP intentaremos ser pur
 
 En principio crearemos un monolito. Esto significa que todos los servicios se ejecutaran en una misma instancia en el servidor y trabajaran todos contra la misma base de datos. Si estuvieramos haciendo una aplicación que va a tener mucha carga de peticios deberiamos romper el monolito.
 
-![alt text]({{ site.site_url }}/assets/img/diseño-aplicacion/)
 
 ## Comunicación entre los servicios
 
