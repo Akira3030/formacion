@@ -54,7 +54,7 @@ Recordar que lo que buscamos es un diseño facilmente mantenible y facilemente t
 ### Opción 2: monolito distribuido
 
 * Monolito distribuido → no hemos roto el monolito, el problema es que siguen usando la misma DB.
-** Hemos aumentado la complejidad, ahora tenemos dos servidores.
+* Hemos aumentado la complejidad, ahora tenemos dos servidores.
 
 ![alt text]({{ site.site_url }}/assets/img/diseño-aplicacion/monolito-distribuido.png)
 
