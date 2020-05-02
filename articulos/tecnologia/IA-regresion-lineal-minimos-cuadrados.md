@@ -54,6 +54,7 @@ Es la base del analisisi estadístico y el machine learning (o aprendizaje autom
 ## Referencias
 
  [Modelos para entender una realidad caótica](https://www.youtube.com/watch?v=Sb8XVheowVQ)
+ 
  [Regresión Lineal y Mínimos Cuadrados Ordinarios](https://www.youtube.com/watch?v=k964_uNn3l0)
 
 
