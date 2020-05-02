@@ -44,10 +44,19 @@ Tenemos que definir una función de error para ver como nuestro modelo se ajusta
 Vamos ajustando los parametros del modelo en un proceso que se denomina optimización y que normalmente se le llama entrenamiento o ajuste del modelo 
 
 
-### Aprendizaje supervisado y no supervisado
+## Aprendizaje supervisado y no supervisado
 
 
-### Regresión lineal
+## Regresión lineal
+
+Es la base del analisisi estadístico y el machine learning (o aprendizaje automático)
+
+## Referencias
+
+ [Modelos para entender una realidad caótica](https://www.youtube.com/watch?v=Sb8XVheowVQ)
+ [Regresión Lineal y Mínimos Cuadrados Ordinarios](https://www.youtube.com/watch?v=k964_uNn3l0)
+
+
 
 
 
