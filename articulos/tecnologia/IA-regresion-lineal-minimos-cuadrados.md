@@ -49,7 +49,62 @@ Vamos ajustando los parametros del modelo en un proceso que se denomina optimiza
 
 ## Regresión lineal
 
-Es la base del analisisi estadístico y el machine learning (o aprendizaje automático)
+Es la base del analisisi estadístico y el machine learning (o aprendizaje automático).
+
+Tenemos una realidad compleja que queremos comprender y la hemos 
+
+## Redes neuronales
+Ejemplos de uso:
+* Reconocimiento de caracteres
+* Reconocimiento de imagenes
+* Reconocimiento de voz
+* Traducción de idiomas
+* Generación de testos
+* Prevención de fraude
+* Conducción autonoma
+* Análisis genético
+* Pronostico de enfermedades
+* Sistemas de clasificación de objetos
+
+Modelamos comportamientos inteligentes
+
+### La neurona
+
+La unidad básica de procesamiento que nos vamos a encontrar en una red neuronal.
+
+Tiene conexiones de entrada a traves de los cuales recibe extimulos externos (los valores de entrada).
+
+Con estos valores la neurona realizara unos calculos internos y generara una salida.
+
+La neurona es una función matemática.
+
+La neurona realizar una suma ponderada de los valores de entrada. A cada conexión de entrada se le asigna un peso (valor que indica como afecta cada entrada a la neurona). Estos pesos son los parametros de nuestro modelo y seran los valores que podemos ajustar para que nuestra red neuronal pueda aprender.
+
+y = w1x1 + w2x2 + w3x3 + b --> es algo asi como una regresión lineal, una recta a la que podemos cambiar la pendiente variando los parametros. Al variar el termino independiente la recta cambia de valor en el eje y. A ese valor se le denomina sesgo o bias.
+
+Variables binarias: solo pueden contener valores 0 o 1
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 ## Referencias
 
