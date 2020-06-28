@@ -3,14 +3,16 @@
 ![]({{ site.site_url }}/assets/img/warrent-buffet-img1.jpg)
 
 :small_orange_diamond: Aprendimos de B.Granham que la clave del exito en la inversión era la compra de acciones 
-de buenos negocios cuando los precios del mercado eran muy inferiores al valoe empresarial.
+de buenos negocios cuando los precios del mercado eran muy inferiores al valor empresarial.
 
-:small_orange_diamond: Un inversior puede tener exito combiando una buena evaluación de las empresas con la habilidad
-de aislar su pensamiento y forma de actuar de as emociones super contagiosas que se arremolinan 
+:small_orange_diamond: Tu objetivo como inversor debe ser comprar, a precios razonables, negocios que puedas entender y cuyos beneficios vayan a ser sustancialmente mayores en 10 años. Encontrarás pocas compañías que cumplan esto y cuando aparezcan, invierte con fuerza y sin dudar
+
+:small_orange_diamond: Un inversor puede tener exito combinando una buena evaluación de las empresas con la habilidad
+de aislar su pensamiento y forma de actuar de las emociones super contagiosas que se arremolinan 
 en los mercados.
 
 
-:small_orange_diamond: <mark>Dejemos que sean los resultados operativos los qeu digan que nuestras inversiones son exitosas.</mark>
+:small_orange_diamond: <mark>Dejemos que sean los resultados operativos los que digan que nuestras inversiones son exitosas.</mark>
 
 :small_orange_diamond: El mercado puede ignorar el exito empresarial durante un tiempo pero a la larga lo confirma.
 
