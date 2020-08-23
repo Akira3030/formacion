@@ -67,7 +67,9 @@ conexion.close()
 ## 6. Archivo de configuración de la BD
 
  Almacenar la configuración de acceso a la base de datos en un archivo .ini (database.ini)
-
+ 
+ 
+database.ini
 ```txt
 [postgresql]
 host=localhost
@@ -77,6 +79,7 @@ password=pimientos44
 port=5432
 ```
 
+config.py
 ```python
 #!/usr/bin/python
 from configparser import ConfigParser
@@ -100,6 +103,8 @@ def config(filename='database.ini', section='postgresql'):
     return db
 ```
 
+
+ejemplo.py
 ```python
 #!/usr/bin/python
 import psycopg2
