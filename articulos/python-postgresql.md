@@ -66,7 +66,7 @@ conexion.close()
 
 ## 6. Archivo de configuración de la BD
 
- Almacenar la configuración de acceso a la base de datos en un archivo .ini
+ Almacenar la configuración de acceso a la base de datos en un archivo .ini (database.ini)
 
 ```txt
 [postgresql]
@@ -75,6 +75,29 @@ database=empleados
 user=neoguias
 password=pimientos44
 port=5432
+```
+
+```python
+#!/usr/bin/python
+from configparser import ConfigParser
+
+
+def config(filename='database.ini', section='postgresql'):
+    # create a parser
+    parser = ConfigParser()
+    # read config file
+    parser.read(filename)
+
+    # get section, default to postgresql
+    db = {}
+    if parser.has_section(section):
+        params = parser.items(section)
+        for param in params:
+            db[param[0]] = param[1]
+    else:
+        raise Exception('Section {0} not found in the {1} file'.format(section, filename))
+
+    return db
 ```
 
 ## 7. Querys
