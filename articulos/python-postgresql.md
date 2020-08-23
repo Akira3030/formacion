@@ -100,23 +100,37 @@ CREATE TABLE table_name (
 
 ### Insertar datos en las tablas
 
+```bash
 INSERT INTO datacamp_courses(course_name, course_instructor, topic)
 VALUES('Deep Learning in Python','Dan Becker','Python');
 INSERT INTO datacamp_courses(course_name, course_instructor, topic)
 VALUES('Joining Data in PostgreSQL','Chester Ismay','SQL');
+```
 
 ### Aptualizar un registro en una tabla
 
+```bash
 UPDATE datacamp_courses SET course_name = 'Joining Data in SQL'
 WHERE course_instructor = 'Chester Ismay';
+```
 
 ### Leer datos de una tabla
 
+```bash
 select * from datacamp_courses;
+```
 
 ### Borrar datos de una tabla
 
+```bash
 delete from datacamp_courses where course_name = 'Deep Learning in Python';
+```
+
+```python
+cur.execute("DELETE FROM parts WHERE part_id = %s", (part_id,))
+# get the number of updated rows
+rows_deleted = cur.rowcount
+```
 
 ### Crear una tabla desde python
 
