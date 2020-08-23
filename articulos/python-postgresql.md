@@ -208,6 +208,27 @@ delete from datacamp_courses where course_name = 'Deep Learning in Python';
 ```
 
 ```python
+cur = con.cursor()
+
+cur.execute("DELETE from STUDENT where ADMISSION=3420;")
+con.commit()
+print("Total deleted rows:", cur.rowcount)
+
+cur.execute("SELECT admission, name, age, course, department from STUDENT")
+rows = cur.fetchall()
+for row in rows:
+    print("ADMISSION =", row[0])
+    print("NAME =", row[1])
+    print("AGE =", row[2])
+    print("COURSE =", row[3])
+    print("DEPARTMENT =", row[4], "\n")
+
+print("Deletion successful")
+con.close()
+```
+
+
+```python
 cur.execute("DELETE FROM parts WHERE part_id = %s", (part_id,))
 # get the number of updated rows
 rows_deleted = cur.rowcount
