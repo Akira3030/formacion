@@ -102,7 +102,7 @@ def config(filename='database.ini', section='postgresql'):
 
 ## 7. Querys
 
-### Creación de tablas
+### 7.1 Creación de tablas
 
 ```bash
 postgres=# CREATE TABLE CRICKETERS (
@@ -132,7 +132,7 @@ CREATE TABLE table_name (
 ```
 
 
-### Insertar datos en las tablas
+### 7.2 Insertar datos en las tablas
 
 ```bash
 INSERT INTO datacamp_courses(course_name, course_instructor, topic)
@@ -141,20 +141,20 @@ INSERT INTO datacamp_courses(course_name, course_instructor, topic)
 VALUES('Joining Data in PostgreSQL','Chester Ismay','SQL');
 ```
 
-### Aptualizar un registro en una tabla
+### 7.3 Aptualizar un registro en una tabla
 
 ```bash
 UPDATE datacamp_courses SET course_name = 'Joining Data in SQL'
 WHERE course_instructor = 'Chester Ismay';
 ```
 
-### Leer datos de una tabla
+### 7.4 Leer datos de una tabla
 
 ```bash
 select * from datacamp_courses;
 ```
 
-### Borrar datos de una tabla
+### 7.5 Borrar datos de una tabla
 
 ```bash
 delete from datacamp_courses where course_name = 'Deep Learning in Python';
@@ -171,7 +171,7 @@ cur.close()
 conn.close()
 ```
 
-### Crear una tabla desde python
+### 7.6 Crear una tabla desde python
 
 ```python
 import psycopg2
