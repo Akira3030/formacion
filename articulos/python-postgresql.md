@@ -82,6 +82,17 @@ port=5432
 ### Creación de tablas
 
 ```bash
+postgres=# CREATE TABLE CRICKETERS (
+   First_Name VARCHAR(255),
+   Last_Name VARCHAR(255),
+   Age INT,
+   Place_Of_Birth VARCHAR(255),
+   Country VARCHAR(255)
+);
+CREATE TABLE
+```
+
+```bash
 CREATE TABLE datacamp_courses(
  course_id SERIAL PRIMARY KEY,
  course_name VARCHAR (50) UNIQUE NOT NULL,
