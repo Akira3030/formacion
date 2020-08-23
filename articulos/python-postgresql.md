@@ -147,6 +147,8 @@ if __name__ == '__main__':
     
 ```
 
+source: https://www.postgresqltutorial.com
+
 ## 7. Querys
 
 ### 7.1 Creación de tablas
