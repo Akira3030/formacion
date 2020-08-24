@@ -33,13 +33,19 @@ echo $DATABASE_URL
 - Un cliente que inicia una conexión con un servidor Postgres puede acceder a los datos de una única base de datos
 - Los usuarios ueden acceder sólo a aquellas bases de datos en las cuales tengan permiso.
 
-### 3.1 Crear la base de datos
+### 3.1 Crear usuario y base de datos
 
 ```bash
-sudo -u postgres psql
+root@miguel:~# su - postgres
+postgres@devuan:~$ psql
 
-postgres=# create database books_store;
+postgres=# create user mypywebapp with password '654321';
+postgres=# create database mypywebapp owner mypywebapp;
+
 postgres=# \q
+postgres@devuan:~$ exit
+logout
+root@miguel:~#
 ```
 
 ### 3.2 Listar la base de datos
