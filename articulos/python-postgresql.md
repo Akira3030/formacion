@@ -13,8 +13,6 @@ title: "Postgresql"
 
 ```bash
 sudo apt-get install postgresql postgresql-contrib
-sudo -u postgres createuser --superuser juan
-sudo -u name_of_user createdb books_store
 ```
 
 ### 1.2 Instalar libreria para python
@@ -41,6 +39,15 @@ echo $DATABASE_URL
 
 ### 3.1 Crear usuario y base de datos
 
+Desde linea de comandos
+```bash
+# Crear base de datos
+sudo -u postgres createuser --superuser juan
+# Crear usuario
+sudo -u name_of_user createdb books_store
+```
+
+Desde la herramienta psql
 ```bash
 root@miguel:~# su - postgres
 postgres@devuan:~$ psql
