@@ -9,11 +9,17 @@ title: "Postgresql"
 
 ## 1. Instalar PostgreSQL en local
 
+1.1 Instalar PostgreSQL en el sistema 
+
 ```bash
 sudo apt-get install postgresql postgresql-contrib
 sudo -u postgres createuser --superuser juan
 sudo -u name_of_user createdb books_store
+```
 
+1.2 Instalar libreria para python
+
+```bash
 sudo pip install psycopg2
 pip install pygresql
 ```
