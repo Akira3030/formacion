@@ -26,10 +26,49 @@ export DATABASE_URL="postgresql://localhost/books_store"
 echo $DATABASE_URL
 ```
 
-## 3. psql
+## 3. Crear la base de datos (usando la herramienta psql)
+
+- Un servidor de bases de datos PostgreSQL puede contener una o más bases de datos. 
+- Los usuarios y grupos se comparten entre todas las bases de datos. 
+- Un cliente que inicia una conexión con un servidor Postgres puede acceder a los datos de una única base de datos
+- Los usuarios ueden acceder sólo a aquellas bases de datos en las cuales tengan permiso.
+
+3.1 Crear la base de datos
 
 ```bash
 sudo -u postgres psql
+
+postgres=# create database books_store;
+postgres=# \q
+```
+
+3.2 Listar la base de datos
+
+```bash
+postgres=# \l
+postgres=# \q
+```
+Saldran tres bases de datos del sistema (no eliminar) más las nuestras.
+
+3.3 Estructura de una base de datos
+Nos conectamos a la base de datos
+
+```bash
+psql -U postgres -d moodle
+# conectarse a la base de datos moodle
+postgres=# \c moodle
+# lista las tablas de la base de datos moodle
+moodle=# \dt
+# listar campos de la tabla table1 de la base de datos moodle
+moodle=# \d table1
+```
+
+
+3.4 Eliminar base de datos
+
+```bash
+sudo -u postgres psql
+
 postgres=# create database books_store;
 postgres=# create user juan with encrypted password 'mypass';
 postgres=# grant all privileges on database books_store to juan;
@@ -37,6 +76,8 @@ postgres=# grant all privileges on database books_store to juan;
 postgres=# alter user <username> with encrypted password '<password>';
 postgres=# grant all privileges on database <dbname> to <username>;
 ```
+
+
 
 ## 4. Queys
 
