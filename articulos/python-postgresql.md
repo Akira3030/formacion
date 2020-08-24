@@ -39,8 +39,8 @@ echo $DATABASE_URL
 root@miguel:~# su - postgres
 postgres@devuan:~$ psql
 
-postgres=# create user mypywebapp with password '654321';
-postgres=# create database mypywebapp owner mypywebapp;
+postgres=# create user userA with password '12345678';
+postgres=# create database databaseA owner userA;
 
 postgres=# \q
 postgres@devuan:~$ exit
@@ -48,7 +48,13 @@ logout
 root@miguel:~#
 ```
 
-### 3.2 Listar la base de datos
+Cambiar password a un usuario
+
+```bash
+ALTER USER userA WITH PASSWORD '12345678';
+```
+
+### 3.2 Listar bases de datos
 
 ```bash
 postgres=# \l
