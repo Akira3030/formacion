@@ -46,3 +46,7 @@ title: "Información financiera"
 
 [CNMV](https://www.cnmv.es)
 
+## 5) Otros
+
+[Hilo de twitter con enlaces a herramientas](https://twitter.com/sergiofallacf/status/1299311363874004998)
+
